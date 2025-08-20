@@ -16283,7 +16283,7 @@
         ],
         "ram_type": "DDR4",
         "sata_slot": 4,
-        "socket": "ProcessorsLGA",
+        "socket": "LGA1700",
         "wireless": true
     },
     {
@@ -16322,7 +16322,7 @@
         ],
         "ram_type": "DDR5",
         "sata_slot": 4,
-        "socket": "ProcessorsLGA",
+        "socket": "LGA1700",
         "wireless": true
     },
     {
@@ -16403,7 +16403,7 @@
         ],
         "ram_type": "DDR5",
         "sata_slot": 4,
-        "socket": "ProcessorsLGA",
+        "socket": "LGA1700",
         "wireless": true
     },
     {
@@ -19069,7 +19069,7 @@
         ],
         "ram_type": "DDR4",
         "sata_slot": 4,
-        "socket": "ProcessorsLGA",
+        "socket": "LGA1700",
         "wireless": false
     },
     {
@@ -19108,7 +19108,7 @@
         ],
         "ram_type": "DDR5",
         "sata_slot": 4,
-        "socket": "ProcessorsLGA",
+        "socket": "LGA1700",
         "wireless": false
     },
     {
