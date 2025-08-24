@@ -272,7 +272,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "245",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DQOm7N4KNYEJw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0HGPaN585zXJ8dCVVHEn%2B9G3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOptmu8Znb9ohmNdbnPSN2zqXZGEBa4ZWGryoWp9JMRrWEPUVM9oz4zN6kOLhfbuQFDLoqzmAaKe24bosENYiHxzPpUAjxpxu0TZaphlMzRtkhm7pd6YFL1qf389GtiWo0aJn5AyUbPoV\u0026union_lens=lensId%3AMAPI%401751485352%402136518f_0e69_197cca98ad3_ab2e%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D78tata3EmFRw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0EtxgK8dqtTJ34GuNuiwWx23X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOptmu8Znb9ohmNdbnPSN2zqT%2BxA6wwJw0VJCaGxodHxwNkKaUBvWE%2FGOND9ZdiqFnTLoqzmAaKe24bosENYiHxzPpUAjxpxu0TZaphlMzRtkhm7pd6YFL1qf389GtiWo0aJn5AyUbPoV\u0026union_lens=lensId%3AMAPI%401755463378%402127d906_0e6e_198b9c566e2_7e7d%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 360,
@@ -1065,7 +1065,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "119.99",
                 "price_link": "https://www.newegg.com/antec-e-atx-full-tower-case-steel-plastic-tempered-glass-computer-case-black-c8/p/N82E16811129306?Item=N82E16811129306\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-kUg..ViE0od0gPozK1Okog\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate"
             }
         ],
@@ -1107,7 +1107,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "248.49",
+                "price": "252.75",
                 "price_link": "https://www.newegg.com/antec-e-atx-full-tower-case-steel-plastic-tempered-glass-computer-case-c8-white/p/N82E16811129307?Item=9SIAD6HK9N4898\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-XpyZLG2wHudPdaxR.7Dy1A\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -1176,7 +1176,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "74.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/antec-atx-mid-tower-steel-plastic-tempered-glass-computer-case-with-3-addressable-rgb-fans-black-df600-flux/p/N82E16811129268?Item=N82E16811129268\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-XY5uvNypkI6FZB9rcx6OwA\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ACRID=1"
             },
             {
@@ -1434,15 +1434,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "188.99",
-                "price_link": "https://www.amazon.com/dp/B0DDNJZK13"
+                "platform": "newegg",
+                "price": "184.99",
+                "price_link": "https://www.newegg.com/antec-e-atx-full-tower-case-steel-plastic-glass-wood-flux-pro-white/p/N82E16811129321?Item=N82E16811129321\u0026ranSiteID=nwUw4CS3F2g-pDIAYuhESZemp6SUidYXiA\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "188.99",
-                "price_link": "https://www.newegg.com/antec-e-atx-full-tower-case-steel-plastic-glass-wood-flux-pro-white/p/N82E16811129321?Item=N82E16811129321\u0026ranSiteID=nwUw4CS3F2g-pDIAYuhESZemp6SUidYXiA\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
+                "price_link": "https://www.amazon.com/dp/B0DDNJZK13"
             }
         ],
         "radiator_support": 120,
@@ -1602,15 +1602,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "114.99",
-                "price_link": "https://www.amazon.com/dp/B07LBXP8KZ"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/antec-atx-mid-tower-performance-series-0-8mm-spcc-plastic-silent-pc-case-black-p101-silent/p/N82E16811129242?Item=N82E16811129242\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-Q9uWnfzEgiQKWA_CTLNEHw\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "119.99",
-                "price_link": "https://www.newegg.com/antec-atx-mid-tower-performance-series-0-8mm-spcc-plastic-silent-pc-case-black-p101-silent/p/N82E16811129242?Item=N82E16811129242\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-Q9uWnfzEgiQKWA_CTLNEHw\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908"
+                "platform": "amazon",
+                "price": "114.99",
+                "price_link": "https://www.amazon.com/dp/B07LBXP8KZ"
             }
         ],
         "radiator_support": 360,
@@ -1751,8 +1751,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "144.99",
-                "price_link": "https://www.newegg.com/antec-e-atx-full-tower-case-steel-plastic-tempered-glass-computer-case-black-performance-1-ft/p/N82E16811129292?Item=N82E16811129292\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-hMqG0Pm4jkgSiAW7jxSwNg\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/antec-e-atx-full-tower-case-steel-plastic-computer-case-black-performance-1-silent/p/N82E16811129305?Item=9SIAD6HK8F5705\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-wcMDgM6wRUc42xFcULJ90w\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID="
             },
             {
                 "region": "US",
@@ -1964,7 +1964,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "69.99",
                 "price_link": "https://www.newegg.com/asus-atx-mid-tower-a31-tg-steel-plastic-tempered-glass-computer-case-black/p/N82E16811173068?Item=N82E16811173068\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-n1DWb5jDZ85Txko5SeTm0w\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -1999,7 +1999,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "69.99",
                 "price_link": "https://www.newegg.com/asus-atx-mid-tower-a31-tg-steel-plastic-tempered-glass-computer-case-white/p/N82E16811173067?Item=N82E16811173067\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-htWE6GQdRRnUSFd8QtQSZQ\u0026ranMID=44583\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -2039,7 +2039,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.97",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/micro-atx-tower-steel-plastic-cases-black-ap201-asus-prime-case-mesh/p/2AM-0033-000F0?Item=2AM-0033-000F0\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-CJWEqUn18DCdkecxm6b1RQ\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             }
         ],
@@ -2202,15 +2202,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "139.99",
-                "price_link": "https://www.amazon.com/dp/B0DJ1VD4JX"
+                "platform": "newegg",
+                "price": "119.99",
+                "price_link": "https://www.newegg.com/asus-atx-mid-tower-proart-pa401-abs-steel-tempered-glass-wood-computer-case-black-pa401-bk-wood-tg/p/N82E16811173066?Item=N82E16811173066\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-BYYVRnLLaGmMQe3LhuA2Dg\u0026ranEAID=3815908\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "139.99",
-                "price_link": "https://www.newegg.com/asus-atx-mid-tower-proart-pa401-abs-steel-tempered-glass-wood-computer-case-black-pa401-bk-wood-tg/p/N82E16811173066?Item=N82E16811173066\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-BYYVRnLLaGmMQe3LhuA2Dg\u0026ranEAID=3815908\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
+                "price_link": "https://www.amazon.com/dp/B0DJ1VD4JX"
             }
         ],
         "radiator_support": 240,
@@ -2274,7 +2274,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1072.79",
+                "price": "1018.78",
                 "price_link": "https://www.newegg.com/asus-e-atx-full-tower-case-aluminum-steel-tempered-glass-abs-plastic-computer-case-black-gr701-rog-hyperion/p/N82E16811173052?Item=9SIAD6HJPM2050\u0026ranSiteID=nwUw4CS3F2g-vfJE_1hfBqeMrm_XBAHe5A\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -2309,7 +2309,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "264.99",
+                "price": "249.99",
                 "price_link": "https://www.newegg.com/asus-atx-mid-tower-abs-aluminum-steel-tempered-glass-computer-case-black-gx601-rog-strix-helios-case-bk-al-with-handle/p/N82E16811173035?Item=N82E16811173035\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-5TAlxwfWqMqnV2JfD9s_GA\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1"
             },
             {
@@ -2349,15 +2349,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "289.99",
-                "price_link": "https://www.amazon.com/dp/B0896Y1K7B"
+                "platform": "newegg",
+                "price": "259.99",
+                "price_link": "https://www.newegg.com/asus-atx-mid-tower-rog-strix-helios-gx601-white-edition-aluminum-tempered-glass-computer-case-white-silver-gx601-rog-strix-helios-case-wt-al-with-handle/p/N82E16811173039?Item=N82E16811173039\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-1mHhzQbiVusiYU0kRRsPZw\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "289.99",
-                "price_link": "https://www.newegg.com/asus-atx-mid-tower-rog-strix-helios-gx601-white-edition-aluminum-tempered-glass-computer-case-white-silver-gx601-rog-strix-helios-case-wt-al-with-handle/p/N82E16811173039?Item=N82E16811173039\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-1mHhzQbiVusiYU0kRRsPZw\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID="
+                "price_link": "https://www.amazon.com/dp/B0896Y1K7B"
             }
         ],
         "radiator_support": 120,
@@ -2424,15 +2424,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "103.99",
-                "price_link": "https://www.amazon.com/dp/B088K5317Z"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asus-atx-mid-tower-steel-tempered-glass-abs-plastic-computer-case-black-gt301-tuf-gaming-case-blk-argb-fan/p/N82E16811173038?Item=N82E16811173038\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-1i14.GrFM8Kx8EsPbv_eEw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "103.99",
-                "price_link": "https://www.newegg.com/asus-atx-mid-tower-steel-tempered-glass-abs-plastic-computer-case-black-gt301-tuf-gaming-case-blk-argb-fan/p/N82E16811173038?Item=N82E16811173038\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-1i14.GrFM8Kx8EsPbv_eEw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
+                "price_link": "https://www.amazon.com/dp/B088K5317Z"
             }
         ],
         "radiator_support": 120,
@@ -2542,15 +2542,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "189.97",
-                "price_link": "https://www.amazon.com/dp/B0BQD5W3N9"
+                "platform": "newegg",
+                "price": "169.99",
+                "price_link": "https://www.newegg.com/asus-atx-mid-tower-steel-plastic-tempered-glass-computer-case-black-gt502-tuf-gaming-case-blk/p/N82E16811173051?Item=N82E16811173051\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-pxo4N2BQHI8VmBbF0mlQ4w\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "189.99",
-                "price_link": "https://www.newegg.com/asus-atx-mid-tower-steel-plastic-tempered-glass-computer-case-black-gt502-tuf-gaming-case-blk/p/N82E16811173051?Item=N82E16811173051\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-pxo4N2BQHI8VmBbF0mlQ4w\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID="
+                "platform": "amazon",
+                "price": "189.97",
+                "price_link": "https://www.amazon.com/dp/B0BQD5W3N9"
             }
         ],
         "radiator_support": 120,
@@ -2653,15 +2653,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "146.99",
-                "price_link": "https://www.newegg.com/asus-atx-mid-tower-steel-plastic-tempered-glass-computer-case-white-gt502-tuf-gaming-case-wht/p/N82E16811173050?Item=N82E16811173050\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-WCoEtNt31XPf39I8z3zP6g\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "146.99",
                 "price_link": "https://www.amazon.com/dp/B0BQD5J39S"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "169.99",
+                "price_link": "https://www.newegg.com/asus-atx-mid-tower-steel-plastic-tempered-glass-computer-case-white-gt502-tuf-gaming-case-wht/p/N82E16811173050?Item=N82E16811173050\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-WCoEtNt31XPf39I8z3zP6g\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM"
             }
         ],
         "radiator_support": 120,
@@ -2848,7 +2848,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "256.99",
+                "price": "219.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-desktop-abs-steel-tempered-glass-cases-black/p/2AM-0037-000B5?Item=2AM-0037-000B5\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-R.apWmYxGASXIP919Mno8A\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -2890,7 +2890,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "267.99",
+                "price": "239.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-steel-abs-plastic-cases-white-bgw59/p/2AM-0037-000B7?Item=2AM-0037-000B7\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-1ijjHYd6HYoqVccYAIOodw\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -2926,7 +2926,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "349.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-dark-base-pro-901-steel-cases-black/p/2AM-0037-000A9?Item=2AM-0037-000A9\u0026ASUBID=\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-LnIvWaA1_WwG68yf2WDNKA\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -2962,7 +2962,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.90",
+                "price": "299.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-dark-base-pro-901-steel-abs-plastic-aluminium-cases-white-bgw51/p/2AM-0037-000B6?Item=2AM-0037-000B6\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-gNU6HJCN5Wth0h8KLhDjwQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -3003,7 +3003,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "139.90",
+                "price": "149.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-steel-abs-glass-case-black-light-base-600-dx/p/N82E16811734008?Item=N82E16811734008\u0026ranSiteID=nwUw4CS3F2g-f7gsRxl2yvcIqMBWTVSqJw\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -3044,7 +3044,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.90",
+                "price": "149.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-steel-abs-glass-case-light-base-600-dx-white/p/N82E16811734010?Item=N82E16811734010\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-EhGU3RNDNpALsmb7Lu4TDg\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -3079,7 +3079,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "178.99",
+                "price": "179.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-abs-steel-tempered-glass-case-black-light-base-600-lx/p/N82E16811734009?Item=N82E16811734009\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-p1YapPZ0z7JRptgS0dibKQ\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -3119,15 +3119,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "199.90",
-                "price_link": "https://www.amazon.com/dp/B0D73RDLJP"
+                "platform": "newegg",
+                "price": "189.90",
+                "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-abs-steel-tempered-glass-case-white-light-base-600-lx/p/N82E16811734011?Item=N82E16811734011\u0026ranSiteID=nwUw4CS3F2g-DDo2.I4Ih2LKCU1h_bXfQw\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "224.90",
-                "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-abs-steel-tempered-glass-case-white-light-base-600-lx/p/N82E16811734011?Item=N82E16811734011\u0026ranSiteID=nwUw4CS3F2g-DDo2.I4Ih2LKCU1h_bXfQw\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
+                "platform": "amazon",
+                "price": "199.90",
+                "price_link": "https://www.amazon.com/dp/B0D73RDLJP"
             }
         ],
         "radiator_support": 120,
@@ -3168,7 +3168,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "204.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-tempered-glass-case-black-light-base-900-dx/p/N82E16811734004?Item=N82E16811734004\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-fy2W_vIWqQLAEopZ3NRjrw\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ACRID=1"
             }
         ],
@@ -3203,15 +3203,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "214.90",
-                "price_link": "https://www.amazon.com/dp/B0DGSN3F7N"
+                "platform": "newegg",
+                "price": "199.99",
+                "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-tempered-glass-case-white-light-base-900-dx/p/N82E16811734006?Item=N82E16811734006\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-AnNpkZqCiJyPSXs2NE0rYw\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "214.90",
-                "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-tempered-glass-case-white-light-base-900-dx/p/N82E16811734006?Item=N82E16811734006\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-AnNpkZqCiJyPSXs2NE0rYw\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID="
+                "price_link": "https://www.amazon.com/dp/B0DGSN3F7N"
             }
         ],
         "radiator_support": 120,
@@ -3246,7 +3246,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "249.00",
+                "price": "239.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-tempered-glass-case-black-light-base-900-fx/p/N82E16811734005?Item=N82E16811734005\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-0M.KgZ1a9Vv1CkMXcp7JxA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1"
             },
             {
@@ -3435,7 +3435,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/be-quiet-atx-micro-atx-mid-tower-pure-base-500dx-abs-steel-tempered-glass-cases-black-bgw37/p/2AM-0037-00071?Item=9SIA68VB0W1038\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-ADHiLzvRBSqJYW7n.IYQsg\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
+                "price_link": "https://www.newegg.com/be-quiet-atx-micro-atx-mid-tower-pure-base-500dx-abs-steel-tempered-glass-cases-black-bgw37/p/2AM-0037-00071?Item=2AM-0037-00071\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-TndY7Fhw5DIMBcUUTC8UAw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "radiator_support": 120,
@@ -3503,15 +3503,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "109.90",
-                "price_link": "https://www.amazon.com/dp/B0DGXR6TTD"
+                "platform": "newegg",
+                "price": "100.99",
+                "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-computer-case-black-pure-base-501-airflow/p/N82E16811734013?Item=N82E16811734013\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-nW2cwCodGnBcV3ToE8adyg\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "110.99",
-                "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-computer-case-black-pure-base-501-airflow/p/N82E16811734013?Item=N82E16811734013\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-nW2cwCodGnBcV3ToE8adyg\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "109.90",
+                "price_link": "https://www.amazon.com/dp/B0DGXR6TTD"
             }
         ],
         "radiator_support": 360,
@@ -3544,15 +3544,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "114.85",
-                "price_link": "https://www.amazon.com/dp/B0DGXQXVSV"
+                "platform": "newegg",
+                "price": "104.90",
+                "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-computer-case-white-pure-base-501-airflow/p/N82E16811734014?Item=N82E16811734014\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-aaxT_9vy6295J6DsysEmqw\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026ASID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "114.90",
-                "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-computer-case-white-pure-base-501-airflow/p/N82E16811734014?Item=N82E16811734014\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-aaxT_9vy6295J6DsysEmqw\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026ASID="
+                "platform": "amazon",
+                "price": "114.85",
+                "price_link": "https://www.amazon.com/dp/B0DGXQXVSV"
             }
         ],
         "radiator_support": 360,
@@ -3586,7 +3586,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "119.90",
+                "price": "109.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-tempered-glass-computer-case-black-pure-base-501-airflow/p/N82E16811734015?Item=N82E16811734015\u0026ranSiteID=nwUw4CS3F2g-DsexdR4_Bjopyz0vhDCzww\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -3627,7 +3627,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.90",
+                "price": "114.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-tempered-glass-computer-case-white-pure-base-501-airflow/p/N82E16811734016?Item=N82E16811734016\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-HEFsAUyI8XQ5SAbdMa1yhg\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -3662,7 +3662,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.90",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/be-quiet-atx-full-tower-abs-steel-computer-case-black-pure-base-501/p/N82E16811734012?Item=N82E16811734012\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-d4xqQY.E5jgK0BPzTBk8lA\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -3767,15 +3767,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "213.99",
-                "price_link": "https://www.amazon.com/dp/B08NW4MK1X"
+                "platform": "newegg",
+                "price": "189.90",
+                "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-silent-base-top-cover-abs-side-panel-steel-side-panel-window-4mm-tempered-glass-steel-front-panel-abs-stands-abs-802-black-window/p/2AM-0037-00075?Item=9SIA68VCKG8197\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-DjXr9gsMoh6d_En5T817LA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "214.90",
-                "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-silent-base-top-cover-abs-side-panel-steel-side-panel-window-4mm-tempered-glass-steel-front-panel-abs-stands-abs-802-black-window/p/2AM-0037-00075?Item=9SIA68VCKG8197\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-DjXr9gsMoh6d_En5T817LA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "platform": "amazon",
+                "price": "213.99",
+                "price_link": "https://www.amazon.com/dp/B08NW4MK1X"
             }
         ],
         "radiator_support": 120,
@@ -3809,15 +3809,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "159.90",
-                "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-silent-base-abs-aluminum-steel-802-black/p/2AM-0037-00073?Item=9SIA68VCKF8599\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-dhB88Zyji9lJ9Uf30.idMQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "159.90",
                 "price_link": "https://www.amazon.com/dp/B08NW5741Z"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "189.90",
+                "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-silent-base-abs-aluminum-steel-802-black/p/2AM-0037-00073?Item=9SIA68VCKF8599\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-dhB88Zyji9lJ9Uf30.idMQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "radiator_support": 0,
@@ -3894,7 +3894,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.90",
+                "price": "204.90",
                 "price_link": "https://www.newegg.com/be-quiet-atx-mid-tower-silent-base-steel-802-white-window/p/2AM-0037-00076?Item=9SIA68VCKG8871\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-faYxEB_GtZIfWEGj5Q2uUg\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ACRID=1\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908"
             }
         ],
@@ -3972,7 +3972,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "352.97",
+                "price": "346.37",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-haf-500-steel-plastic-tempered-glass-computer-case-black-h500-kgnn-s00/p/N82E16811119430?Item=9SIAD6HHK61239\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-dEeHmTrFKazr5kmJ2O3.gA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ASUBID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
             }
         ],
@@ -4050,7 +4050,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "499.99",
+                "price": "349.99",
                 "price_link": "https://www.newegg.com/cooler-master-atx-full-tower-haf700-evo-sgcc-steel-mesh-abs-plastic-tempered-glass-computer-case-titanium-grey-h700e-ignn-s00/p/N82E16811119433?Item=N82E16811119433\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-hqNn41pLOR1lZburZ22BtQ\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1"
             }
         ],
@@ -4259,7 +4259,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "100.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-masterbox-600-exterior-steel-plastic-left-side-panel-tempered-glass-computer-case-white-mb600-wgnn-s00/p/N82E16811119454?Item=N82E16811119454\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-56et3CbAn5UJfvI5MTBpNA\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -4295,7 +4295,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-masterbox-lite-5-argb-steel-plastic-tempered-glass-computer-case-black-mcw-l5s3-kgnn-05/p/N82E16811119325?Item=N82E16811119325\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-sXsI2C1g5Gd6HpdGmbDHdQ\u0026ACRID=1\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-masterbox-mb511-steel-plastic-computer-case-red-mcb-b511d-kann-s00/p/N82E16811119346?Item=9SIAD6H6W54537\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-mOJlF6hMBt_B0NYLyhhYyA\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583"
             }
         ],
         "radiator_support": 120,
@@ -4479,7 +4479,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "426.76",
+                "price": "520.12",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-masterbox-mb511-argb-steel-plastic-tempered-glass-computer-case-black-mcb-b511d-kgnn-rga/p/N82E16811119356?Item=9SIA1K6KAZ9916\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-CXZ29bMYU48DsDiW.dv6Pw\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583"
             }
         ],
@@ -4589,7 +4589,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "67.99",
+                "price": "69.99",
                 "price_link": "https://www.newegg.com/cooler-master-mini-itx-tower-masterbox-nr200-steel-plastic-mesh-computer-case-black-mcb-nr200-knnn-s00/p/N82E16811119407?Item=N82E16811119407\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-4xdDAvIwn6z8ravv_56sPQ\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             }
         ],
@@ -4623,7 +4623,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "69.99",
                 "price_link": "https://www.newegg.com/cooler-master-mini-itx-tower-masterbox-nr200-steel-plastic-mesh-computer-case-white-mcb-nr200-wnnn-s00/p/N82E16811119408?Item=N82E16811119408\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-VmT0w19XvRNOTMxDqNdPpw\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
             },
             {
@@ -5009,7 +5009,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "227.84",
+                "price": "229.77",
                 "price_link": "https://www.newegg.com/cooler-master-mid-tower-masterbox-q500l-steel-plastic-computer-case-black-mcb-q500l-kann-s00/p/N82E16811119370?Item=9SIAD6HKH85767\u0026ranSiteID=nwUw4CS3F2g-VK1RAiC7bBYnrgdLkUJN.Q\u0026ACRID=1\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -5231,7 +5231,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "320.23",
+                "price": "262.11",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-mastercase-h500-argb-steel-plastic-tempered-glass-computer-case-gunmetal-mcm-h500-ignn-s01/p/N82E16811119350?Item=9SIAD6HJN24234\u0026ranSiteID=nwUw4CS3F2g-feiXpCTz7PgYRZjZ7orfMQ\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -5370,7 +5370,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "124.99",
+                "price": "115.99",
                 "price_link": "https://www.newegg.com/cooler-master-mini-itx-exterior-sgcc-steel-mesh-abs-plastic-left-side-panel-1-x-tempered-glass-1-x-steel-computer-case-black-nr200pv2-kcnn-s00/p/N82E16811119450?Item=N82E16811119450\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-wDpp5t6HYWE91E2je.DWPg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
             },
             {
@@ -5449,7 +5449,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "58.99",
+                "price": "38.99",
                 "price_link": "https://www.newegg.com/cooler-master-micro-atx-tower-exterior-steel-plastic-left-side-panel-tempered-glass-computer-case-black-q300lv2-kgnn-s00/p/N82E16811119444?Item=N82E16811119444\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-0I5.S8Flx_Ysw2JgRu1WJg\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
             },
             {
@@ -5491,7 +5491,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "69.99",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-exterior-steel-plastic-tg-left-side-panel-grey-tg-steel-computer-cases-black-q500-kgnn-s00/p/N82E16811119445?Item=N82E16811119445\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-WC20M7BORt8yHwVo5KR70g\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             },
             {
@@ -5533,7 +5533,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "94.99",
+                "price": "79.99",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-exterior-steel-plastic-tg-left-side-panel-grey-tg-steel-computer-cases-mint-pink-cream-q500-dgnn-s00/p/N82E16811119446?Item=N82E16811119446\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-Jhx.TJOf35lfC8K_lVeMtw\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly"
             },
             {
@@ -5575,7 +5575,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "80.99",
+                "price": "86.00",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-exterior-steel-plastic-tg-left-side-panel-grey-tg-steel-computer-cases-white-q500-wgnn-s00/p/N82E16811119447?Item=N82E16811119447\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-_EBDDs_mwsBp7D3xJt5n1Q\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             },
             {
@@ -5622,7 +5622,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "239.76",
+                "price": "240.11",
                 "price_link": "https://www.newegg.com/cooler-master-atx-mid-tower-silencio-s600-steel-plastic-sound-dampening-material-computer-case-black-mcs-s600-kn5n-s00/p/N82E16811119376?Item=9SIAD6HJMG1547\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-wc1ywmHrBM4S2HPIFHP2sg\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -5813,7 +5813,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "144.99",
+                "price": "169.00",
                 "price_link": "https://www.newegg.com/corsair-micro-atx-steel-tempered-glass-computer-case-2500d-airflow-white/p/N82E16811139201?Item=N82E16811139201\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-HktxgbYE_MwE3Dh8_W.39Q\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASID="
             }
         ],
@@ -6237,7 +6237,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "111.99",
+                "price": "115.99",
                 "price_link": "https://www.newegg.com/corsair-atx-mid-tower-steel-tempered-glass-computer-case-3500x-argb-black/p/N82E16811139214?Item=N82E16811139214\u0026ranSiteID=nwUw4CS3F2g-T1rpFpFbnbmS.czKenG0xw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026AFFID=3815908"
             }
         ],
@@ -6273,7 +6273,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "104.99",
                 "price_link": "https://www.newegg.com/corsair-atx-mid-tower-steel-tempered-glass-computer-case-3500x-argb-white/p/N82E16811139215?Item=N82E16811139215\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-LW_UcLll1hB6MbJfYv.tjw\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1"
             },
             {
@@ -7020,15 +7020,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "109.99",
-                "price_link": "https://www.newegg.com/corsair-atx-mid-tower-frame-4000d-rs-argb-steel-tempered-glass-computer-case-black/p/N82E16811139228?Item=N82E16811139228\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-XYjF3fi0kIz57HQs1ALcXQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "109.99",
                 "price_link": "https://www.amazon.com/dp/B0DFHNV7TK"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "124.99",
+                "price_link": "https://www.newegg.com/corsair-atx-mid-tower-frame-4000d-rs-argb-steel-tempered-glass-computer-case-black/p/N82E16811139228?Item=N82E16811139228\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-XYjF3fi0kIz57HQs1ALcXQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
         "radiator_support": 360,
@@ -7104,15 +7104,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "94.99",
-                "price_link": "https://www.newegg.com/corsair-atx-mid-tower-frame-4000d-rs-argb-steel-tempered-glass-computer-case-white/p/N82E16811139231?Item=N82E16811139231\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-r7E4q23k5sizM3lQodg6TQ\u0026ASID=\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "94.99",
                 "price_link": "https://www.amazon.com/dp/B0DPJ9FD5N"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "114.99",
+                "price_link": "https://www.newegg.com/corsair-atx-mid-tower-frame-4000d-rs-argb-steel-tempered-glass-computer-case-white/p/N82E16811139231?Item=N82E16811139231\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-r7E4q23k5sizM3lQodg6TQ\u0026ASID=\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908"
             }
         ],
         "radiator_support": 360,
@@ -7147,7 +7147,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "104.99",
+                "price": "84.99",
                 "price_link": "https://www.newegg.com/corsair-atx-mid-tower-frame-4000d-steel-tempered-glass-computer-case-white/p/N82E16811139227?Item=N82E16811139227\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-qVa2pgm1NlK5mxD2533EIg\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ACRID=1"
             },
             {
@@ -7322,7 +7322,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "157.00",
                 "price_link": "https://www.newegg.com/corsair-atx-mid-tower-icue-4000x-rgb-steel-plastic-tempered-glass-computer-case-white-cc-9011205-ww/p/N82E16811139158?Item=N82E16811139158\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-lAt3kFGhcQewImJa_wKA1g\u0026ASID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             },
             {
@@ -7363,15 +7363,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "215.99",
-                "price_link": "https://www.amazon.com/dp/B0BKC67D3V"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/corsair-atx-mid-tower-steel-plastic-tempered-glass-case-black-5000d-rgb-airflow/p/N82E16811139181?Item=N82E16811139181\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-hbt6GaMI0m5ME7PcylTRVg\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "219.99",
-                "price_link": "https://www.newegg.com/corsair-atx-mid-tower-steel-plastic-tempered-glass-case-black-5000d-rgb-airflow/p/N82E16811139181?Item=N82E16811139181\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-hbt6GaMI0m5ME7PcylTRVg\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "215.99",
+                "price_link": "https://www.amazon.com/dp/B0BKC67D3V"
             }
         ],
         "radiator_support": 360,
@@ -8506,7 +8506,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "44.99",
+                "price": "49.99",
                 "price_link": "https://www.newegg.com/fractal-design-micro-atx-mid-tower-core-1000-steel-computer-case-black-fd-ca-core-1000-usb3-bl/p/N82E16811352032?Item=N82E16811352032\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-II5aAF.n_.EyXc.SP72Q.w\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -8582,7 +8582,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "194.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-define-7-steel-computer-case-black-fd-c-def7a-01/p/N82E16811352109?Item=N82E16811352109\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-XiY90wmduAJpkuFdlmZ7ZQ\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             },
             {
@@ -8658,7 +8658,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "114.99",
+                "price": "124.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-define-7-compact-steel-computer-case-black-fd-c-def7c-01/p/N82E16811352126?Item=N82E16811352126\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ANy20CdIR9.se3a0i0eSIQ\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -8699,7 +8699,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "888.51",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-define-7-compact-steel-tempered-glass-computer-case-black-fd-c-def7c-03/p/N82E16811352128?Item=9SIAD6HJRB0634\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-.xb4VeAyAFuz3Pf2dcaEsg\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -8769,7 +8769,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "204.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-define-7-steel-computer-case-black-fd-c-def7a-03/p/N82E16811352111?Item=N82E16811352111\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-81UvQ4Tn2FBaXhR6h5mCSw\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1"
             },
             {
@@ -8852,7 +8852,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "224.99",
+                "price": "239.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-define-7-xl-steel-computer-case-black-fd-c-def7x-01/p/N82E16811352118?Item=N82E16811352118\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-6.6jn_SLHXyv7pl.b6LTGw\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -8888,7 +8888,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "234.99",
+                "price": "254.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-define-7-xl-steel-computer-case-black-fd-c-def7x-03/p/N82E16811352120?Item=N82E16811352120\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-NAUFNZ9heQd7oa1nPpzWLw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908"
             },
             {
@@ -8933,7 +8933,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/fractal-design-mini-itx-tower-era-2-aluminum-panels-steel-frame-case-charcoal-gray-fd-c-era2n-02/p/N82E16811352222?Item=N82E16811352222\u0026ranSiteID=nwUw4CS3F2g-z7AeTg2x_sPZz2RAdmkNAw\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             }
         ],
@@ -8972,7 +8972,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/fractal-design-mini-itx-tower-era-2-aluminum-panels-steel-frame-case-midnight-blue-fd-c-era2n-03/p/N82E16811352223?Item=N82E16811352223\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-CldoC9Cb6uUILJmIBrZRgg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9011,7 +9011,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/fractal-design-mini-itx-tower-era-2-aluminum-panels-steel-frame-case-silver-fd-c-era2n-01/p/N82E16811352221?Item=N82E16811352221\u0026ranSiteID=nwUw4CS3F2g-___prDWqJxsCk1dy_vBRbw\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583"
             }
         ],
@@ -9204,7 +9204,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "69.99",
+                "price": "74.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-focus-2-steel-tempered-glass-computer-case-black-fd-c-foc2a-01/p/N82E16811352191?Item=N82E16811352191\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-lGJsiy61hDujDhHKSvuN1w\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             },
             {
@@ -9251,7 +9251,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "69.99",
+                "price": "74.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-focus-2-steel-computer-case-black-fd-c-foc2a-07/p/N82E16811352195?Item=N82E16811352195\u0026ranSiteID=nwUw4CS3F2g-rjI2NCni6icampNzBVUBTw\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583"
             }
         ],
@@ -9286,7 +9286,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-focus-2-steel-tempered-glass-computer-case-black-fd-c-foc2a-03/p/N82E16811352193?Item=N82E16811352193\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-aJ4f9GpsQVSoeB919RyvUQ\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             },
             {
@@ -9326,15 +9326,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "79.99",
-                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-focus-2-steel-tempered-glass-computer-case-white-fd-c-foc2a-04/p/N82E16811352194?Item=N82E16811352194\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-W5e1RrVkCMsRu8AjsuFMJg\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "87.99",
                 "price_link": "https://www.amazon.com/dp/B08Z4F5Q65"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "89.99",
+                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-focus-2-steel-tempered-glass-computer-case-white-fd-c-foc2a-04/p/N82E16811352194?Item=N82E16811352194\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-W5e1RrVkCMsRu8AjsuFMJg\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1"
             }
         ],
         "radiator_support": 360,
@@ -9404,7 +9404,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "164.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-meshify-2-steel-computer-case-black-fd-c-mes2a-01/p/N82E16811352131?Item=N82E16811352131\u0026ranSiteID=nwUw4CS3F2g-l9EdR3DMfssxY88pRsoBeA\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
             },
             {
@@ -9446,7 +9446,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "174.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-meshify-2-steel-computer-case-black-fd-c-mes2a-03/p/N82E16811352133?Item=N82E16811352133\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-PBbwtInr.wMtu0Bl_8X6MA\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID="
             },
             {
@@ -9522,7 +9522,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "124.99",
+                "price": "134.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-meshify-2-compact-steel-computer-case-black-fd-c-mes2c-03/p/N82E16811352140?Item=N82E16811352140\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-lvgK3QOJW.pMAJyANaBEBw\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFID=3815908"
             },
             {
@@ -9563,7 +9563,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "124.99",
+                "price": "134.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-meshify-2-compact-steel-computer-case-black-fd-c-mes2c-03/p/N82E16811352140?Item=N82E16811352141\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-pXDU4gXA.svmhq1ZHL7sZg\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -9954,7 +9954,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "204.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-meshify-2-xl-steel-computer-case-black-fd-c-mes2x-02/p/N82E16811352137?Item=N82E16811352137\u0026ranSiteID=nwUw4CS3F2g-Nzq_PhgAI2p.Dz1o3R6Vhw\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583"
             },
             {
@@ -10103,7 +10103,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-meshify-c-steel-computer-case-black-fd-ca-mesh-c-bko/p/N82E16811352085?Item=N82E16811352085\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-_Oe2qhiFaZ4cAlk0wWs9Dg\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             },
             {
@@ -10145,7 +10145,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-meshify-c-tg-steel-computer-case-black-fd-ca-mesh-c-bko-tgl/p/N82E16811352084?Item=9SIA25VKC25593\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-3pZ.XtR1_auHVFWBRrET7Q\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly"
+                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-meshify-c-tg-steel-computer-case-black-fd-ca-mesh-c-bko-tgl/p/N82E16811352084?Item=N82E16811352084\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-nel0fQR5ZT2nlrDyF8uLOg\u0026ranMID=44583\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "radiator_support": 360,
@@ -10183,7 +10183,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "164.99",
                 "price_link": "https://www.newegg.com/fractal-design-small-form-factor-mood-steel-plastic-cloth-computer-case-black-fd-c-mod1n-02/p/N82E16811352220?Item=N82E16811352220\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-j.5_3p_2XVpJyclsJYDtjw\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID="
             }
         ],
@@ -10215,15 +10215,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "149.99",
-                "price_link": "https://www.newegg.com/fractal-design-small-form-factor-mood-steel-plastic-cloth-computer-case-light-gray-fd-c-mod1n-01/p/N82E16811352219?Item=N82E16811352219\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-peSTxYNKD5n_A8wCBb4z_Q\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "151.36",
                 "price_link": "https://www.amazon.com/dp/B0BN694B9W"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "164.99",
+                "price_link": "https://www.newegg.com/fractal-design-small-form-factor-mood-steel-plastic-cloth-computer-case-light-gray-fd-c-mod1n-01/p/N82E16811352219?Item=N82E16811352219\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-peSTxYNKD5n_A8wCBb4z_Q\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
         "radiator_support": 280,
@@ -10263,7 +10263,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "139.99",
+                "price": "154.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-steel-case-charcoal-black-fd-c-nor1c-01/p/N82E16811352203?Item=N82E16811352203\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-U.NkHRIXwuDS3Gy3_hdpkw\u0026ranMID=44583\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -10304,7 +10304,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "139.99",
+                "price": "154.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-north-steel-case-charcoal-black-fd-c-nor1c-02/p/N82E16811352204?Item=N82E16811352204\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-1Dt8eBJiAfQn.l0unwFLuA\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1"
             }
         ],
@@ -10339,7 +10339,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "139.99",
+                "price": "154.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-steel-case-chalk-white-fd-c-nor1c-04/p/N82E16811352206?Item=N82E16811352206\u0026ranSiteID=nwUw4CS3F2g-KS2bo2.YK9FD7EiTqZqxZg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908"
             }
         ],
@@ -10374,7 +10374,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "139.99",
+                "price": "154.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-steel-case-chalk-white-fd-c-nor1c-03/p/N82E16811352205?Item=N82E16811352205\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-H7f9DpP_BuTvkW_a8AUX8Q\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -10416,7 +10416,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "194.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-north-steel-computer-cases-charcoal-black-fd-c-nor1x-01/p/N82E16811352215?Item=N82E16811352215\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-XkWVZ4Mhoke3wcLDmDoVcw\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly"
             }
         ],
@@ -10451,15 +10451,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "179.99",
-                "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-north-steel-computer-cases-charcoal-black-fd-c-nor1x-02/p/N82E16811352216?Item=N82E16811352216\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-WQQsFixZkpowMFArDDh_9w\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "179.99",
                 "price_link": "https://www.amazon.com/dp/B0CJCJ3ZZB"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "194.99",
+                "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-north-steel-computer-cases-charcoal-black-fd-c-nor1x-02/p/N82E16811352216?Item=N82E16811352216\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-WQQsFixZkpowMFArDDh_9w\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
         "radiator_support": 420,
@@ -10494,7 +10494,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "194.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-north-steel-computer-cases-chalk-white-fd-c-nor1x-03/p/N82E16811352217?Item=N82E16811352217\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-KWvVO4uvbwVEuLzSYetkZw\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1"
             }
         ],
@@ -10536,7 +10536,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "194.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-north-steel-computer-cases-chalk-white-fd-c-nor1x-04/p/N82E16811352218?Item=N82E16811352218\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-54e.SLzzMZ6i5H7K3MYQGg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID="
             }
         ],
@@ -10571,7 +10571,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-air-steel-tempered-glass-computer-case-black-fd-c-poa1a-02/p/N82E16811352168?Item=N82E16811352168\u0026ASID=\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-XiDKFN_uxBGFuVfsTB_XSw\u0026ASUBID=\u0026ranMID=44583\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -10618,7 +10618,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-air-rgb-steel-tempered-glass-computer-case-black-fd-c-por1a-06/p/N82E16811352175?Item=N82E16811352175\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-M1ie2WY_qfXY6QfT26tfcA\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -10653,7 +10653,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-air-rgb-steel-tempered-glass-computer-case-black-cyan-fd-c-por1a-02/p/N82E16811352171?Item=N82E16811352171\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-qa07IH.0KJCSSiSvxbDh6Q\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly"
             },
             {
@@ -10694,7 +10694,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-air-rgb-steel-tempered-glass-computer-case-black-magenta-fd-c-por1a-03/p/N82E16811352172?Item=N82E16811352172\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-j2JZ3e8sr1zTDik0PGJT5A\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -10735,7 +10735,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-air-rgb-steel-tempered-glass-computer-case-black-orange-fd-c-por1a-05/p/N82E16811352174?Item=N82E16811352174\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-tSsO29DHWU3HEpATmhzeMA\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -10776,7 +10776,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-air-rgb-steel-tempered-glass-computer-case-white-fd-c-por1a-01/p/N82E16811352170?Item=N82E16811352170\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-G2qHpTlp57BhDqR6dJgycA\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -10817,7 +10817,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "84.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-air-steel-computer-case-black-fd-c-poa1a-01/p/N82E16811352167?Item=N82E16811352167\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-V5p_7EkpxxMTbZDt86yERw\u0026ranEAID=3815908\u0026ASID=\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -10898,7 +10898,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-micro-atx-tower-pop-mini-air-rgb-steel-tempered-glass-computer-case-black-fd-c-por1m-06/p/N82E16811352164?Item=N82E16811352164\u0026ASID=\u0026AFFID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-zzMWwjdoWwhOZ9k3DGUu5A\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly"
             }
         ],
@@ -10938,7 +10938,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.97",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/fractal-design-micro-atx-tower-pop-mini-air-rgb-steel-tempered-glass-computer-case-white-fd-c-por1m-01/p/N82E16811352163?Item=N82E16811352163\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-ilXYlnq6WIFEPNVqovveGQ\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -11006,7 +11006,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "84.99",
                 "price_link": "https://www.newegg.com/fractal-design-micro-atx-tower-pop-mini-steel-computer-case-black-fd-c-pos1m-01/p/N82E16811352165?Item=N82E16811352165\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-wFNmX_71fQYshjSGZ3V88g\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1"
             },
             {
@@ -11082,7 +11082,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "84.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-pop-steel-computer-case-black-fd-c-pos1a-01/p/N82E16811352176?Item=N82E16811352176\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-JilDZFHGZMSopAfuUzP9dQ\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -11165,7 +11165,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "119.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-pop-xl-air-rgb-steel-tempered-glass-computer-case-black/p/N82E16811352180?Item=N82E16811352180\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-PDwDeaRcCKVQzjGFJ1SNSw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -11201,7 +11201,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "119.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-pop-xl-air-rgb-steel-tempered-glass-computer-case-white-fd-c-por1x-01/p/N82E16811352179?Item=N82E16811352179\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-uG5nMOCMc0FbGl96sLqGvQ\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -11279,7 +11279,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "109.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-full-tower-pop-xl-steel-computer-case-black-fd-c-pos1x-01/p/N82E16811352181?Item=N82E16811352181\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-KB6TIdQFGZfToK1GKdVNvQ\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             },
             {
@@ -11324,7 +11324,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "129.99",
+                "price": "144.99",
                 "price_link": "https://www.newegg.com/fractal-design-small-form-factor-ridge-steel-computer-case-black-fd-c-rid1n-11/p/N82E16811352210?Item=N82E16811352210\u0026ranSiteID=nwUw4CS3F2g-Dy3Ry8hkvKCM2RGfvyAXZA\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly"
             }
         ],
@@ -11396,7 +11396,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "199.99",
                 "price_link": "https://www.newegg.com/fractal-design-small-form-factor-terra-aluminum-steel-computer-case-jade-fd-c-ter1n-03/p/N82E16811352214?Item=N82E16811352214\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-DwzOPopQA1O3baymnBuDeA\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -11429,7 +11429,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "199.99",
                 "price_link": "https://www.newegg.com/fractal-design-small-form-factor-terra-aluminum-steel-computer-case-silver-fd-c-ter1n-02/p/N82E16811352213?Item=N82E16811352213\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-kBtktFMbiv.L7NJpgQDC8Q\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1"
             }
         ],
@@ -11501,7 +11501,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "204.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-steel-tempered-glass-computer-case-black-fd-c-tor1a-01/p/N82E16811352143?Item=N82E16811352143\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-fQZQXRO13w.PlaPi4xZB7Q\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -11616,7 +11616,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "169.99",
-                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-compact-steel-tempered-glass-computer-case-black-fd-c-tor1c-02/p/N82E16811352150?Item=N82E16811352150\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-ILNcAh.q8zOMpwG5syvhAA\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1"
+                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-compact-steel-tempered-glass-computer-case-black-fd-c-tor1c-02/p/N82E16811352150?Item=9SIAFVFKHY7585\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-UPIc6FKvTvDjFYLrMC7RHA\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             },
             {
                 "region": "US",
@@ -11729,7 +11729,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "204.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-steel-computer-case-black-fd-c-tor1a-05/p/N82E16811352147?Item=N82E16811352147\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-Qg8KJa._PJqH2bQj2GQWtA\u0026ACRID=1\u0026ranEAID=3815908\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583"
             },
             {
@@ -11976,15 +11976,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "229.99",
-                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-steel-tempered-glass-computer-case-black-fd-c-tor1a-04/p/N82E16811352146?Item=N82E16811352146\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-39ph4YEs2xrf_a9hAEC.CQ\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "232.27",
                 "price_link": "https://www.amazon.com/dp/B099X5XB29"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "249.99",
+                "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-steel-tempered-glass-computer-case-black-fd-c-tor1a-04/p/N82E16811352146?Item=N82E16811352146\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-39ph4YEs2xrf_a9hAEC.CQ\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             }
         ],
         "radiator_support": 360,
@@ -12025,7 +12025,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
+                "price": "249.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-steel-case-white-fd-c-tor1a-07/p/N82E16811352207?Item=N82E16811352207\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-h3X8lRbC5k.TWk0M5pG.Ig\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -12061,7 +12061,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "204.99",
                 "price_link": "https://www.newegg.com/fractal-design-atx-mid-tower-torrent-steel-tempered-glass-computer-case-white-fd-c-tor1a-03/p/N82E16811352145?Item=N82E16811352145\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-aMorsfLWFXAFmzblRwxM3Q\u0026ACRID=1\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -12141,7 +12141,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "73.99",
+                "price": "74.99",
                 "price_link": "https://www.newegg.com/lian-li-micro-atx-mini-itx-steel-cases-a3-matx-white/p/2AM-000Z-000D4?Item=2AM-000Z-000D4\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-U3bOU8BRpp5SAu3hvW5RFw\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -12182,7 +12182,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "89.99",
-                "price_link": "https://www.newegg.com/p/2AM-000Z-000E0?Item=2AM-000Z-000E0\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-QbW6Ko8R4WOZjFtLMZI1kA"
+                "price_link": "https://www.newegg.com/lian-li-micro-atx-mini-itx-steel-wood-cases-computer-cases-atx-form-black-a3-matx-wd/p/2AM-000Z-000E0?Item=2AM-000Z-000E0\u0026ranSiteID=nwUw4CS3F2g-QbW6Ko8R4WOZjFtLMZI1kA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             }
         ],
         "radiator_support": 240,
@@ -12221,7 +12221,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "106.27",
+                "price": "106.90",
                 "price_link": "https://www.newegg.com/lian-li-micro-atx-mini-itx-cases-white/p/2AM-000Z-000E3?Item=9SIA7ABKGM1165\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-g9u8Ual6BbgK0OjawOw4YA\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -12254,7 +12254,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "154.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/lian-li-mini-itx-aluminum-steel-cases-silver-matte-black-a4-h2o-a4/p/2AM-000Z-00095?Item=9SIAFSTGMK0722\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-rAPDcpI.RGLnmXqXthtoKw\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -12363,8 +12363,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/lian-li-atx-mid-tower-lancool-ii-rgb-mesh-sgcc-tempered-glass-cases-black-lancool-ii-mesh-rgb-w/p/2AM-000Z-00061?Item=9SIAFSTJFT8726\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-i4HgWYodKsKC7q_m.6EgsQ\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ACRID=1"
+                "price": "888.67",
+                "price_link": "https://www.newegg.com/lian-li-atx-mid-tower-steel-tempered-glass-cases-black-lancool-ii-performance-mesh-c/p/2AM-000Z-00086?Item=9SIAFSTJFT8726\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-i4HgWYodKsKC7q_m.6EgsQ\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate"
             }
         ],
         "radiator_support": 120,
@@ -12698,7 +12698,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "111.99",
+                "price": "105.99",
                 "price_link": "https://www.newegg.com/lian-li-atx-mid-tower-cases/p/2AM-000Z-000A7?Item=2AM-000Z-000A7\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-wVZczX2s_3p50s_YEuT.lw\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate"
             },
             {
@@ -12877,7 +12877,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "157.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/lian-li-atx-mid-tower-aluminum-secc-tempered-glass-computer-case-black-lancool-iii-rgb/p/N82E16811112601?Item=N82E16811112601\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-qIZ9gQv70PK6c655M44XBw\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -12990,7 +12990,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "205.80",
                 "price_link": "https://www.newegg.com/lian-li-micro-atx-tower-cases-o11amx/p/2AM-000Z-00080?Item=9SIAD6HGRK7202\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-H7xr5qTkOJKt.KqSe1jheQ\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -13025,15 +13025,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "209.95",
-                "price_link": "https://www.amazon.com/dp/B09M2T62W2"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/lian-li-micro-atx-tower-cases-o11amw/p/2AM-000Z-00081?Item=9SIAD6HGRK7201\u0026ranSiteID=nwUw4CS3F2g-OoLjmBLm47RhDpqUqF_2tg\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "213.45",
-                "price_link": "https://www.newegg.com/lian-li-micro-atx-tower-cases-o11amw/p/2AM-000Z-00081?Item=9SIAD6HGRK7201\u0026ranSiteID=nwUw4CS3F2g-OoLjmBLm47RhDpqUqF_2tg\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM"
+                "platform": "amazon",
+                "price": "209.95",
+                "price_link": "https://www.amazon.com/dp/B09M2T62W2"
             }
         ],
         "radiator_support": 240,
@@ -13140,8 +13140,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "242.99",
-                "price_link": "https://www.newegg.com/lian-li-atx-mid-tower-aluminum-steel-tempered-glass-cases-black-o11dexl-x/p/2AM-000Z-000B4?Item=2AM-000Z-000B4\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-q_A7uSAoJ8OyyTWVT.Ankg\u0026ACRID=1\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/2AM-000Z-000C4?Item=9SIA0ZXK4V4244\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-jeSp6Z6yu8.OUD76Q2HNLg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
@@ -13331,7 +13331,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "139.99",
                 "price_link": "https://www.newegg.com/lian-li-atx-micro-atx-mid-tower-steel-aluminum-4-0mm-tempered-glass-3-0mm-tempered-glass-cases-black-o11vx/p/2AM-000Z-000B8?Item=2AM-000Z-000B8\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-WmBoNChIB3V6xzKwL0S7uQ\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -13408,15 +13408,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "129.99",
-                "price_link": "https://www.amazon.com/dp/B0DJPY63XL"
+                "platform": "newegg",
+                "price": "124.99",
+                "price_link": "https://www.newegg.com/lian-li-e-atx-mid-tower-chassis-steel-4-0mm-tempered-glass-3-0mm-tempered-glass-aluminum-cases-white-o11vpw/p/2AM-000Z-000D9?Item=2AM-000Z-000D9\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-rldFUbMd6F0IUAVca7NwZg\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "129.99",
-                "price_link": "https://www.newegg.com/lian-li-e-atx-mid-tower-chassis-steel-4-0mm-tempered-glass-3-0mm-tempered-glass-aluminum-cases-white-o11vpw/p/2AM-000Z-000D9?Item=2AM-000Z-000D9\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-rldFUbMd6F0IUAVca7NwZg\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1"
+                "price_link": "https://www.amazon.com/dp/B0DJPY63XL"
             }
         ],
         "radiator_support": 360,
@@ -13451,7 +13451,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "138.99",
+                "price": "129.99",
                 "price_link": "https://www.newegg.com/lian-li-atx-micro-atx-mid-tower-steel-aluminum-4-0mm-tempered-glass-3-0mm-tempered-glass-cases-white-o11vw/p/2AM-000Z-000B9?Item=2AM-000Z-000B9\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-wUsgLysU.h9kXxI0pYT_3w\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -13535,7 +13535,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "159.98",
                 "price_link": "https://www.newegg.com/lian-li-atx-micro-atx-mid-tower-steel-aluminum-tempered-glass-cases-white-o11dergbw/p/2AM-000Z-000C1?Item=2AM-000Z-000C1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-GIPianHojb1ndU2qO_wL3Q\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026utm_medium=affiliate"
             },
             {
@@ -13614,7 +13614,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/lian-li-tower-chassis-pc-o11-dynamic-razer-edition-secc-tempered-glass-aluminum-computer-case-black-pc-o11d-razer/p/N82E16811112590?Item=N82E16811112590\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-M53EDGkH1J5WjzStD44yuQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "price_link": "https://www.newegg.com/lian-li-tower-chassis-pc-o11-dynamic-razer-edition-secc-tempered-glass-aluminum-computer-case-black-pc-o11d-razer/p/N82E16811112590?Item=9SIAFSTJ3U2649\u0026ranSiteID=nwUw4CS3F2g-MTk7arKbq6M7aTqtf_QfRA\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908"
             }
         ],
         "radiator_support": 120,
@@ -13679,7 +13679,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "94.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/lian-li-mini-itx-cases-q58w4/p/2AM-000Z-00085?Item=9SIAFSTEWH3133\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-BQpQODxE4wdIwj1HpVdYWw\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -13755,8 +13755,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "80.25",
-                "price_link": "https://www.newegg.com/lian-li-atx-micro-atx-mid-tower-steel-tempered-glass-cases-white-sup01w/p/2AM-000Z-000D1?Item=2AM-000Z-000D1\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-K4.SqAf5X.zMpsmOwkaGNA\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID="
+                "price": "79.99",
+                "price_link": "https://www.newegg.com/lian-li-atx-micro-atx-mid-tower-steel-tempered-glass-cases-white-sup01w/p/2AM-000Z-000D1?Item=9SIAFSTK9S2721\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-QTAL_ha2FPx51TKlh5zUDA\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly"
             },
             {
                 "region": "US",
@@ -13867,7 +13867,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1150.20",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/lian-li-e-atx-full-tower-case-aluminum-tempered-glass-cases-white-v3000pw/p/2AM-000Z-000B1?Item=9SIAD6HJTX9215\u0026ranSiteID=nwUw4CS3F2g-P8Mx9PS_EI.5kUPf8._CxA\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -13897,7 +13897,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "64.99",
+                "price": "69.90",
                 "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-cases-black-air-100/p/2AM-00CN-00033?Item=2AM-00CN-00033\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-RrSALDJyEdRv7wxdZjiZ_g\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -13933,7 +13933,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "64.99",
+                "price": "69.99",
                 "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-cases-white/p/2AM-00CN-00032?Item=2AM-00CN-00032\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-FGIqcMSeHmzNb_8aIsMwrg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -14041,7 +14041,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "75.99",
                 "price_link": "https://www.newegg.com/montech-e-atx-mid-tower-chassis-air-903-max-cases-black/p/2AM-00CN-00059?Item=2AM-00CN-00059\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-ur3sqvz5fo3ixcfJkII_Zw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -14089,7 +14089,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "75.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/montech-e-atx-mid-tower-chassis-cases-white/p/2AM-00CN-00060?Item=2AM-00CN-00060\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-5VzJ1S6cnUzS.nYLl1jfsg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -14125,7 +14125,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "64.99",
+                "price": "69.99",
                 "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-cases-white/p/2AM-00CN-00032?Item=9SIAK919MK0889\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-Datl7cErBYZjgpLaDIgITA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -14205,7 +14205,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "109.90",
                 "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-steel-leather-tempered-glass-computer-case-heritage-pro-black/p/N82E16811970015?Item=N82E16811970015\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-P0f6kKUd7O9bCUfsAalCgw\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
@@ -14238,15 +14238,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "99.99",
-                "price_link": "https://www.amazon.com/dp/B0DSZ76NF8"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-steel-leather-tempered-glass-computer-case-heritage-pro-white/p/N82E16811970016?Item=N82E16811970016\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-Ho.yqOYhgvna8Ota9cKy2w\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "99.99",
-                "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-steel-leather-tempered-glass-computer-case-heritage-pro-white/p/N82E16811970016?Item=N82E16811970016\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-Ho.yqOYhgvna8Ota9cKy2w\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583"
+                "price_link": "https://www.amazon.com/dp/B0DSZ76NF8"
             }
         ],
         "radiator_support": 360,
@@ -14278,15 +14278,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "89.90",
-                "price_link": "https://www.amazon.com/dp/B0DSZ1N1G9"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-steel-leather-tempered-glass-computer-case-heritage-white/p/N82E16811970014?Item=N82E16811970014\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-HMvB4NMLYkkXLR8pDM6BlA\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "89.90",
-                "price_link": "https://www.newegg.com/montech-micro-atx-mini-itx-steel-leather-tempered-glass-computer-case-heritage-white/p/N82E16811970014?Item=N82E16811970014\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-HMvB4NMLYkkXLR8pDM6BlA\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
+                "price_link": "https://www.amazon.com/dp/B0DSZ1N1G9"
             }
         ],
         "radiator_support": 360,
@@ -14319,15 +14319,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "94.99",
-                "price_link": "https://www.amazon.com/dp/B0DJDW8B92"
+                "platform": "newegg",
+                "price": "82.99",
+                "price_link": "https://www.newegg.com/montech-atx-mid-tower-king-65-pro-computer-case-black/p/N82E16811970012?Item=N82E16811970012\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-FDp_D.FSr.tGvOePnTL_rA\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "94.99",
-                "price_link": "https://www.newegg.com/montech-atx-mid-tower-king-65-pro-computer-case-black/p/N82E16811970012?Item=N82E16811970012\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-FDp_D.FSr.tGvOePnTL_rA\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
+                "price_link": "https://www.amazon.com/dp/B0DJDW8B92"
             }
         ],
         "radiator_support": 360,
@@ -14395,15 +14395,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "139.00",
-                "price_link": "https://www.newegg.com/montech-atx-mid-tower-spcc-tempered-glass-computer-cases-black-king-95-pro/p/N82E16811970005?Item=N82E16811970005\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-FMNXTlddhhNvsfQHphjCDQ\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "139.00",
                 "price_link": "https://www.amazon.com/dp/B0CN95G1YL"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "149.00",
+                "price_link": "https://www.newegg.com/montech-atx-mid-tower-spcc-tempered-glass-computer-cases-black-king-95-pro/p/N82E16811970005?Item=N82E16811970005\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-FMNXTlddhhNvsfQHphjCDQ\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "radiator_support": 120,
@@ -14513,7 +14513,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "169.00",
                 "price_link": "https://www.newegg.com/montech-atx-mid-tower-spcc-tempered-glass-computer-cases-white-king-95-pro/p/N82E16811970006?Item=N82E16811970006\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-9kclI6dvy3bHRjpszWYdcg\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -14755,15 +14755,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "101.14",
-                "price_link": "https://www.newegg.com/montech-atx-micro-atx-mid-tower-cases-black-sky-two/p/2AM-00CN-00052?Item=9SIA0ZXJW36441\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-MaaNnyvvDmtxeqwkSh3KpQ\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "103.89",
                 "price_link": "https://www.amazon.com/dp/B0BNT962NF"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "110.50",
+                "price_link": "https://www.newegg.com/montech-atx-micro-atx-mid-tower-cases-black-sky-two/p/2AM-00CN-00052?Item=9SIA0ZXJW36441\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-MaaNnyvvDmtxeqwkSh3KpQ\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
         "radiator_support": 120,
@@ -14835,7 +14835,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/montech-e-atx-mid-tower-chassis-spcc-tempered-glass-computer-case-white-sky-two-gx/p/N82E16811970010?Item=9SIAK91KEV5295\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-2fvpzJMjmbFMbeLCCj_Asg\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
+                "price_link": "https://www.newegg.com/montech-e-atx-mid-tower-chassis-spcc-tempered-glass-computer-case-white-sky-two-gx/p/N82E16811970010?Item=N82E16811970010\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-k8Csgh833M8G7CLxRKcgtA\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ASUBID=\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID="
             },
             {
                 "region": "US",
@@ -14986,8 +14986,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "64.90",
-                "price_link": "https://www.newegg.com/montech-atx-micro-atx-mid-tower-x3-mesh-cases-black/p/2AM-00CN-00036?Item=2AM-00CN-00036\u0026ranSiteID=nwUw4CS3F2g-b7WjBkL1jODvq7n6LW3izg\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/montech-atx-micro-atx-mid-tower-x3-mesh-cases-black/p/2AM-00CN-00036?Item=9SIA0ZXJPK5488\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-YopxdIELRvL7YVMj78_xbA\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
@@ -15026,15 +15026,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "64.90",
-                "price_link": "https://www.newegg.com/montech-atx-micro-atx-mid-tower-cases-white/p/2AM-00CN-00037?Item=2AM-00CN-00037\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-T.Arw0AO25MuBGlvwaARdw\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "64.90",
                 "price_link": "https://www.amazon.com/dp/B092441BHJ"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "69.99",
+                "price_link": "https://www.newegg.com/montech-atx-micro-atx-mid-tower-cases-white/p/2AM-00CN-00037?Item=2AM-00CN-00037\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-T.Arw0AO25MuBGlvwaARdw\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
         "radiator_support": 360,
@@ -15074,7 +15074,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "85.52",
+                "price": "83.16",
                 "price_link": "https://www.newegg.com/montech-atx-mid-tower-cases-black-xr-b/p/2AM-00CN-00061?Item=9SIA0ZXK9J4545\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-mSjbVnbMv4Oo5wq4nRUMVQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -15115,7 +15115,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "97.29",
+                "price": "83.16",
                 "price_link": "https://www.newegg.com/montech-atx-mid-tower-cases/p/2AM-00CN-00062?Item=9SIA0ZXK9J4559\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-_xPFt8ZBJizFS0zu20PeCQ\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -15192,15 +15192,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "94.99",
-                "price_link": "https://www.amazon.com/dp/B0D2MK6NML"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/nzxt-atx-mid-tower-h5-flow-sgcc-steel-dark-tinted-tempered-glass-case-black-cc-h52fb-01/p/N82E16811146365?Item=9SIAG1PKCW5930\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-BypftdYrfCsG1MP65Pp1Kw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "94.99",
-                "price_link": "https://www.newegg.com/nzxt-atx-mid-tower-h5-flow-sgcc-steel-dark-tinted-tempered-glass-case-black-cc-h52fb-01/p/N82E16811146365?Item=N82E16811146365\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-rU_QIvkmsljtGxS.pLvXzw\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ASUBID=\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID="
+                "price_link": "https://www.amazon.com/dp/B0D2MK6NML"
             },
             {
                 "region": "CN",
@@ -15241,7 +15241,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "119.99",
                 "price_link": "https://www.newegg.com/nzxt-atx-mid-tower-h5-flow-rgb-sgcc-steel-dark-tinted-tempered-glass-case-black-cc-h52fb-r1/p/N82E16811146368?Item=9SIAG1PKCW5929\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-pwl_t5jePo0QXayOPVOMyQ\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             },
             {
@@ -15334,21 +15334,21 @@
         "prices": [
             {
                 "region": "US",
+                "platform": "newegg",
+                "price": "109.99",
+                "price_link": "https://www.newegg.com/nzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-dark-tinted-tempered-glass-computer-case-black-cc-h61fb-r1/p/N82E16811146359?Item=9SIAG1PK6E8758\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-TDsjj30_FExDtEg70HlnjA\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly"
+            },
+            {
+                "region": "US",
                 "platform": "amazon",
                 "price": "134.99",
                 "price_link": "https://www.amazon.com/dp/B0C89F1V5S"
             },
             {
-                "region": "US",
-                "platform": "newegg",
-                "price": "134.99",
-                "price_link": "https://www.newegg.com/nzxt-mid-tower-sgcc-steel-ultra-clear-tempered-glass-dark-tinted-tempered-glass-computer-case-black-cc-h61fb-r1/p/N82E16811146359?Item=N82E16811146359\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-2xX1H0HSr1T64aZscyqJkg\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026utm_medium=affiliate"
-            },
-            {
                 "region": "CN",
                 "platform": "taobao",
                 "price": "799",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D3XwLBNetE4pw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0HGPaN585zXJF58iqvUTlUm3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOhrDNNmOKy5DHKD95V1D3mA685jxqFJerogNkwXRepfmTqyq3vtP7eRWmvAJG%2FI7IHK5O8XcGLMpBAgC48NCJw%2F3csqvfaXCpXU32g%2BC4gM9eFNzsmWpKfGL8BGN1TIZSCGFCzYOOqAQ\u0026union_lens=lensId%3AMAPI%401751485265%40213fae67_1736_197cca8376c_de0a%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DSMFUF2iMNeVw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJJ6uqpAUTZpa3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOhrDNNmOKy5DHKD95V1D3mBjCVW3R4iLh6576hbQP8oV%2BFRvRdn8jB5SIDGxOvnLZcoCCAdBEpkqEMvO2U%2Fw7SC4%2FApvI96NZgvgWlvqMPYm%2FddBZPVUV1IYhMXSDbdIZXEqY%2Bakgpmw\u0026union_lens=lensId%3AMAPI%401755463089%40213e8afe_166f_198b9c0fedf_2692%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 360,
@@ -15425,7 +15425,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "94.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/nzxt-atx-mid-tower-sgcc-steel-dark-tinted-tempered-glass-computer-case-black-cm-h72fb-01/p/N82E16811146361?Item=9SIAG1PKB87511\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-mWDWmmh5yVbOxTk4NDqYUA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
             },
             {
@@ -15521,7 +15521,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/nzxt-atx-mid-tower-h9-elite-all-black-sgcc-steel-tempered-glass-computer-cases-cm-h91eb-01/p/N82E16811146349?Item=9SIAG1PJHK5707\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-FKNWOuzOXi22B2fXoIkFlw\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
+                "price_link": "https://www.newegg.com/nzxt-atx-mid-tower-h9-elite-all-black-sgcc-steel-tempered-glass-computer-cases-cm-h91eb-01/p/N82E16811146349?Item=N82E16811146349\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-GA6dTo75PcAnMz6dCpVwVA\u0026ranMID=44583\u0026ASUBID=\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1"
             },
             {
                 "region": "US",
@@ -15567,14 +15567,14 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "129.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/nzxt-atx-mid-tower-h9-flow-all-black-sgcc-steel-tempered-glass-computer-cases/p/N82E16811146347?Item=N82E16811146347\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-S29NE8Z04oW0YLjv7ib0Hg\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "1213",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DhLiNvtqBue9w4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0HGPaN585zXJb6Q%2BtgERC9i3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOnvO9GEGQqzNtKDkvWmHdw%2FqR2q2w9Wf9RpvmCRKfF6lMqMr%2FDM%2BuXrw%2Bhdq9tzgAkCYCkFmO5F5uMCTsGPAsKc4nVUaw2Hh4ojDSYalqY7Jhm7pd6YFL1qf389GtiWo0aJn5AyUbPoV\u0026union_lens=lensId%3AMAPI%401751485366%40213da776_0ea5_197cca9c003_3a47%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "1299",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DJsSHGHp%2BDkFw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0EtxgK8dqtTJYDun4d9GyOq3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOrTmXOPaHNOPIL1iwMBjdoxF1zSOgLwKIz45XQINBSIicG1p2%2BkKyMmQ04wez7BqXaEriEhmx3PEkke4cFdRYd6CkHPessQDxt04y9sAdMVRwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401755463611%4021313520_0e71_198b9c8f5d3_9ff8%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 360,
@@ -15825,7 +15825,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "119.99",
+                "price": "137.99",
                 "price_link": "https://www.newegg.com/phanteks-atx-mid-tower-steel-chassis-tempered-glass-computer-cases-matte-white-ph-ec500ga-dmw01a/p/N82E16811854121?Item=N82E16811854121\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-Pgoh4JUCB9SN26TsXHvunA\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -16498,7 +16498,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "576.69",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/phanteks-atx-mid-tower-eclipse-p600s-steel-tempered-glass-computer-case-black-ph-ec600pstg-bk01/p/N82E16811854083?Item=9SIAD6HKH90252\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-38Vyg3m4q_xdO_f2bWMQoQ\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASID=\u0026ACRID=1\u0026AFFID=3815908"
             }
         ],
@@ -16574,7 +16574,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "155.99",
                 "price_link": "https://www.newegg.com/phanteks-atx-mid-tower-eclipse-p600s-steel-tempered-glass-computer-case-matte-white-ph-ec600pstg-dmw01/p/N82E16811854111?Item=N82E16811854111\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-IHYZhSwReIldYH4GNk_sDA\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -16789,7 +16789,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "120.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/phanteks-atx-full-tower-enthoo-pro-brushed-plastic-steel-chassis-computer-case-black-ph-es614p-bk/p/N82E16811854003?Item=N82E16811854003\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-5um4OxRf2tunyrqNBJdocA\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly"
             },
             {
@@ -17158,7 +17158,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "177.99",
                 "price_link": "https://www.newegg.com/p/N82E16811854142?Item=N82E16811854142\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-HLBL3sOpkhB8D_XUhfZ.zA"
             },
             {
@@ -17272,7 +17272,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "209.99",
                 "price_link": "https://www.newegg.com/phanteks-atx-full-tower-nv7-series-steel-chassis-tempered-glass-computer-case-black-ph-nv723tg-dbk01/p/N82E16811854122?Item=N82E16811854122\u0026ranSiteID=nwUw4CS3F2g-zGn.gpztB154nHJIh8uzkA\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -17386,7 +17386,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "250.99",
+                "price": "252.99",
                 "price_link": "https://www.newegg.com/phanteks-full-tower-steel-chassis-tempered-glass-computer-cases-matte-white-ph-nv923tg-dmw01/p/N82E16811854130?Item=N82E16811854130\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-RGBpx_R2bch2HBj3OpE1Qw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -17578,7 +17578,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "84.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/phanteks-mid-tower-steel-chassis-tempered-glass-window-abs-plastic-computer-case-black-ph-xt523p1-dbk01/p/N82E16811854133?Item=N82E16811854133\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-Rt2DMrt6e3H_1KB6RlL3_g\u0026ranMID=44583\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             },
             {
@@ -17620,7 +17620,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "84.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/phanteks-mid-tower-steel-chassis-tempered-glass-window-abs-plastic-computer-case-white-ph-xt523p1-dwt01/p/N82E16811854134?Item=N82E16811854134\u0026ranSiteID=nwUw4CS3F2g-FMf_pFJllQQbKC1A1aVLNg\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583"
             },
             {
@@ -17662,7 +17662,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "102.99",
                 "price_link": "https://www.newegg.com/phanteks-mid-tower-xt-series-steel-chassis-tempered-glass-window-abs-plastic-computer-cases-black-d-rgb-ph-xt523v1-dbk01/p/N82E16811854135?Item=N82E16811854135\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-fukB71bFOPXJL3XYwObXvw\u0026ranMID=44583\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             },
             {
@@ -17704,7 +17704,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "104.99",
                 "price_link": "https://www.newegg.com/phanteks-mid-tower-xt-series-steel-chassis-tempered-glass-window-abs-plastic-computer-cases-white-ph-xt523v1-dwt01/p/N82E16811854136?Item=N82E16811854136\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Im2DISTVYscOWKKtWY7mGA\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -17809,7 +17809,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "323",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DF%2B2y3sbJ7K9w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0B8j8%2BWwmd3EVoVXbvcIUaG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOonXBv6xC9DGBIp3J0xC2c%2FthFLHj0b1omp%2BynkzwVDqduK504SsyiZmMuLg6g%2BUAKw2SD%2FJAZq6M1ZzkO8FGRAfQ85VZdEppPvxDLIsstl8h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751653585%400b115d6a_16be_197d6b09411_070c%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2BOutiPZIMuZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJ%2BQk9OWrF9pi3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOm7wMz28u7hITZqTv%2BCDh9xCz4DWhBO2zejK%2B36m7bvStCL2hPA7sQ%2Bt0NBsPmJajU8Kp1LKW5A8BQev157iBZWRy1j2I3kPhpIEuW%2Fz6tbwfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401755463251%40213fdac3_0e72_198b9c377f8_19b7%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 0,
@@ -17845,7 +17845,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "323",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DF%2B2y3sbJ7K9w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0B8j8%2BWwmd3EVoVXbvcIUaG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOonXBv6xC9DGBIp3J0xC2c%2FthFLHj0b1omp%2BynkzwVDqduK504SsyiZmMuLg6g%2BUAKw2SD%2FJAZq6M1ZzkO8FGRAfQ85VZdEppPvxDLIsstl8h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751653585%400b115d6a_16be_197d6b09411_070c%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2BOutiPZIMuZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJ%2BQk9OWrF9pi3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOm7wMz28u7hITZqTv%2BCDh9xCz4DWhBO2zejK%2B36m7bvStCL2hPA7sQ%2Bt0NBsPmJajU8Kp1LKW5A8BQev157iBZWRy1j2I3kPhpIEuW%2Fz6tbwfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401755463251%40213fdac3_0e72_198b9c377f8_19b7%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 360,
@@ -17881,7 +17881,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "323",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DF%2B2y3sbJ7K9w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0B8j8%2BWwmd3EVoVXbvcIUaG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOonXBv6xC9DGBIp3J0xC2c%2FthFLHj0b1omp%2BynkzwVDqduK504SsyiZmMuLg6g%2BUAKw2SD%2FJAZq6M1ZzkO8FGRAfQ85VZdEppPvxDLIsstl8h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751653585%400b115d6a_16be_197d6b09411_070c%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2BOutiPZIMuZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJ%2BQk9OWrF9pi3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOm7wMz28u7hITZqTv%2BCDh9xCz4DWhBO2zejK%2B36m7bvStCL2hPA7sQ%2Bt0NBsPmJajU8Kp1LKW5A8BQev157iBZWRy1j2I3kPhpIEuW%2Fz6tbwfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401755463251%40213fdac3_0e72_198b9c377f8_19b7%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 240,
@@ -18053,7 +18053,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "99",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DGjfoqmkUNOpw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0B8j8%2BWwmd3ETvIRdfljbaG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOk02nRw0b6guJVPhmDjhDYn6%2B7xgliNzIKAgOY5MK3W9pD4SnxwPfjILcF%2Fk6Zdc4I9p%2BJIs%2F6J77UutFujALFoViMPWp8lFwnoWrhcenJegfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401751653561%400bbb24fc_1744_197d6b0365a_980e%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DmwM463KDP%2Bpw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJIWGQrF5aWj%2B3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOk02nRw0b6guJVPhmDjhDYlYcozU8wijRF1pdZY7UENM1h1QP4DxHYizViWTDgT8kgzXGui%2FoOjNIPPaiKAkaOgKLIMm06QCiro6CwmtzYIKZyX4%2FM8gcEzH2sIRVCbBYw%3D%3D\u0026union_lens=lensId%3AMAPI%401755463304%400b520353_0e33_198b9c44715_8abb%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 0,
@@ -18223,7 +18223,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "99",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dqv5TvYQbUF1w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0PsBYS6DGH5TIY4jdKJZOiS3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOk02nRw0b6guJVPhmDjhDYk9HkDYR0p2he5N%2F3ogtMoHC1ivOVDYTwuEQw76Qs7ouY9p%2BJIs%2F6J77UutFujALFoViMPWp8lFwnoWrhcenJegfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401751567633%4021311c3d_1749_197d1910af1_e1e9%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D4JhlBhAyprpw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0HAv1JswduyNB6x8rH6FQKO3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOk02nRw0b6guJVPhmDjhDYloj5XfnuToroGCKuCnhcWVFuZmIF7SX3aEQw76Qs7ouY9p%2BJIs%2F6J77UutFujALFoViMPWp8lFwnoWrhcenJegfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401755368953%402133faf6_0ecd_198b42495d8_ae17%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 240,
@@ -18257,7 +18257,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "99",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DGjfoqmkUNOpw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0B8j8%2BWwmd3ETvIRdfljbaG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOk02nRw0b6guJVPhmDjhDYn6%2B7xgliNzIKAgOY5MK3W9pD4SnxwPfjILcF%2Fk6Zdc4I9p%2BJIs%2F6J77UutFujALFoViMPWp8lFwnoWrhcenJegfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401751653561%400bbb24fc_1744_197d6b0365a_980e%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DmwM463KDP%2Bpw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJIWGQrF5aWj%2B3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOk02nRw0b6guJVPhmDjhDYlYcozU8wijRF1pdZY7UENM1h1QP4DxHYizViWTDgT8kgzXGui%2FoOjNIPPaiKAkaOgKLIMm06QCiro6CwmtzYIKZyX4%2FM8gcEzH2sIRVCbBYw%3D%3D\u0026union_lens=lensId%3AMAPI%401755463304%400b520353_0e33_198b9c44715_8abb%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 0,
@@ -18358,8 +18358,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "279",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DHCa5SOptflVw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0HGPaN585zXJPhnZriqYkOO3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOk02nRw0b6guJVPhmDjhDYlIM6TnKA3xQDLf5%2Fh%2FwGsyywWNi%2BLmTL7epO9ld0ClYYnDixvAaoIgKKYWCHjWClswbFivB8feFFxwQvJVX7xKfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401751485440%40213fac6e_175e_197ccaae1e9_085d%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "299",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D3nzXzYsXXzxw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0EtxgK8dqtTJtYjKClaPdga3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOr8tPiNTUYZWlxUIg7e3StCzyQESe45D9R8faOok5Fz%2FhUxOsfJcf8bZlfi4b71FqYsPferGJmIdi0KoCuFlL2SN%2B59B3wwZVSbLQr4o%2B3zGfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401755463222%4021509793_0eab_198b9c30610_1fc1%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 120,
@@ -18426,7 +18426,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "323",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DF%2B2y3sbJ7K9w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0B8j8%2BWwmd3EVoVXbvcIUaG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOonXBv6xC9DGBIp3J0xC2c%2FthFLHj0b1omp%2BynkzwVDqduK504SsyiZmMuLg6g%2BUAKw2SD%2FJAZq6M1ZzkO8FGRAfQ85VZdEppPvxDLIsstl8h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751653585%400b115d6a_16be_197d6b09411_070c%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D%2BOutiPZIMuZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJ%2BQk9OWrF9pi3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOm7wMz28u7hITZqTv%2BCDh9xCz4DWhBO2zejK%2B36m7bvStCL2hPA7sQ%2Bt0NBsPmJajU8Kp1LKW5A8BQev157iBZWRy1j2I3kPhpIEuW%2Fz6tbwfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401755463251%40213fdac3_0e72_198b9c377f8_19b7%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 240,
@@ -18495,8 +18495,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "247",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D0Skk3nSxg9pw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0OcRun1c6JOMNIjiowg5fau3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOl5q3oyMWN3pFhTFFWHNqkE5nMofZpCec0KN4Ym2e3z5MX9jfH1eyFQCzQpJ0dA50iP4zgQPe2BsLnGae1JFPEuI%2BiazunsO03m3d16okk6Kh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751226137%40212c1fdc_173d_197bd363b47_a979%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "254",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7IBGd0SfqSZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0LhdTg0%2BuNwbca%2FEwD15oDK3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOjIe7FiEnidewVmWIZ0a6PoD%2FpVLOR8xsHKJFyXCi3RpqKEipOgTkIBs4BpkE3v6yMwvPOmpOXQYvJw5GaeozNx1bB%2FbuYh%2FQwjseab3icOQqbDyreLKNZCw56xOKfL1JsYOae24fhW0\u0026union_lens=lensId%3AMAPI%401755117231%40212aa8e1_0e70_198a5239cf7_e434%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 360,
@@ -18529,8 +18529,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "247",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D0Skk3nSxg9pw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0OcRun1c6JOMNIjiowg5fau3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOl5q3oyMWN3pFhTFFWHNqkE5nMofZpCec0KN4Ym2e3z5MX9jfH1eyFQCzQpJ0dA50iP4zgQPe2BsLnGae1JFPEuI%2BiazunsO03m3d16okk6Kh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751226137%40212c1fdc_173d_197bd363b47_a979%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "254",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D7IBGd0SfqSZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0LhdTg0%2BuNwbca%2FEwD15oDK3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOjIe7FiEnidewVmWIZ0a6PoD%2FpVLOR8xsHKJFyXCi3RpqKEipOgTkIBs4BpkE3v6yMwvPOmpOXQYvJw5GaeozNx1bB%2FbuYh%2FQwjseab3icOQqbDyreLKNZCw56xOKfL1JsYOae24fhW0\u0026union_lens=lensId%3AMAPI%401755117231%40212aa8e1_0e70_198a5239cf7_e434%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 360,
@@ -18563,8 +18563,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "247",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D0Skk3nSxg9pw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0OcRun1c6JOMNIjiowg5fau3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOl5q3oyMWN3pFhTFFWHNqkE5nMofZpCec0KN4Ym2e3z5MX9jfH1eyFQCzQpJ0dA50iP4zgQPe2BsLnGae1JFPEuI%2BiazunsO03m3d16okk6Kh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751226137%40212c1fdc_173d_197bd363b47_a979%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "254",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DsXgDuAMqfNVw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJbAbH%2BLyR4KC3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOjIe7FiEnidewVmWIZ0a6PoQ7BGqmZYSTehK9sYTYUBootX7Q5sMxKvWbMZUkQfHwoIT6d2Tr6AxxDWOXyxI6qQHkx6POyRKQrnES0i566LIh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401755463105%402146a7e3_0e36_198b9c13a84_3890%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 360,
@@ -18598,8 +18598,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "119",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DxcGgGmfFk0dw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0B8j8%2BWwmd3Ea0XwlAn73dK3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOnxjeV1Lg99LC%2FQnSn9CK1JTD%2B5XHQKlwYAFJZ6Om25cUUn1NpigpV9Y4cVxUEHEj2CSNwYI5Ch4GLp4pat1EYY6NNfHPHTTijaOKcLy1940h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401751653557%400b50f103_17c8_197d6b024f2_4428%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "117",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DssAaZgd%2BQ3Zw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EtxgK8dqtTJ3jZtsrjANKe3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOonXBv6xC9DGBIp3J0xC2c8fsKH8l6fqQjQa%2FR5STMjjgj1vW7IPX3EAHhfKXmlDtv%2BYAhf3l1K8FOWstkYRX%2FydQlcp54dEKFrCLzKVBkOKU%2BQfC9Oopuaw56xOKfL1JsYOae24fhW0\u0026union_lens=lensId%3AMAPI%401755463036%40213f2a72_0eb2_198b9c02d18_e919%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "radiator_support": 240,
@@ -18996,7 +18996,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "91.99",
+                "price": "94.99",
                 "price_link": "https://www.newegg.com/silverstone-technology-atx-mid-tower-steel-plastic-tempered-glass-cases-black-fara-r1-pro/p/2AM-006F-00130?Item=2AM-006F-00130\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-pw4UGwHM7ZSNHBovjejfMw\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -19224,7 +19224,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "156.42",
+                "price": "181.98",
                 "price_link": "https://www.newegg.com/p/1B4-00JV-00088?Item=9SIAA9UK8H3594\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-5qd2YOWO9f0YYWvADfYzTg\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
