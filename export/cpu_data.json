@@ -2,6 +2,8 @@
     {
         "brand": "amd",
         "cores": 6,
+        "fps": 95,
+        "fps_percentage": 53,
         "gpu": "No",
         "id": "amd-ryzen-5-5600",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-736-V03.jpg",
@@ -31,6 +33,8 @@
     {
         "brand": "amd",
         "cores": 6,
+        "fps": 88,
+        "fps_percentage": 49,
         "gpu": "Vega 7",
         "id": "amd-ryzen-5-5600g",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-683-V01.jpg",
@@ -60,6 +64,8 @@
     {
         "brand": "amd",
         "cores": 6,
+        "fps": 95,
+        "fps_percentage": 53,
         "gpu": "No",
         "id": "amd-ryzen-5-5600x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-666-V01.jpg",
@@ -89,6 +95,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 90,
+        "fps_percentage": 50,
         "gpu": "Vega 8",
         "id": "amd-ryzen-5-5700g",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-682-V01.jpg",
@@ -118,6 +126,8 @@
     {
         "brand": "amd",
         "cores": 6,
+        "fps": 118,
+        "fps_percentage": 65.62,
         "gpu": "Radeon 2CU (RDNA2)",
         "id": "amd-ryzen-5-7600x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-770-02.jpg",
@@ -147,6 +157,8 @@
     {
         "brand": "amd",
         "cores": 6,
+        "fps": 131,
+        "fps_percentage": 72.81,
         "gpu": "Radeon 2CU (RDNA3)",
         "id": "amd-ryzen-5-9600x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-844-05.jpg",
@@ -176,6 +188,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 108,
+        "fps_percentage": 60,
         "gpu": "No",
         "id": "amd-ryzen-7-5700x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-735-V01.jpg",
@@ -205,6 +219,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 121,
+        "fps_percentage": 67.46,
         "gpu": "No",
         "id": "amd-ryzen-7-5700x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-734-S04.jpg",
@@ -234,6 +250,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 110,
+        "fps_percentage": 61,
         "gpu": "No",
         "id": "amd-ryzen-7-5800x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-665-V01.jpg",
@@ -263,6 +281,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 121,
+        "fps_percentage": 67,
         "gpu": "No",
         "id": "amd-ryzen-7-5800x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-734-05.jpg",
@@ -292,6 +312,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 123,
+        "fps_percentage": 68.33,
         "gpu": "Radeon 2CU (RDNA2)",
         "id": "amd-ryzen-7-7700x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-768-01.jpg",
@@ -321,6 +343,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 157,
+        "fps_percentage": 87.18,
         "gpu": "Radeon 2CU (RDNA2)",
         "id": "amd-ryzen-7-7800x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-793-03.png",
@@ -350,6 +374,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 95,
+        "fps_percentage": 53,
         "gpu": "Radeon 12CU (RDNA3)",
         "id": "amd-ryzen-7-8700g",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-811-01.jpg",
@@ -379,6 +405,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 138,
+        "fps_percentage": 76.74,
         "gpu": "Radeon 2CU (RDNA3)",
         "id": "amd-ryzen-7-9700x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-843-09.jpg",
@@ -408,6 +436,8 @@
     {
         "brand": "amd",
         "cores": 8,
+        "fps": 180,
+        "fps_percentage": 100,
         "gpu": "Radeon 2CU (RDNA3)",
         "id": "amd-ryzen-7-9800x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-877-01.png",
@@ -437,6 +467,8 @@
     {
         "brand": "amd",
         "cores": 12,
+        "fps": 112,
+        "fps_percentage": 62,
         "gpu": "No",
         "id": "amd-ryzen-9-5900x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-664-V01.jpg",
@@ -466,6 +498,8 @@
     {
         "brand": "amd",
         "cores": 16,
+        "fps": 115,
+        "fps_percentage": 64,
         "gpu": "No",
         "id": "amd-ryzen-9-5950x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-663-V01.jpg",
@@ -495,6 +529,8 @@
     {
         "brand": "amd",
         "cores": 12,
+        "fps": 125,
+        "fps_percentage": 69.71,
         "gpu": "Radeon 2CU (RDNA2)",
         "id": "amd-ryzen-9-7900",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-785-04.png",
@@ -524,6 +560,8 @@
     {
         "brand": "amd",
         "cores": 12,
+        "fps": 126,
+        "fps_percentage": 70,
         "gpu": "No",
         "id": "amd-ryzen-9-7900x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-769-02.jpg",
@@ -553,6 +591,8 @@
     {
         "brand": "amd",
         "cores": 12,
+        "fps": 160,
+        "fps_percentage": 89,
         "gpu": "No",
         "id": "amd-ryzen-9-7900x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-792-03.png",
@@ -582,6 +622,8 @@
     {
         "brand": "amd",
         "cores": 16,
+        "fps": 135,
+        "fps_percentage": 75,
         "gpu": "No",
         "id": "amd-ryzen-9-7950x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-771-09.jpg",
@@ -611,6 +653,8 @@
     {
         "brand": "amd",
         "cores": 16,
+        "fps": 162,
+        "fps_percentage": 90,
         "gpu": "No",
         "id": "amd-ryzen-9-7950x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-791-03.png",
@@ -640,6 +684,8 @@
     {
         "brand": "amd",
         "cores": 12,
+        "fps": 138,
+        "fps_percentage": 77,
         "gpu": "Radeon 2CU (RDNA3)",
         "id": "amd-ryzen-9-9900x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-842-02.png",
@@ -669,6 +715,8 @@
     {
         "brand": "amd",
         "cores": 12,
+        "fps": 175,
+        "fps_percentage": 97,
         "gpu": "Radeon 2CU (RDNA3)",
         "id": "amd-ryzen-9-9900x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-886-01.png",
@@ -698,6 +746,8 @@
     {
         "brand": "amd",
         "cores": 16,
+        "fps": 140,
+        "fps_percentage": 78,
         "gpu": "Radeon 2CU (RDNA3)",
         "id": "amd-ryzen-9-9950x",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-841-03.png",
@@ -727,6 +777,8 @@
     {
         "brand": "amd",
         "cores": 16,
+        "fps": 178,
+        "fps_percentage": 99,
         "gpu": "Radeon 2CU (RDNA3)",
         "id": "amd-ryzen-9-9950x3d",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-113-884-01.png",
@@ -756,6 +808,8 @@
     {
         "brand": "intel",
         "cores": 4,
+        "fps": 80,
+        "fps_percentage": 44,
         "gpu": "UHD Graphics 730",
         "id": "intel-core-i3-12100",
         "img": "https://c1.neweggimages.com/productimage/nb640/A24GD2203220DB6YE7D.jpg",
@@ -785,6 +839,8 @@
     {
         "brand": "intel",
         "cores": 4,
+        "fps": 80,
+        "fps_percentage": 44,
         "gpu": "No",
         "id": "intel-core-i3-12100f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-357-03.jpg",
@@ -814,6 +870,8 @@
     {
         "brand": "intel",
         "cores": 4,
+        "fps": 82,
+        "fps_percentage": 46,
         "gpu": "UHD Graphics 730",
         "id": "intel-core-i3-13100",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-432-05.jpg",
@@ -843,6 +901,8 @@
     {
         "brand": "intel",
         "cores": 4,
+        "fps": 82,
+        "fps_percentage": 46,
         "gpu": "No",
         "id": "intel-core-i3-13100f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-433-02.png",
@@ -872,6 +932,8 @@
     {
         "brand": "intel",
         "cores": 4,
+        "fps": 85,
+        "fps_percentage": 47,
         "gpu": "UHD Graphics 730",
         "id": "intel-core-i3-14100",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-483-01.jpg",
@@ -901,6 +963,8 @@
     {
         "brand": "intel",
         "cores": 4,
+        "fps": 85,
+        "fps_percentage": 47,
         "gpu": "No",
         "id": "intel-core-i3-14100f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-492-01.jpg",
@@ -930,6 +994,8 @@
     {
         "brand": "intel",
         "cores": 6,
+        "fps": 100,
+        "fps_percentage": 56,
         "gpu": "UHD Graphics 730",
         "id": "intel-core-i5-12400",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-358-S02.jpg",
@@ -959,6 +1025,8 @@
     {
         "brand": "intel",
         "cores": 6,
+        "fps": 100,
+        "fps_percentage": 56,
         "gpu": "No",
         "id": "intel-core-i5-12400f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-360-08.jpg",
@@ -988,6 +1056,8 @@
     {
         "brand": "intel",
         "cores": 6,
+        "fps": 105,
+        "fps_percentage": 58.61,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i5-12500",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-478-01.jpg",
@@ -1017,6 +1087,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 105,
+        "fps_percentage": 58.61,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i5-12600k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-347-05.jpg",
@@ -1046,6 +1118,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 105,
+        "fps_percentage": 58.61,
         "gpu": "No",
         "id": "intel-core-i5-12600kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-349-05.jpg",
@@ -1075,6 +1149,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 118,
+        "fps_percentage": 66,
         "gpu": "UHD Graphics 730",
         "id": "intel-core-i5-13400",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-430-10.jpg",
@@ -1104,6 +1180,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 118,
+        "fps_percentage": 66,
         "gpu": "No",
         "id": "intel-core-i5-13400f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-431-04.jpg",
@@ -1133,6 +1211,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 120,
+        "fps_percentage": 67,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i5-13500",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-429-04.jpg",
@@ -1162,6 +1242,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 120,
+        "fps_percentage": 67,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i5-13600k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-416-V01.jpg",
@@ -1191,6 +1273,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 120,
+        "fps_percentage": 67,
         "gpu": "No",
         "id": "intel-core-i5-13600kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-417-V01.jpg",
@@ -1220,6 +1304,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 122,
+        "fps_percentage": 68,
         "gpu": "UHD Graphics 730",
         "id": "intel-core-i5-14400",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-478-01.jpg",
@@ -1249,6 +1335,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 122,
+        "fps_percentage": 68,
         "gpu": "No",
         "id": "intel-core-i5-14400f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-489-01.jpg",
@@ -1278,6 +1366,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 122,
+        "fps_percentage": 68,
         "gpu": "No",
         "id": "intel-core-i5-14490f",
         "img": "",
@@ -1301,6 +1391,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 125,
+        "fps_percentage": 69,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i5-14500",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-478-01.jpg",
@@ -1330,6 +1422,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 127,
+        "fps_percentage": 70.61,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i5-14600k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-470-07.jpg",
@@ -1359,6 +1453,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 127,
+        "fps_percentage": 70.61,
         "gpu": "No",
         "id": "intel-core-i5-14600kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-472-03.jpg",
@@ -1388,6 +1484,8 @@
     {
         "brand": "intel",
         "cores": 12,
+        "fps": 113,
+        "fps_percentage": 63.06,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i7-12700",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-368-V01.jpg",
@@ -1417,6 +1515,8 @@
     {
         "brand": "intel",
         "cores": 12,
+        "fps": 113,
+        "fps_percentage": 63.06,
         "gpu": "No",
         "id": "intel-core-i7-12700f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-359-03.jpg",
@@ -1446,6 +1546,8 @@
     {
         "brand": "intel",
         "cores": 12,
+        "fps": 113,
+        "fps_percentage": 63.06,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i7-12700k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-343-05.jpg",
@@ -1475,6 +1577,8 @@
     {
         "brand": "intel",
         "cores": 12,
+        "fps": 113,
+        "fps_percentage": 63.06,
         "gpu": "No",
         "id": "intel-core-i7-12700kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-345-05.jpg",
@@ -1504,6 +1608,8 @@
     {
         "brand": "intel",
         "cores": 16,
+        "fps": 135,
+        "fps_percentage": 74.94,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i7-13700",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-427-04.jpg",
@@ -1533,6 +1639,8 @@
     {
         "brand": "intel",
         "cores": 16,
+        "fps": 135,
+        "fps_percentage": 74.94,
         "gpu": "No",
         "id": "intel-core-i7-13700f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-428-04.jpg",
@@ -1562,6 +1670,8 @@
     {
         "brand": "intel",
         "cores": 16,
+        "fps": 135,
+        "fps_percentage": 74.94,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i7-13700k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-414-V01.jpg",
@@ -1591,6 +1701,8 @@
     {
         "brand": "intel",
         "cores": 16,
+        "fps": 135,
+        "fps_percentage": 74.94,
         "gpu": "No",
         "id": "intel-core-i7-13700kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-415-01.jpg",
@@ -1620,6 +1732,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 132,
+        "fps_percentage": 73,
         "gpu": "No",
         "id": "intel-core-i7-13900f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-426-02.png",
@@ -1649,6 +1763,8 @@
     {
         "brand": "intel",
         "cores": 20,
+        "fps": 136,
+        "fps_percentage": 75.76,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i7-14700",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-476-01.jpg",
@@ -1678,6 +1794,8 @@
     {
         "brand": "intel",
         "cores": 20,
+        "fps": 136,
+        "fps_percentage": 75.76,
         "gpu": "No",
         "id": "intel-core-i7-14700f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-487-01.jpg",
@@ -1707,6 +1825,8 @@
     {
         "brand": "intel",
         "cores": 20,
+        "fps": 136,
+        "fps_percentage": 75.76,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i7-14700k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-466-04.jpg",
@@ -1736,6 +1856,8 @@
     {
         "brand": "intel",
         "cores": 20,
+        "fps": 136,
+        "fps_percentage": 75.76,
         "gpu": "No",
         "id": "intel-core-i7-14700kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-468-03.jpg",
@@ -1765,6 +1887,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 136,
+        "fps_percentage": 75.4,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i9-13900",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-425-04.jpg",
@@ -1794,6 +1918,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 136,
+        "fps_percentage": 75.4,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i9-13900k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-412-V01.jpg",
@@ -1823,6 +1949,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 136,
+        "fps_percentage": 75.4,
         "gpu": "No",
         "id": "intel-core-i9-13900kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-413-V07.jpg",
@@ -1852,6 +1980,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 139,
+        "fps_percentage": 77.1,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i9-14900",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-474-01.jpg",
@@ -1881,6 +2011,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 139,
+        "fps_percentage": 77.1,
         "gpu": "UHD Graphics 770",
         "id": "intel-core-i9-14900k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-462-01.jpg",
@@ -1910,6 +2042,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 139,
+        "fps_percentage": 77.1,
         "gpu": "No",
         "id": "intel-core-i9-14900kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-464-03.jpg",
@@ -1939,6 +2073,8 @@
     {
         "brand": "intel",
         "cores": 10,
+        "fps": 115,
+        "fps_percentage": 64,
         "gpu": "Arc Xe-LPG (1800MHZ)",
         "id": "intel-core-ultra-5-225",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-577-01.jpg",
@@ -1968,6 +2104,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 121,
+        "fps_percentage": 67.39,
         "gpu": "Arc Xe-LPG",
         "id": "intel-core-ultra-5-245k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-508-15.jpg",
@@ -1997,6 +2135,8 @@
     {
         "brand": "intel",
         "cores": 14,
+        "fps": 121,
+        "fps_percentage": 67.39,
         "gpu": "No",
         "id": "intel-core-ultra-5-245kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-509-07.jpg",
@@ -2026,6 +2166,8 @@
     {
         "brand": "intel",
         "cores": 20,
+        "fps": 127,
+        "fps_percentage": 70.77,
         "gpu": "No",
         "id": "intel-core-ultra-7-265f",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-575-01.jpg",
@@ -2055,6 +2197,8 @@
     {
         "brand": "intel",
         "cores": 20,
+        "fps": 127,
+        "fps_percentage": 70.77,
         "gpu": "Arc Xe-LPG",
         "id": "intel-core-ultra-7-265k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-506-06.jpg",
@@ -2084,6 +2228,8 @@
     {
         "brand": "intel",
         "cores": 20,
+        "fps": 127,
+        "fps_percentage": 70.77,
         "gpu": "No",
         "id": "intel-core-ultra-7-265kf",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-507-07.jpg",
@@ -2107,6 +2253,8 @@
     {
         "brand": "intel",
         "cores": 24,
+        "fps": 133,
+        "fps_percentage": 74.17,
         "gpu": "Arc Xe-LPG",
         "id": "intel-core-ultra-9-285k",
         "img": "https://c1.neweggimages.com/productimage/nb640/19-118-505-01.jpg",
