@@ -2336,7 +2336,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "3264.81",
+                "price": "3224.64",
                 "price_link": "https://www.newegg.com/asus-rog-astral-rog-astral-rtx5090-o32g-gaming-geforce-rtx-5090-32gb-graphics-card-triple-fans/p/N82E16814126751?Item=N82E16814126751\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranEAID=3815908\u0026ASID=\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-Vi30JJRXXD7e43FzOEN5.A\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -6705,15 +6705,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "298.99",
-                "price_link": "https://www.newegg.com/gigabyte-windforce-gv-n5060wf2oc-8gd-geforce-rtx-5060-8gb-graphics-card-double-fans/p/N82E16814932804?Item=N82E16814932804\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-JimhB8WMBZbqvafxeDP5Vg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "299.99",
                 "price_link": "https://www.amazon.com/dp/B0F8LDHQ7Y"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "299.99",
+                "price_link": "https://www.newegg.com/gigabyte-windforce-gv-n5060wf2oc-8gd-geforce-rtx-5060-8gb-graphics-card-double-fans/p/N82E16814932804?Item=N82E16814932804\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-JimhB8WMBZbqvafxeDP5Vg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
         "release_date": "2025-05-01T00:00:00Z",
@@ -6876,7 +6876,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "859.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/gigabyte-gv-n507taero-oc-16gd-geforce-rtx-5070-ti-16gb-graphics-card-triple-fans/p/N82E16814932767?Item=N82E16814932767\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-OjL2eQkcjZq8aAg0SOp7gQ\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             },
             {
@@ -7266,7 +7266,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "2399.99",
+                "price": "2599.99",
                 "price_link": "https://www.newegg.com/gigabyte-gv-n5090gaming-oc-32gd-geforce-rtx-5090-32gb-graphics-card-triple-fans/p/N82E16814932761?Item=N82E16814932761\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-VBH7VCcanSRI9h26PLzVtw\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFID=3815908"
             },
             {
@@ -10479,7 +10479,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "559.99",
+                "price": "569.99",
                 "price_link": "https://www.newegg.com/msi-rtx-5070-12g-ventus-3x-oc-geforce-rtx-5070-12gb-graphics-card-triple-fans/p/N82E16814137940?Item=N82E16814137940\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-V67Hq4lUKAXyqAwTesUxDQ\u0026ASID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908"
             },
             {
@@ -10637,7 +10637,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "859.99",
                 "price_link": "https://www.newegg.com/msi-rtx-5070-ti-16g-vanguard-soc-geforce-rtx-5070-ti-16gb-graphics-card-triple-fans/p/N82E16814137923?Item=N82E16814137923\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-s.mMfM0Ns3W7x3P2u8EI6A\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -10693,7 +10693,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "789.99",
                 "price_link": "https://www.newegg.com/msi-rtx-5070-ti-16g-ventus-3x-oc-geforce-rtx-5070-ti-16gb-graphics-card-triple-fans/p/N82E16814137933?Item=N82E16814137933\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-5DtuGNulIrZUYSGH0Lla1w\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -10885,7 +10885,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1449.99",
+                "price": "1469.99",
                 "price_link": "https://www.newegg.com/msi-rtx-5080-16g-suprim-liquid-soc-geforce-rtx-5080-16gb-graphics-card/p/N82E16814137905?Item=N82E16814137905\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-31K.doFQWj_2nwrZb8kzvA\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908"
             }
         ],
@@ -10913,7 +10913,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "1669.99",
                 "price_link": "https://www.newegg.com/msi-rtx-5080-16g-suprim-soc-geforce-rtx-5080-16gb-graphics-card/p/N82E16814137906?Item=N82E16814137906\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-W2OqK2U1X1MDUNs7OcJcBg\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908"
             },
             {
@@ -11064,7 +11064,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "2369.99",
+                "price": "2399.99",
                 "price_link": "https://www.newegg.com/msi-rtx-5090-32g-gaming-trio-oc-geforce-rtx-5090-32gb-graphics-card/p/N82E16814137919?Item=N82E16814137919\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-DIe0cr9d33GflVFWiLkWeA\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID="
             },
             {
@@ -11166,7 +11166,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "2499.99",
+                "price": "2476.99",
                 "price_link": "https://www.newegg.com/msi-rtx-5090-32g-vanguard-soc-geforce-rtx-5090-32gb-graphics-card/p/N82E16814137918?Item=N82E16814137918\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-CqGieEAV3ADUWAKucZQKTA\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -11939,7 +11939,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "785.00",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/nvidia-founders-edition-900-1g143-2515-000-geforce-rtx-3070-ti-8gb-graphics-card/p/N82E16814132097?Item=9SIB1PGJE36181\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-GsUE2cyPKUL_dhmwqr2tMA\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ASUBID="
             }
         ],
@@ -14475,7 +14475,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "799.99",
+                "price": "749.99",
                 "price_link": "https://www.newegg.com/sapphire-tech-nitro-11348-01-20g-radeon-rx-9070-xt-16gb-graphics-card-triple-fans/p/N82E16814202448?Item=N82E16814202448\u0026AFFID=3815908\u0026ACRID=1\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ec2M2NpCkWNSKDr.a3c6Lw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -14757,7 +14757,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "749.99",
+                "price": "719.99",
                 "price_link": "https://www.newegg.com/sapphire-tech-pulse-11348-03-20g-radeon-rx-9070-xt-16gb-graphics-card-triple-fans/p/N82E16814202450?Item=N82E16814202450\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ranMID=44583\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-.gSqZf3Lq09EVVDqx4Amcg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -16618,7 +16618,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "249.99",
+                "price": "269.99",
                 "price_link": "https://www.newegg.com/zotac-twin-edge-zt-a30600e-10m-geforce-rtx-3060-12gb-graphics-card-double-fans/p/N82E16814500509?Item=N82E16814500509\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-e5GqAHpBbcE1pJYjsBxWgQ\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -18001,7 +18001,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "439.99",
+                "price": "429.99",
                 "price_link": "https://www.newegg.com/zotac-gaming-geforce-rtx-5060-ti-16gb-twin-edge-oc-graphics-card-double-fans/p/N82E16814500612?Item=N82E16814500612\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-a1YunbT1nyUQu8w9xKZG7A\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -18265,7 +18265,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "849.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/zotac-amp-extreme-infinity-zt-b50710b-10p-geforce-rtx-5070-ti-16gb-graphics-card-triple-fans/p/N82E16814500599?Item=N82E16814500599\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-kfVzCnfjz8qtqXIRsG0omA\u0026ranMID=44583\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly"
             },
             {
@@ -18541,7 +18541,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "2399.99",
+                "price": "2279.99",
                 "price_link": "https://www.newegg.com/zotac-rtx-5090-solid-oc-geforce-rtx-5090-32gb-graphics-card-triple-fans/p/N82E16814500598?Item=N82E16814500598\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-2v3pI9f8y5aOT47gLR5eXg\u0026ranMID=44583\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
