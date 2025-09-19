@@ -110,6 +110,12 @@
                 "platform": "amazon",
                 "price": "249.99",
                 "price_link": "https://amzn.to/4250n20"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "999",
+                "price_link": ""
             }
         ],
         "read_4k": 51,
@@ -144,6 +150,12 @@
                 "platform": "amazon",
                 "price": "76.42",
                 "price_link": "https://www.amazon.com/dp/B086BGWNY8"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "279",
+                "price_link": ""
             }
         ],
         "read_4k": 53,
@@ -170,8 +182,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "83.95",
-                "price_link": "https://www.newegg.com/crucial-1tb-p3/p/N82E16820156296?Item=9SIA12KJ9P1066\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-oT64CTyKGgY.BcCMJc5YfQ\u0026ASID=\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583"
+                "price": "79.99",
+                "price_link": "https://www.newegg.com/crucial-1tb-p3/p/N82E16820156296?utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-0pNS5bKYSzWhYXftMa9wcg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             },
             {
                 "region": "US",
@@ -280,6 +292,12 @@
                 "platform": "amazon",
                 "price": "39.99",
                 "price_link": "https://amzn.to/4oUxrUh"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "229",
+                "price_link": ""
             }
         ],
         "read_4k": 70,
@@ -382,6 +400,12 @@
                 "platform": "amazon",
                 "price": "219.99",
                 "price_link": "https://amzn.to/4lQ5jig"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1899",
+                "price_link": ""
             }
         ],
         "read_4k": 56,
@@ -408,14 +432,20 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "52.00",
-                "price_link": "https://www.newegg.com/crucial-500gb-p3-plus-nvme/p/N82E16820156299?Item=9SIA12KJ775090\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-SJF8GDEtDUbefZdBcGKLxg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
+                "price": "55.00",
+                "price_link": "https://www.newegg.com/crucial-500gb-p3-plus-nvme/p/N82E16820156299?AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-LLOBetfGoLLbn5IZkc0hSA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ACRID=1"
             },
             {
                 "region": "US",
                 "platform": "amazon",
                 "price": "60.00",
                 "price_link": "https://amzn.to/41vgBl3"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "299",
+                "price_link": ""
             }
         ],
         "read_4k": 56,
@@ -531,15 +561,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/crucial-2tb-p310/p/N82E16820156408?Item=N82E16820156408\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-i.riNX1jAQMR0cAlSPNmpg\u0026ranMID=44583\u0026ranEAID=3815908\u0026ACRID=1\u0026utm_medium=affiliate\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "149.00",
                 "price_link": "https://amzn.to/3Vpsaqh"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "159.98",
+                "price_link": "https://www.newegg.com/crucial-2tb-p310/p/N82E16820156408?Item=9SIA12KKD19265\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-.2HHt8cS5evkQwtQ4oo.ug\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026AFFID=3815908"
             }
         ],
         "read_4k": 75,
@@ -568,6 +598,12 @@
                 "platform": "newegg",
                 "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/crucial-500gb-p310-nvme/p/N82E16820156411?Item=N82E16820156411\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-AK18vGILmhpPjZM_moEG7w\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "329",
+                "price_link": ""
             }
         ],
         "read_4k": 75,
@@ -596,6 +632,12 @@
                 "platform": "newegg",
                 "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/crucial-1tb/p/N82E16820156247?Item=N82E16820156247\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ZCtR6NDCWa0p9vQcHilcxg\u0026ASID=\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1299",
+                "price_link": ""
             }
         ],
         "read_4k": 53,
@@ -621,15 +663,21 @@
         "prices": [
             {
                 "region": "US",
+                "platform": "newegg",
+                "price": "473.16",
+                "price_link": "https://www.newegg.com/crucial-2tb-p5/p/N82E16820156250?Item=9SIAD6HBM34685\u0026ranSiteID=nwUw4CS3F2g-USwAccoyI8JF08bWwSl3qA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
+            },
+            {
+                "region": "US",
                 "platform": "amazon",
                 "price": "489.47",
                 "price_link": "https://amzn.to/3VrPcwE"
             },
             {
-                "region": "US",
-                "platform": "newegg",
-                "price": "508.76",
-                "price_link": "https://www.newegg.com/crucial-2tb-p5/p/N82E16820156250?Item=9SIAD6HBM34685\u0026ranSiteID=nwUw4CS3F2g-USwAccoyI8JF08bWwSl3qA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "region": "CN",
+                "platform": "other",
+                "price": "1499",
+                "price_link": ""
             }
         ],
         "read_4k": 55,
@@ -686,6 +734,12 @@
                 "platform": "amazon",
                 "price": "152.63",
                 "price_link": "https://amzn.to/3JFYaEc"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "499",
+                "price_link": ""
             }
         ],
         "read_4k": 64,
@@ -718,8 +772,14 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "517.39",
+                "price": "316.74",
                 "price_link": "https://www.newegg.com/crucial-2tb-p5-plus/p/N82E16820156281?Item=9SIAKVHKBE4394\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-n8Q6.JZ.KOE7K.Y_PHMV6w\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "899",
+                "price_link": ""
             }
         ],
         "read_4k": 64,
@@ -735,14 +795,21 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "crucial-p5-plus-500gb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-156-281-V22.jpg",
         "interface": "PCIe 4.0 x4",
         "max_read": 6600,
         "max_write": 4000,
         "model": "CT500P5PSSD8",
         "name": "P5 Plus 500GB",
         "name_cn": "英睿达P5 Plus 500GB M.2 SSD",
-        "prices": [],
+        "prices": [
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "316.74",
+                "price_link": "https://www.newegg.com/crucial-2tb-p5-plus/p/N82E16820156281?AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-op1khC3zEYYs1_gadAbbRw\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
+            }
+        ],
         "read_4k": 64,
         "release_date": "2021-08-01T00:00:00Z",
         "series": "P5 PLUS",
@@ -773,8 +840,14 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "88.99",
-                "price_link": "https://www.newegg.com/crucial-1tb-t500-nvme/p/N82E16820156388?Item=9SIA2W0K3C6013\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-oyya7CcmjRiNLWQmdPPDWA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
+                "price": "88.98",
+                "price_link": "https://www.newegg.com/crucial-1tb-t500-nvme/p/N82E16820156388?ASID=\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-v7BRoWMzmHNSDnoZVueMJw\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "599",
+                "price_link": ""
             }
         ],
         "read_4k": 79,
@@ -790,7 +863,7 @@
         "form_factor": "M2",
         "heatsink": true,
         "id": "crucial-t500-1tb-heatsink",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-156-390-07.png",
         "interface": "PCIe 4.0 x4",
         "max_read": 7300,
         "max_write": 6800,
@@ -807,8 +880,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "121.99",
-                "price_link": "https://www.newegg.com/crucial-1tb-t500-nvme/p/N82E16820156390?Item=N82E16820156390\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-iMqV0.PYOlU_UWD8SUEDdA\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM"
+                "price": "118.30",
+                "price_link": "https://www.newegg.com/crucial-1tb-t500-nvme/p/N82E16820156390?Item=9SIA12KK7E7431\u0026ranSiteID=nwUw4CS3F2g-maD3fvXc2ygfA02VW0NMDA\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "read_4k": 79,
@@ -834,15 +907,21 @@
         "prices": [
             {
                 "region": "US",
+                "platform": "newegg",
+                "price": "139.98",
+                "price_link": "https://www.newegg.com/crucial-2tb-t500-nvme/p/N82E16820156389?Item=9SIA12KK7E7443\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-J6zfavl6tG5f8AVRkwv.Hw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
+            },
+            {
+                "region": "US",
                 "platform": "amazon",
                 "price": "139.99",
                 "price_link": "https://amzn.to/3VrPLXi"
             },
             {
-                "region": "US",
-                "platform": "newegg",
-                "price": "154.85",
-                "price_link": "https://www.newegg.com/crucial-2tb-t500-nvme/p/N82E16820156389?Item=9SIA12KK7E7443\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-J6zfavl6tG5f8AVRkwv.Hw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
+                "region": "CN",
+                "platform": "other",
+                "price": "1099",
+                "price_link": ""
             }
         ],
         "read_4k": 78,
@@ -858,7 +937,7 @@
         "form_factor": "M2",
         "heatsink": true,
         "id": "crucial-t500-2tb-heatsink",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-156-390-07.png",
         "interface": "PCIe 4.0 x4",
         "max_read": 7400,
         "max_write": 7000,
@@ -875,8 +954,14 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "170.65",
+                "price": "179.25",
                 "price_link": "https://www.newegg.com/crucial-2tb-t500-nvme/p/N82E16820156391?Item=9SIA12KK7E7445\u0026ranSiteID=nwUw4CS3F2g-slm4q6P8AxJbL9JguDlXnA\u0026AFFID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1199",
+                "price_link": ""
             }
         ],
         "read_4k": 78,
@@ -970,15 +1055,21 @@
         "prices": [
             {
                 "region": "US",
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/crucial-500gb-t500-nvme/p/N82E16820156387?Item=9SIAFVFK7R0479\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-gGezMA_ebYfF4Qj883j6Ig\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID="
+            },
+            {
+                "region": "US",
                 "platform": "amazon",
                 "price": "72.99",
                 "price_link": "https://amzn.to/4lVikHD"
             },
             {
-                "region": "US",
-                "platform": "newegg",
-                "price": "169.22",
-                "price_link": "https://www.newegg.com/crucial-500gb-t500-nvme/p/N82E16820156387?Item=9SIAFVFK7R0479\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-gGezMA_ebYfF4Qj883j6Ig\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID="
+                "region": "CN",
+                "platform": "other",
+                "price": "499",
+                "price_link": ""
             }
         ],
         "read_4k": 79,
@@ -1004,15 +1095,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "139.99",
-                "price_link": "https://amzn.to/4lQOJz2"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/crucial-1tb-t700-nvme-2-0/p/N82E16820156329?Item=N82E16820156329\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-CMQ3Coqb_PgC83wo9PHC8w\u0026ASID=\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "153.99",
-                "price_link": "https://www.newegg.com/crucial-1tb-t700-nvme-2-0/p/N82E16820156329?Item=N82E16820156329\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-CMQ3Coqb_PgC83wo9PHC8w\u0026ASID=\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "139.99",
+                "price_link": "https://amzn.to/4lQOJz2"
             }
         ],
         "read_4k": 86,
@@ -1081,6 +1172,12 @@
                 "platform": "amazon",
                 "price": "219.99",
                 "price_link": "https://amzn.to/3JFFZhJ"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "2699",
+                "price_link": ""
             }
         ],
         "read_4k": 82,
@@ -1106,15 +1203,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "249.99",
-                "price_link": "https://amzn.to/47hdyAB"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/crucial-2tb-t700-nvme/p/N82E16820156333?Item=N82E16820156333\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-PnpFZy8lcIj26TpfEiOMww\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "280.00",
-                "price_link": "https://www.newegg.com/crucial-2tb-t700-nvme/p/N82E16820156333?Item=9SIA12KK891299\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-bOKKvCUMyHZK3B9OAzQIKA\u0026ASID=\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "249.99",
+                "price_link": "https://amzn.to/47hdyAB"
             }
         ],
         "read_4k": 82,
@@ -1215,8 +1312,14 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "153.30",
+                "price": "160.50",
                 "price_link": "https://www.newegg.com/crucial-1tb-t705-nvme/p/N82E16820156397?Item=9SIA12KKG55997\u0026ranSiteID=nwUw4CS3F2g-1UIGrmg7ikaWJws0HnBwzw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "999",
+                "price_link": ""
             }
         ],
         "read_4k": 70,
@@ -1242,15 +1345,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "163.65",
-                "price_link": "https://www.newegg.com/crucial-1tb-t705-nvme/p/N82E16820156400?Item=9SIA12KKA16507\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-p48Pqm3GUdgt4.e75LxOCw\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ASUBID="
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "166.89",
                 "price_link": "https://amzn.to/47Q75N5"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "181.15",
+                "price_link": "https://www.newegg.com/crucial-1tb-t705-nvme/p/N82E16820156400?Item=9SIA12KKA16507\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-p48Pqm3GUdgt4.e75LxOCw\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ASUBID="
             }
         ],
         "read_4k": 70,
@@ -1266,7 +1369,7 @@
         "form_factor": "M2",
         "heatsink": true,
         "id": "crucial-t705-2tb-heatsink",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-156-401-02.png",
         "interface": "PCIe 5.0 x4",
         "max_read": 14500,
         "max_write": 12700,
@@ -1283,8 +1386,14 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "258.25",
+                "price": "282.25",
                 "price_link": "https://www.newegg.com/crucial-2tb-t705-nvme/p/N82E16820156401?Item=9SIA12KKA16513\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-.DuDIy9yatxB5FMMBnJmJg\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID="
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1699",
+                "price_link": ""
             }
         ],
         "read_4k": 79,
@@ -1300,7 +1409,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "crucial-t705-4tb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-156-397-09.png",
         "interface": "PCIe 5.0 x4",
         "max_read": 14100,
         "max_write": 12600,
@@ -1317,7 +1426,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "429.30",
+                "price": "435.75",
                 "price_link": "https://www.newegg.com/crucial-4tb-t705-nvme/p/N82E16820156399?Item=9SIA12KKA16517\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-SnR_7UGw_VlX9qM6k6LQ.Q\u0026ranMID=44583\u0026ASUBID=\u0026ACRID=1\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -1351,7 +1460,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "499.75",
+                "price": "499.00",
                 "price_link": "https://www.newegg.com/crucial-4tb-t705/p/N82E16820156402?Item=9SIA12KKA16521\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-odHDZYYPFT4XuUnxJ.DY5A\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -1378,15 +1487,21 @@
         "prices": [
             {
                 "region": "US",
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-1tb-fury-renegade-nvme/p/N82E16820242655?Item=9SIA12KGRM4773\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-yjuCDcObMWJcQ7Q16RObOw\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
+            },
+            {
+                "region": "US",
                 "platform": "amazon",
                 "price": "102.91",
                 "price_link": "https://amzn.to/4lSubWP"
             },
             {
-                "region": "US",
-                "platform": "newegg",
-                "price": "135.00",
-                "price_link": "https://www.newegg.com/kingston-1tb-fury-renegade-nvme/p/N82E16820242655?Item=9SIA12KGRM4773\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-yjuCDcObMWJcQ7Q16RObOw\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
+                "region": "CN",
+                "platform": "other",
+                "price": "699",
+                "price_link": ""
             }
         ],
         "read_4k": 77,
@@ -1449,6 +1564,12 @@
                 "platform": "amazon",
                 "price": "199.95",
                 "price_link": "https://amzn.to/41taSMt"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1359",
+                "price_link": ""
             }
         ],
         "read_4k": 76,
@@ -1517,6 +1638,12 @@
                 "platform": "amazon",
                 "price": "329.95",
                 "price_link": "https://amzn.to/4g561am"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "2499",
+                "price_link": ""
             }
         ],
         "read_4k": 76,
@@ -1543,8 +1670,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "344.99",
-                "price_link": "https://www.newegg.com/kingston-4tb/p/0D9-001B-00583?Item=0D9-001B-00583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-46ON.DnoC3nTmS5R0iSl7g\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908"
+                "price": "343.95",
+                "price_link": "https://www.newegg.com/kingston-4tb/p/0D9-001B-00583?Item=9SIA12KJBW6388\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-TBn9N2OTyiEEiEDZpfPRow\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908"
             },
             {
                 "region": "US",
@@ -1604,15 +1731,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
+                "platform": "newegg",
                 "price": "164.99",
-                "price_link": "https://amzn.to/4oXu4Mi"
+                "price_link": "https://www.newegg.com/kingston-1tb-fury-renegade-g5-nvme-2-0/p/N82E16820242924?Item=N82E16820242924\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-N4ACvGSAie7zK9KCwBauKQ\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "198.55",
-                "price_link": "https://www.newegg.com/kingston-1tb-fury-renegade-g5-nvme-2-0/p/N82E16820242924?Item=9SIA12KKGY9481\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-2LUyICO2Af5kogh2ApdFlA\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_medium=affiliate"
+                "platform": "amazon",
+                "price": "164.99",
+                "price_link": "https://amzn.to/4oXu4Mi"
             }
         ],
         "read_4k": 75,
@@ -1673,7 +1800,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "449.15",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/kingston-4tb-fury-renegade-g5-nvme-2-0/p/N82E16820242926?Item=9SIA24GKH04682\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-BHGFESIfnfteBPOkHEJqZA\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583"
             },
             {
@@ -1797,7 +1924,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "158.40",
+                "price": "162.65",
                 "price_link": "https://www.newegg.com/kingston-2tb-kc3000-nvme/p/N82E16820242660?Item=9SIA12KGU62566\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-ByDn4IhToujfN1OAEZZGQg\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             },
             {
@@ -1805,6 +1932,12 @@
                 "platform": "amazon",
                 "price": "164.69",
                 "price_link": "https://amzn.to/45EMWbw"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1049",
+                "price_link": ""
             }
         ],
         "read_4k": 75,
@@ -1830,15 +1963,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "319.77",
-                "price_link": "https://amzn.to/4fXeEne"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-4096gb-kc3000-nvme/p/N82E16820242661?Item=N82E16820242661\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-QrGJ.bLe6jTTiC8LWys6Wg\u0026utm_medium=affiliate\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "323.00",
-                "price_link": "https://www.newegg.com/kingston-4096gb-kc3000-nvme/p/N82E16820242661?Item=9SIBFJRJAJ8152\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-mwxj18a5yN9zHMzN9dHadQ\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "platform": "amazon",
+                "price": "319.77",
+                "price_link": "https://amzn.to/4fXeEne"
             }
         ],
         "read_4k": 75,
@@ -1865,7 +1998,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "67.99",
+                "price": "64.99",
                 "price_link": "https://www.newegg.com/kingston-512gb-kc3000-nvme/p/N82E16820242658?Item=N82E16820242658\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-W925gXeEeyWO2arM5UxO2A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
@@ -1926,15 +2059,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/kingston-500gb-nv1/p/N82E16820242593?Item=9SIAD6HKH77270\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-vX7lBbFHTu6fxJr0Fl_8BA\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_medium=affiliate"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "59.26",
                 "price_link": "https://amzn.to/46fam7q"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "239.48",
+                "price_link": "https://www.newegg.com/kingston-500gb-nv1/p/N82E16820242593?Item=9SIAD6HKH77270\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-vX7lBbFHTu6fxJr0Fl_8BA\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_medium=affiliate"
             }
         ],
         "read_4k": 0,
@@ -1950,7 +2083,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "kingston-nv2-1tb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-242-729-05.jpg",
         "interface": "PCIe 4.0 x4",
         "max_read": 3500,
         "max_write": 2100,
@@ -1963,6 +2096,18 @@
                 "platform": "amazon",
                 "price": "65.77",
                 "price_link": "https://amzn.to/429iV19"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "95.99",
+                "price_link": "https://www.newegg.com/kingston-1tb-snv2s-nvme/p/N82E16820242730?ASUBID=\u0026ranSiteID=nwUw4CS3F2g-0W6w7xlaJzOJZRb9W71IwQ\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_medium=affiliate"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1039",
+                "price_link": ""
             }
         ],
         "read_4k": 46,
@@ -1978,7 +2123,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "kingston-nv2-2tb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-242-729-05.jpg",
         "interface": "PCIe 4.0 x4",
         "max_read": 3500,
         "max_write": 2800,
@@ -1991,6 +2136,18 @@
                 "platform": "amazon",
                 "price": "118.77",
                 "price_link": "https://amzn.to/47qHc6B"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "119.67",
+                "price_link": "https://www.newegg.com/kingston-2tb-nv2-nvme/p/N82E16820242841?utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-oTcnTrSmd65OujuqIGOf6Q\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1529",
+                "price_link": ""
             }
         ],
         "read_4k": 44,
@@ -2023,8 +2180,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "289.99",
-                "price_link": "https://www.newegg.com/kingston-4tb-nv2-nvme/p/N82E16820242842?Item=9SIBFJRKCR2293\u0026ranSiteID=nwUw4CS3F2g-s9gB8BePJB5ZgGLgI7szTw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate"
+                "price": "289.75",
+                "price_link": "https://www.newegg.com/kingston-4tb-nv2-nvme/p/N82E16820242842?utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026AFFID=3815908\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-7EPZSF8B1P2ccqrgTii5tw\u0026ranEAID=3815908\u0026ASID=\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
         "read_4k": 44,
@@ -2040,7 +2197,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "kingston-nv2-500g",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-242-729-05.jpg",
         "interface": "PCIe 3.0 x4",
         "max_read": 3500,
         "max_write": 2100,
@@ -2053,6 +2210,18 @@
                 "platform": "amazon",
                 "price": "44.77",
                 "price_link": "https://amzn.to/47maZ02"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "75.00",
+                "price_link": "https://www.newegg.com/kingston-500gb-nv2-nvme/p/N82E16820242729?ASID=\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-02qkAPkvu7V2JFrkFPP06A\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "849",
+                "price_link": ""
             }
         ],
         "read_4k": 0,
@@ -2087,6 +2256,12 @@
                 "platform": "amazon",
                 "price": "59.99",
                 "price_link": "https://amzn.to/41vLzJF"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "429",
+                "price_link": ""
             }
         ],
         "read_4k": 76,
@@ -2121,6 +2296,12 @@
                 "platform": "amazon",
                 "price": "114.99",
                 "price_link": "https://amzn.to/47lnpVX"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "799",
+                "price_link": ""
             }
         ],
         "read_4k": 56,
@@ -2147,8 +2328,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
-                "price_link": "https://www.newegg.com/kingston-4tb-snv3s-nvme/p/N82E16820242904?Item=N82E16820242904\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ASUBID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-KirtcK6_5MdfE4xMewoEGg\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
+                "price": "229.00",
+                "price_link": "https://www.newegg.com/kingston-4tb-snv3s-nvme/p/0D9-001B-005B8?AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-W.JBq7iZ2XHM69tlLPPzwA\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ACRID=1"
             },
             {
                 "region": "US",
@@ -2189,6 +2370,12 @@
                 "platform": "amazon",
                 "price": "38.99",
                 "price_link": "https://amzn.to/421AMab"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "319",
+                "price_link": ""
             }
         ],
         "read_4k": 58,
@@ -2271,7 +2458,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "59.76",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/lexar-500gb-nm610/p/N82E16820191876?Item=9SIA4P0BYM2869\u0026ASID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ACRID=1\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-a1o5_ug4lkt.LruCJHSHug\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID="
             }
         ],
@@ -2530,7 +2717,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "lexar-nq780-2tb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/A4P0D2509040ISF6R3E.jpg",
         "interface": "PCIe 3.0 x4",
         "max_read": 0,
         "max_write": 0,
@@ -2543,6 +2730,12 @@
                 "platform": "amazon",
                 "price": "114.99",
                 "price_link": "https://amzn.to/3Vnnmlg"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "129.36",
+                "price_link": "https://www.newegg.com/p/0D9-003V-000C8?utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-42zZSQMAGPkzLidFU529Jw\u0026ranMID=44583"
             }
         ],
         "read_4k": 0,
@@ -2558,7 +2751,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "lexar-nq780-4tb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/A4P0D2509040ISN493E.jpg",
         "interface": "PCIe 3.0 x4",
         "max_read": 0,
         "max_write": 0,
@@ -2571,6 +2764,12 @@
                 "platform": "amazon",
                 "price": "219.99",
                 "price_link": "https://amzn.to/47DOcNB"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "230.06",
+                "price_link": "https://www.newegg.com/p/0D9-003V-000C7?ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026AFFID=3815908\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-nonw_.hWe5nnCcEOoyivAg\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID="
             }
         ],
         "read_4k": 0,
@@ -2681,7 +2880,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "82.07",
+                "price": "81.31",
                 "price_link": "https://www.newegg.com/p/0D9-003V-000B4?Item=9SIA4P0KEJ2896\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-d.sgXT50CTkXReD219fN9A\u0026ranMID=44583\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -2783,7 +2982,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.95",
+                "price": "168.95",
                 "price_link": "https://www.newegg.com/samsung-2tb/p/N82E16820147829?utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-VxE7ZguR5wrZWUBx9pva4g\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -2811,8 +3010,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "307.55",
-                "price_link": "https://www.newegg.com/samsung-4tb-870-evo-series/p/1Z4-000R-00BC9?Item=9SIA12KJM01877\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-rht80ld16pLc9bRhdgW4yg\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ASID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly"
+                "price": "268.99",
+                "price_link": "https://www.newegg.com/samsung-4tb-870-evo-series/p/1Z4-000R-00BC9?ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-KGlgJfw926j2hSxta42oWA\u0026AFFNAME=Pangoly\u0026ranMID=44583"
             }
         ],
         "read_4k": 0,
@@ -2839,8 +3038,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "68.00",
-                "price_link": "https://www.newegg.com/samsung-500gb/p/0D9-0009-00AT3?Item=9SIA12KERD8273\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-Q08p40KgykzzDUJS0TDZHw\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
+                "price": "68.02",
+                "price_link": "https://www.newegg.com/samsung-500gb/p/0D9-0009-00AT3?AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-uv_YosVYZfFwBc1soQQPvg\u0026ASID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             }
         ],
         "read_4k": 0,
@@ -2935,8 +3134,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
-                "price_link": "https://www.newegg.com/samsung-2tb-9100-pro-nvme-2-0/p/N82E16820147903?Item=N82E16820147903\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-FlfgKCuIlpj0Szuv8VeRzg\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
+                "price": "199.00",
+                "price_link": "https://www.newegg.com/p/0D9-0009-00CX3?AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-.WqFLwwx4LPKEn_k1GPjCw\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
             },
             {
                 "region": "US",
@@ -3077,7 +3276,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "129.50",
+                "price": "127.95",
                 "price_link": "https://www.newegg.com/samsung-1tb-980/p/N82E16820147804?Item=9SIA12KE7F2072\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-HoyTJIDb2hisHjpsd7DK4g\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -3094,7 +3293,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "samsung-980-250gb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-147-802-V02.jpg",
         "interface": "PCIe 3.0 x4",
         "max_read": 2900,
         "max_write": 1300,
@@ -3102,6 +3301,12 @@
         "name": "980 250GB",
         "name_cn": "",
         "prices": [
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "68.05",
+                "price_link": "https://www.newegg.com/samsung-250gb-980/p/N82E16820147802?ranSiteID=nwUw4CS3F2g-C4qqblEppKOEM6wQVlRYqQ\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026ranMID=44583\u0026AFFID=3815908"
+            },
             {
                 "region": "US",
                 "platform": "amazon",
@@ -3139,8 +3344,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "82.75",
-                "price_link": "https://www.newegg.com/samsung-500gb-980/p/N82E16820147813?Item=9SIA12KHZA9628\u0026ranSiteID=nwUw4CS3F2g-EpYmKZ11I1GKfQfMj68vvA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate"
+                "price": "81.95",
+                "price_link": "https://www.newegg.com/samsung-500gb-980/p/N82E16820147803?ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-CqoEk9AwUVnru73laPa9Bw\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
         "read_4k": 56,
@@ -3156,7 +3361,7 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "samsung-980-pro-1tb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-147-790-V01.jpg",
         "interface": "PCIe 4.0 x4",
         "max_read": 7000,
         "max_write": 5000,
@@ -3169,6 +3374,18 @@
                 "platform": "amazon",
                 "price": "148.00",
                 "price_link": "https://amzn.to/4g43tcw"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "169.99",
+                "price_link": "https://www.newegg.com/samsung-1tb-980-pro/p/N82E16820147790?ranSiteID=nwUw4CS3F2g-B9Ysh1bdrleo7.VA7Wk9JA\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID="
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "749",
+                "price_link": ""
             }
         ],
         "read_4k": 78,
@@ -3263,8 +3480,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "239.45",
-                "price_link": "https://www.newegg.com/samsung-2tb-980-pro/p/N82E16820147826?Item=9SIAADFKCF9108\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-NYqnzdvVke0hJfKa52EpvA\u0026utm_medium=affiliate\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "239.99",
+                "price_link": "https://www.newegg.com/samsung-2tb-980-pro/p/N82E16820147826?ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Yx5TDb_4hWYugknq1w_LKg\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583"
             }
         ],
         "read_4k": 76,
@@ -3320,13 +3537,19 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/samsung-1-tb-nvme-m-2/p/0D9-0009-00CV5?Item=9SIA12KKG05439\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-CmJ3.MevbyuNjpGU0K.ziA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
+                "price_link": "https://www.newegg.com/samsung-1tb-990-evo-nvme-2-0/p/N82E16820147886?Item=N82E16820147886\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-v8Xqo5zQByWKu8BkskLAZw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
                 "platform": "amazon",
                 "price": "79.99",
                 "price_link": "https://amzn.to/4n6nelU"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "599",
+                "price_link": ""
             }
         ],
         "read_4k": 64,
@@ -3361,6 +3584,12 @@
                 "platform": "amazon",
                 "price": "119.99",
                 "price_link": "https://amzn.to/4gkGJW1"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "1049",
+                "price_link": ""
             }
         ],
         "read_4k": 65,
@@ -3386,15 +3615,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "64.99",
-                "price_link": "https://www.newegg.com/samsung-1tb-990-evo-plus-nvme-2-0/p/N82E16820147899?Item=N82E16820147899\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-hjZyy2ocgKQC7_cqxxnz6g\u0026ASID=\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "64.99",
                 "price_link": "https://amzn.to/463Lrmb"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "69.99",
+                "price_link": "https://www.newegg.com/samsung-1tb-990-evo-plus-nvme-2-0/p/N82E16820147899?Item=N82E16820147899\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-hjZyy2ocgKQC7_cqxxnz6g\u0026ASID=\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
             }
         ],
         "read_4k": 74,
@@ -3420,15 +3649,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "119.99",
-                "price_link": "https://www.newegg.com/samsung-2tb-990-evo-plus-nvme-2-0/p/N82E16820147900?Item=N82E16820147900\u0026ranSiteID=nwUw4CS3F2g-RMyNlZBLAxZQKOLbHeXA7A\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "119.99",
                 "price_link": "https://amzn.to/4lPBa2I"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "129.99",
+                "price_link": "https://www.newegg.com/samsung-2tb-990-evo-plus-nvme-2-0/p/N82E16820147900?Item=N82E16820147900\u0026ranSiteID=nwUw4CS3F2g-RMyNlZBLAxZQKOLbHeXA7A\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly"
             }
         ],
         "read_4k": 74,
@@ -3624,15 +3853,21 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "269.99",
-                "price_link": "https://www.newegg.com/samsung-4tb-990-pro-nvme-2-0/p/N82E16820147879?Item=N82E16820147879\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-6wTaz8pwGrSGO1234PD4NA\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "269.99",
                 "price_link": "https://amzn.to/4g6Tmnu"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "279.99",
+                "price_link": "https://www.newegg.com/samsung-4tb-990-pro-nvme-2-0/p/N82E16820147879?Item=N82E16820147879\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-6wTaz8pwGrSGO1234PD4NA\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFID=3815908"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "2599",
+                "price_link": ""
             }
         ],
         "read_4k": 80,
@@ -3665,7 +3900,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "299.99",
+                "price": "319.99",
                 "price_link": "https://www.newegg.com/samsung-4gb-990-pro-nvme-2-0/p/N82E16820147878?Item=N82E16820147878\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-cWYsR9cLVr_.rdyPNEUuWw\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -3738,14 +3973,21 @@
         "form_factor": "M2",
         "heatsink": false,
         "id": "solidigm-p41-plus-series-512gb",
-        "img": "",
+        "img": "https://c1.neweggimages.com/productimage/nb640/20-318-013-05.png",
         "interface": "PCIe 3.0 x4",
         "max_read": 7000,
         "max_write": 4700,
         "model": "SSDPFKKW512H7X1",
         "name": "P41 Plus Series 512GB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "249.75",
+                "price_link": "https://www.newegg.com/solidigm-2tb-p44-pro/p/N82E16820318013?AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-22E_sBsD_5LX_xltvx7Aqw\u0026ranEAID=3815908\u0026ASID="
+            }
+        ],
         "read_4k": 0,
         "release_date": "2022-10-01T00:00:00Z",
         "series": "P41 PLUS SERIES",
@@ -3804,8 +4046,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "158.99",
-                "price_link": "https://www.newegg.com/solidigm-2tb-p41-plus/p/N82E16820329022?Item=9SIA12KJBS8356\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-ljdYW2C6SQHbd0NEryDf9g\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "119.99",
+                "price_link": "https://www.newegg.com/solidigm-2tb-p41-plus/p/N82E16820329022?AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-R1BJIQZ6tuRMa.bUrkKWbw\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583"
             },
             {
                 "region": "US",
@@ -3940,7 +4182,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "720.99",
+                "price": "662.99",
                 "price_link": "https://www.newegg.com/team-group-8tb-mp44-nvme/p/N82E16820985039?Item=N82E16820985039\u0026ASID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-8uFRUTWpOyZAFnSgC_JnBA\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ACRID=1\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID="
             }
         ],
@@ -3967,15 +4209,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "56.99",
-                "price_link": "https://www.newegg.com/team-group-1tb-mp44l-nvme-1-4/p/N82E16820331919?Item=N82E16820331919\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-7mz._LC96uGzWRng1bsOrA\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "56.99",
                 "price_link": "https://amzn.to/421HAVh"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "58.99",
+                "price_link": "https://www.newegg.com/team-group-1tb-mp44l-nvme-1-4/p/N82E16820331919?Item=N82E16820331919\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-7mz._LC96uGzWRng1bsOrA\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
             }
         ],
         "read_4k": 69,
@@ -4008,7 +4250,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "105.99",
+                "price": "106.99",
                 "price_link": "https://www.newegg.com/team-group-2tb-mp44l-nvme-1-4/p/N82E16820331920?Item=N82E16820331920\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-SX2vLrXoLZZksVGChVs1Iw\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
             }
         ],
@@ -4036,7 +4278,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "35.99",
+                "price": "36.99",
                 "price_link": "https://www.newegg.com/team-group-500gb-mp44l-nvme-1-4/p/N82E16820331918?Item=N82E16820331918\u0026ranSiteID=nwUw4CS3F2g-utYEXhdNnHj7zDiSp4fsVg\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
@@ -4250,7 +4492,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "164.99",
+                "price": "159.99",
                 "price_link": "https://www.newegg.com/western-digital-2tb-black-sn850x-nvme/p/N82E16820250246?Item=9SIAAY9KF47388\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-oybzuUYSeeo5gRHlg8LM0A\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
             },
             {
@@ -4352,7 +4594,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "599.99",
+                "price": "539.99",
                 "price_link": "https://www.newegg.com/western-digital-8tb-black/p/N82E16820250270?Item=N82E16820250270\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-DW_yeoEheqliS6ueyr16zA\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1"
             },
             {
@@ -4385,15 +4627,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "671.95",
-                "price_link": "https://amzn.to/4lOquRR"
+                "platform": "newegg",
+                "price": "629.99",
+                "price_link": "https://www.newegg.com/western-digital-8tb-black/p/N82E16820250272?Item=N82E16820250272\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-QUeF4eTvFhno618n.4Fe3g\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "699.99",
-                "price_link": "https://www.newegg.com/western-digital-8tb-black/p/N82E16820250272?Item=N82E16820250272\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-QUeF4eTvFhno618n.4Fe3g\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
+                "platform": "amazon",
+                "price": "671.95",
+                "price_link": "https://amzn.to/4lOquRR"
             }
         ],
         "read_4k": 0,
@@ -4588,6 +4830,12 @@
                 "platform": "newegg",
                 "price": "79.99",
                 "price_link": "https://www.newegg.com/western-digital-1tb-wd-blue-sn580-nvme-1-4/p/N82E16820250254?Item=9SIA2W0K3T4156\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-lt1jC9u1OgD6t3aQNBZ81w\u0026ranMID=44583\u0026ASID=\u0026utm_medium=affiliate\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "539",
+                "price_link": ""
             }
         ],
         "read_4k": 69,
@@ -4614,14 +4862,20 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "114.99",
-                "price_link": "https://www.newegg.com/western-digital-2tb-wd-blue-sn580-nvme-1-4/p/N82E16820250253?Item=9SIAMNEK5N3184\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-y7moH8lFweRmwtPxADtycw\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "114.59",
+                "price_link": "https://www.newegg.com/western-digital-2tb-wd-blue-sn580-nvme-1-4/p/N82E16820250253?utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-kSHaRBVNUT7csz_DZUXLVQ\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
                 "platform": "amazon",
                 "price": "123.97",
                 "price_link": "https://amzn.to/45ZGfQj"
+            },
+            {
+                "region": "CN",
+                "platform": "other",
+                "price": "949",
+                "price_link": ""
             }
         ],
         "read_4k": 59,
@@ -4681,15 +4935,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
+                "platform": "newegg",
                 "price": "69.99",
-                "price_link": "https://amzn.to/4g18TVv"
+                "price_link": "https://www.newegg.com/western-digital-1tb-sn7100-nvme/p/N82E16820250276?Item=N82E16820250276\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-CnJXKfYPenk.kIt_GZuL0w\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "74.95",
-                "price_link": "https://www.newegg.com/western-digital-1tb-sn7100-nvme/p/N82E16820250276?Item=9SIA2KNKFS4092\u0026ACRID=1\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-fwLzEDIxE1J7pEagQqdJeg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "platform": "amazon",
+                "price": "69.99",
+                "price_link": "https://amzn.to/4g18TVv"
             }
         ],
         "read_4k": 88,
@@ -4750,7 +5004,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
+                "price": "234.99",
                 "price_link": "https://www.newegg.com/sandisk-4tb-sn7100-nvme/p/0D9-001A-003S1?Item=0D9-001A-003S1\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-Uk92iw0QZ0VjzGmHr7LQwA\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -4811,15 +5065,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "159.00",
-                "price_link": "https://amzn.to/4n09adC"
+                "platform": "newegg",
+                "price": "154.99",
+                "price_link": "https://www.newegg.com/western-digital-1tb-nvme/p/N82E16820250278?Item=N82E16820250278\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-cM6B_HxOxNLp1zXRDknTTQ\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "159.99",
-                "price_link": "https://www.newegg.com/western-digital-1tb-nvme/p/N82E16820250278?Item=N82E16820250278\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-cM6B_HxOxNLp1zXRDknTTQ\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
+                "platform": "amazon",
+                "price": "159.00",
+                "price_link": "https://amzn.to/4n09adC"
             }
         ],
         "read_4k": 0,
@@ -4846,8 +5100,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
-                "price_link": "https://www.newegg.com/western-digital-2tb-nvme/p/N82E16820250279?Item=N82E16820250279\u0026ranSiteID=nwUw4CS3F2g-753UsQCLKKYmEqlfqJgx_w\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "228.99",
+                "price_link": "https://www.newegg.com/western-digital-2tb-nvme/p/N82E16820250279?AFFNAME=Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-hZwlZ5yOHHJvjxkv21aSNw\u0026utm_medium=affiliate\u0026ASID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ASUBID="
             },
             {
                 "region": "US",
@@ -4879,15 +5133,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "429.99",
-                "price_link": "https://www.newegg.com/western-digital-4tb-nvme/p/N82E16820250280?Item=N82E16820250280\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-oTg1eWewBPtgxB9VKRVDog\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "429.99",
                 "price_link": "https://amzn.to/4oY7aEv"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "449.99",
+                "price_link": "https://www.newegg.com/western-digital-4tb-nvme/p/N82E16820250280?Item=N82E16820250280\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-oTg1eWewBPtgxB9VKRVDog\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "read_4k": 0,
@@ -5038,8 +5292,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/western-digital-4tb-wd-black-sn850p-nvme-ssd-for-ps5-consoles/p/N82E16820250259?Item=9SIA4P0KD86641\u0026ranSiteID=nwUw4CS3F2g-pybPR7F0Cl5Px4mjtW8KnA\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "393.90",
+                "price_link": "https://www.newegg.com/western-digital-4tb-wd-black-sn850p-nvme-ssd-for-ps5-consoles/p/N82E16820250259?ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-ZPx18GPtUGbBOHixbzzDKg\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID="
             },
             {
                 "region": "US",
@@ -5068,7 +5322,14 @@
         "model": "",
         "name": "Ti600 1TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "419",
+                "price_link": "https://item.jd.com/100068720859.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TI600",
@@ -5089,7 +5350,14 @@
         "model": "",
         "name": "Ti600 2TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "769",
+                "price_link": "https://item.jd.com/100067394436.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TI600",
@@ -5110,7 +5378,14 @@
         "model": "",
         "name": "Ti600 500GB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "309",
+                "price_link": "https://item.jd.com/100067394454.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TI600",
@@ -5131,7 +5406,14 @@
         "model": "",
         "name": "TiPlus5000 1TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "taobao",
+                "price": "679",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DUk6GiW4IWilw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0B9cuMAwVG4i0XYLjcYdpDy3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOp7Z1q4ay8QbftqXnndfU0lS6cFxVmAz4XjCYfSF%2BVzG%2FPq2axAvSuJIrLGokvpFg0DFY%2FW%2Fuz%2Baaa19cYJjSMZHepYE3O1IxU%2BCfQRY1bmfwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401758148297%40212ca576_0ddd_19959ce0464_bb9f%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS5000",
@@ -5152,7 +5434,14 @@
         "model": "",
         "name": "TiPlus5000 2TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "taobao",
+                "price": "679",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DUk6GiW4IWilw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0B9cuMAwVG4i0XYLjcYdpDy3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOp7Z1q4ay8QbftqXnndfU0lS6cFxVmAz4XjCYfSF%2BVzG%2FPq2axAvSuJIrLGokvpFg0DFY%2FW%2Fuz%2Baaa19cYJjSMZHepYE3O1IxU%2BCfQRY1bmfwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401758148297%40212ca576_0ddd_19959ce0464_bb9f%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS5000",
@@ -5173,7 +5462,14 @@
         "model": "",
         "name": "TiPlus5000 512GB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "taobao",
+                "price": "679",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DUk6GiW4IWilw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0B9cuMAwVG4i0XYLjcYdpDy3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOp7Z1q4ay8QbftqXnndfU0lS6cFxVmAz4XjCYfSF%2BVzG%2FPq2axAvSuJIrLGokvpFg0DFY%2FW%2Fuz%2Baaa19cYJjSMZHepYE3O1IxU%2BCfQRY1bmfwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401758148297%40212ca576_0ddd_19959ce0464_bb9f%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS5000",
@@ -5194,7 +5490,14 @@
         "model": "",
         "name": "TiPlus7100 1TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "519",
+                "price_link": "https://item.jd.com/100041006319.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS7100",
@@ -5215,7 +5518,14 @@
         "model": "",
         "name": "TiPlus7100 1TB 黑神话·悟空联名版",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "539",
+                "price_link": "https://item.jd.com/100113956235.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS7100",
@@ -5236,7 +5546,14 @@
         "model": "",
         "name": "TiPlus7100 2TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "929",
+                "price_link": "https://item.jd.com/100049404395.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS7100",
@@ -5257,7 +5574,14 @@
         "model": "",
         "name": "TiPlus7100 2TB 黑神话·悟空联名版",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "949",
+                "price_link": "https://item.jd.com/100135244590.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS7100",
@@ -5278,7 +5602,14 @@
         "model": "",
         "name": "TiPlus7100 4TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "1759",
+                "price_link": "https://item.jd.com/100077740918.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS7100",
@@ -5299,7 +5630,14 @@
         "model": "",
         "name": "TiPlus7100 512GB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "399",
+                "price_link": "https://item.jd.com/100041006345.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPLUS7100",
@@ -5320,7 +5658,14 @@
         "model": "",
         "name": "TiPro7000 1TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "taobao",
+                "price": "499",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DrapEBnDe%2F1Fw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0B9cuMAwVG4iYjfvocrUi%2Fa3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOq6kjcYogmZ%2BFfqgscz3nbNoFqsC9Fb9f%2F3OUOdmvryocFBnVQSAurq%2FYwKbfM60jD5mnkDFo%2FTlh%2BjsYfeoLc84XSsP%2BIEqHxZE8UKZeYpiwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401758148401%40213de38f_0e99_19959cf98ca_d11a%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPRO7000",
@@ -5341,7 +5686,14 @@
         "model": "",
         "name": "TiPro7000 2TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "taobao",
+                "price": "499",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DrapEBnDe%2F1Fw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0B9cuMAwVG4iYjfvocrUi%2Fa3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOq6kjcYogmZ%2BFfqgscz3nbNoFqsC9Fb9f%2F3OUOdmvryocFBnVQSAurq%2FYwKbfM60jD5mnkDFo%2FTlh%2BjsYfeoLc84XSsP%2BIEqHxZE8UKZeYpiwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401758148401%40213de38f_0e99_19959cf98ca_d11a%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPRO7000",
@@ -5362,7 +5714,14 @@
         "model": "",
         "name": "TiPro7000 512GB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "taobao",
+                "price": "499",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DrapEBnDe%2F1Fw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0B9cuMAwVG4iYjfvocrUi%2Fa3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOq6kjcYogmZ%2BFfqgscz3nbNoFqsC9Fb9f%2F3OUOdmvryocFBnVQSAurq%2FYwKbfM60jD5mnkDFo%2FTlh%2BjsYfeoLc84XSsP%2BIEqHxZE8UKZeYpiwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401758148401%40213de38f_0e99_19959cf98ca_d11a%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPRO7000",
@@ -5383,7 +5742,14 @@
         "model": "",
         "name": "TiPro9000 1TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "959",
+                "price_link": "https://item.jd.com/100165487088.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPRO9000",
@@ -5404,7 +5770,14 @@
         "model": "",
         "name": "TiPro9000 2TB",
         "name_cn": "",
-        "prices": [],
+        "prices": [
+            {
+                "region": "CN",
+                "platform": "jd",
+                "price": "1599",
+                "price_link": "https://item.jd.com/100165487104.html"
+            }
+        ],
         "read_4k": 0,
         "release_date": null,
         "series": "TIPRO9000",
