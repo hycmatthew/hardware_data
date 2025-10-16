@@ -160,15 +160,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "219.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-64gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820236861?Item=N82E16820236861\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-9lEQnTnBc6PzMZV8KthMWQ\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "219.99",
                 "price_link": "https://amzn.to/46bUv9I"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "299.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-64gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820236861?Item=N82E16820236861\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-9lEQnTnBc6PzMZV8KthMWQ\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
         "profile_expo": false,
@@ -585,7 +585,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "129.99",
+                "price": "179.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-gray/p/N82E16820236890?Item=N82E16820236890\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-PUwkDUHgSna5O5pW2eJXvg\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -703,7 +703,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "174.99",
+                "price": "194.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236849?Item=N82E16820236849\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-ZPwlfX_NyQXIk76CRjU80A\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -730,15 +730,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "164.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982009?Item=N82E16820982009\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-CI8xt4Z1Qd80tbm58w5B4g\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "171.99",
                 "price_link": "https://amzn.to/46a4xIt"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "209.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982009?Item=N82E16820982009\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-CI8xt4Z1Qd80tbm58w5B4g\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFID=3815908"
             }
         ],
         "profile_expo": false,
@@ -827,7 +827,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.90",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820236946?Item=N82E16820236946\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-eE1oWO2yJ_WtTjtbcr8R7A\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -1112,7 +1112,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "289.99",
+                "price": "379.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982013?Item=N82E16820982013\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-k7K17IPpDWSg8OBl.tDi7A\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -1146,7 +1146,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "289.99",
+                "price": "379.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982026?Item=N82E16820982026\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-HASrzpYXS7q4aLWz0b8MAg\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -1174,7 +1174,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "449.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-platinum-rgb-64gb-ddr5-6800-cas-latency-cl40-desktop-memory-black/p/N82E16820982025?Item=N82E16820982025\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-32rAdBrBZg71xwzxBTVN0w\u0026ranMID=44583\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1"
             }
         ],
@@ -1613,7 +1613,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982097?Item=N82E16820982097\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-7HjV4j_6yWZVdp5kFhrxdQ\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -1640,15 +1640,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "169.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982102?Item=N82E16820982102\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-HL0UTuStECW12durO2NPrQ\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "179.99",
                 "price_link": "https://amzn.to/45PI7wd"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "219.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982102?Item=N82E16820982102\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-HL0UTuStECW12durO2NPrQ\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             }
         ],
         "profile_expo": true,
@@ -1681,7 +1681,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-white/p/N82E16820982098?Item=N82E16820982098\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-yIRM1p_vlz1TMbXiXXgtbQ\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             }
         ],
@@ -1709,7 +1709,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "229.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820982090?Item=N82E16820982090\u0026ranSiteID=nwUw4CS3F2g-LgYH0JIFR0k4dNebjiWrvA\u0026ACRID=1\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             }
         ],
@@ -1743,7 +1743,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "229.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-white/p/N82E16820982091?Item=N82E16820982091\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-rmLakm9pgMHS01h0l6nJ2Q\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -1777,7 +1777,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "249.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6600-cas-latency-cl32-desktop-memory-black/p/N82E16820982082?Item=N82E16820982082\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-DG1qi9jqOTnD5Is.fm2TAg\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             }
         ],
@@ -1804,15 +1804,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "189.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6600-cas-latency-cl32-desktop-memory-white/p/N82E16820982083?Item=N82E16820982083\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-ToECDhmAzj0BMgFsxDns3g\u0026ASID=\u0026ranMID=44583\u0026ASUBID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "189.99",
                 "price_link": "https://amzn.to/41tSEKV"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "249.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-6600-cas-latency-cl32-desktop-memory-white/p/N82E16820982083?Item=N82E16820982083\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-ToECDhmAzj0BMgFsxDns3g\u0026ASID=\u0026ranMID=44583\u0026ASUBID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
         "profile_expo": false,
@@ -1845,7 +1845,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "214.99",
+                "price": "249.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-7000-cas-latency-cl34-desktop-memory-black/p/N82E16820982074?Item=N82E16820982074\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-W5RdI2ZW6YV8O9LFwRiDlQ\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID="
             }
         ],
@@ -1879,7 +1879,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "214.99",
+                "price": "249.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-7000-cas-latency-cl34-desktop-memory-white/p/N82E16820982075?Item=N82E16820982075\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-S.j.FSUrQvcOHYAUbpvFig\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -1907,7 +1907,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.99",
+                "price": "259.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-7200-cas-latency-cl34-desktop-memory-black/p/N82E16820982070?Item=N82E16820982070\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-PuoLkE7WxgtT_vCAXVhLKg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1"
             }
         ],
@@ -1941,7 +1941,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.99",
+                "price": "259.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-32gb-ddr5-7200-cas-latency-cl34-desktop-memory-white/p/N82E16820982071?Item=N82E16820982071\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-aT7hMyHUrc1ep.djjaNdHw\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -2167,7 +2167,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "389.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982092?Item=N82E16820982092\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-u0emD9EqOLDnj58IcPuAqA\u0026utm_medium=affiliate\u0026ASUBID=\u0026ASID="
             }
         ],
@@ -2194,15 +2194,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "309.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982101?Item=N82E16820982101\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-6rbIP_EVja8_gwOPs4kedw\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "319.99",
                 "price_link": "https://amzn.to/4694sEV"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "379.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982101?Item=N82E16820982101\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-6rbIP_EVja8_gwOPs4kedw\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": true,
@@ -2235,7 +2235,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "389.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-white/p/N82E16820982093?Item=N82E16820982093\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-ru5pgR_AW_kVBfg0MqMgng\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             }
         ],
@@ -2290,15 +2290,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "329.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6400-cas-latency-cl32-desktop-memory-white/p/N82E16820982087?Item=N82E16820982087\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-c4YxUMV8frHSK5tRnEe2Ww\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "329.99",
                 "price_link": "https://amzn.to/3HXkIj1"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "429.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6400-cas-latency-cl32-desktop-memory-white/p/N82E16820982087?Item=N82E16820982087\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-c4YxUMV8frHSK5tRnEe2Ww\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -2331,7 +2331,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "339.99",
+                "price": "439.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6600-cas-latency-cl32-desktop-memory-black/p/N82E16820982080?Item=N82E16820982080\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-aYSxEQ4ThuFtLvxczaA5pw\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -2359,7 +2359,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "339.99",
+                "price": "439.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6600-cas-latency-cl32-desktop-memory-white/p/N82E16820982081?Item=N82E16820982081\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-eQehq1s7xb1dLplmeeJ2zw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -2420,15 +2420,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "329.99",
-                "price_link": "https://amzn.to/46d2qnd"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6000-cas-latency-cl36-desktop-memory-white/p/N82E16820982100?Item=N82E16820982100\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-cuEdEgSLi6W5ySwSBDSOLQ\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "329.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6000-cas-latency-cl36-desktop-memory-white/p/N82E16820982100?Item=N82E16820982100\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-cuEdEgSLi6W5ySwSBDSOLQ\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly"
+                "price_link": "https://amzn.to/46d2qnd"
             }
         ],
         "profile_expo": false,
@@ -2461,7 +2461,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "379.99",
+                "price": "459.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820982088?Item=N82E16820982088\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-A4cNooG1OnKMkby3x5ImAw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026AFFID=3815908"
             }
         ],
@@ -2495,7 +2495,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "379.99",
+                "price": "439.99",
                 "price_link": "https://www.newegg.com/corsair-dominator-titanium-64gb-ddr5-6400-cas-latency-cl32-desktop-memory-white/p/N82E16820982089?Item=N82E16820982089\u0026ranSiteID=nwUw4CS3F2g-tA87gX.urRwFRgNERbzq6g\u0026ACRID=1\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             }
         ],
@@ -2522,15 +2522,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "409.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820982084?Item=N82E16820982084\u0026ranSiteID=nwUw4CS3F2g-PnUN.eLv83lVTnOB7u22yA\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID="
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "419.99",
                 "price_link": "https://amzn.to/4lMo46l"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "484.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820982084?Item=N82E16820982084\u0026ranSiteID=nwUw4CS3F2g-PnUN.eLv83lVTnOB7u22yA\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID="
             }
         ],
         "profile_expo": false,
@@ -2556,15 +2556,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "409.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6400-cas-latency-cl32-desktop-memory-white/p/N82E16820982085?Item=N82E16820982085\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-RGU8lnQZH8_ZaTVPtZjqXg\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "419.99",
                 "price_link": "https://amzn.to/3HV7C5U"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "484.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6400-cas-latency-cl32-desktop-memory-white/p/N82E16820982085?Item=N82E16820982085\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-RGU8lnQZH8_ZaTVPtZjqXg\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -2590,15 +2590,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "414.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6600-cas-latency-cl32-desktop-memory-black/p/N82E16820982078?Item=N82E16820982078\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-UZu.oaDURuXfIGX.JvfWWw\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "424.99",
                 "price_link": "https://amzn.to/45GBWdJ"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "489.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6600-cas-latency-cl32-desktop-memory-black/p/N82E16820982078?Item=N82E16820982078\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-UZu.oaDURuXfIGX.JvfWWw\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -2624,15 +2624,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "414.99",
-                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6600-cas-latency-cl32-desktop-memory-white/p/N82E16820982079?Item=N82E16820982079\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-faS3Kf7DFaAQWivfXI2CQg\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "424.99",
                 "price_link": "https://amzn.to/4n2BmN1"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "489.99",
+                "price_link": "https://www.newegg.com/corsair-dominator-titanium-96gb-ddr5-6600-cas-latency-cl32-desktop-memory-white/p/N82E16820982079?Item=N82E16820982079\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-faS3Kf7DFaAQWivfXI2CQg\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -2707,15 +2707,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "499.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-128gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820982066?Item=N82E16820982066\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-sm1lBBfV87HQ5DP9WJkilg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "540.99",
                 "price_link": "https://amzn.to/3UUbF5p"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "679.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-128gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820982066?Item=N82E16820982066\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-sm1lBBfV87HQ5DP9WJkilg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
         "profile_expo": false,
@@ -2741,15 +2741,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "75.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-16gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236993?Item=N82E16820236993\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-S32aa0zyLu_THBIOKWDm6g\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "84.69",
                 "price_link": "https://amzn.to/4naqiO8"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "84.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-16gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236993?Item=N82E16820236993\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-S32aa0zyLu_THBIOKWDm6g\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
         "profile_expo": true,
@@ -2776,7 +2776,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "97.99",
+                "price": "129.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-white/p/N82E16820236844?Item=N82E16820236844\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-39cSHdxSXasssUJ12bQOXA\u0026ranMID=44583\u0026ranEAID=3815908\u0026ASID=\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFID=3815908"
             }
         ],
@@ -2887,15 +2887,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "89.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236827?Item=N82E16820236827\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-c2lVBJ4Mwjg.r6842LY0iw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "96.99",
                 "price_link": "https://amzn.to/47PMQ23"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "129.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236827?Item=N82E16820236827\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-c2lVBJ4Mwjg.r6842LY0iw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
             }
         ],
         "profile_expo": true,
@@ -2921,15 +2921,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "109.99",
-                "price_link": "https://amzn.to/45XSg8L"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-5600-cas-latency-cl40-desktop-memory-gray/p/N82E16820982109?Item=N82E16820982109\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-kP0iiJ.lOsIER9A2S6xBtg\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "109.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-5600-cas-latency-cl40-desktop-memory-gray/p/N82E16820982109?Item=N82E16820982109\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-kP0iiJ.lOsIER9A2S6xBtg\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
+                "price_link": "https://amzn.to/45XSg8L"
             }
         ],
         "profile_expo": true,
@@ -2983,15 +2983,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "119.99",
-                "price_link": "https://amzn.to/4p5fHpA"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236865?Item=N82E16820236865\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-A4EDG7.K1sCtIT0cwqbmYg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "119.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236865?Item=N82E16820236865\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-A4EDG7.K1sCtIT0cwqbmYg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFID=3815908"
+                "price_link": "https://amzn.to/4p5fHpA"
             }
         ],
         "profile_expo": false,
@@ -3017,15 +3017,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "119.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982040?Item=N82E16820982040\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-dlJ8TegxAXhOLNZrf_IE4w\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "129.99",
                 "price_link": "https://amzn.to/4n2Pnu7"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "167.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982040?Item=N82E16820982040\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-dlJ8TegxAXhOLNZrf_IE4w\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": true,
@@ -3058,7 +3058,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "154.99",
+                "price": "189.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl28-desktop-memory-gray/p/N82E16820982208?Item=N82E16820982208\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-dDgZ47ck1iL1vkVfX299zg\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -3092,7 +3092,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "134.99",
+                "price": "167.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-30-desktop-memory-black/p/N82E16820982007?Item=N82E16820982007\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-cYwuvl.6Vnf3yros32iOWw\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly"
             }
         ],
@@ -3119,15 +3119,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "99.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236994?Item=N82E16820236994\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-ff2KHUkLgGDccsO57iO2Bg\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "108.99",
                 "price_link": "https://amzn.to/4g4FRoa"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "139.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236994?Item=N82E16820236994\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-ff2KHUkLgGDccsO57iO2Bg\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -3153,15 +3153,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "99.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-gray/p/N82E16820982114?Item=N82E16820982114\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-wem5fnMu0bqWACl0PVO80g\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "109.99",
                 "price_link": "https://amzn.to/4n5TWE0"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "139.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-gray/p/N82E16820982114?Item=N82E16820982114\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-wem5fnMu0bqWACl0PVO80g\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             }
         ],
         "profile_expo": true,
@@ -3187,15 +3187,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "99.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-white/p/N82E16820982110?Item=N82E16820982110\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-UQ4I4t4yE3Mer00RaGuNcQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "109.99",
                 "price_link": "https://amzn.to/4lUEYzZ"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "139.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-white/p/N82E16820982110?Item=N82E16820982110\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-UQ4I4t4yE3Mer00RaGuNcQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
         "profile_expo": false,
@@ -3312,7 +3312,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "112.99",
+                "price": "149.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6400-cas-latency-cl36-desktop-memory-black/p/N82E16820236986?Item=N82E16820236986\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-fKuwoKNZjm1T5BJC2BNVuw\u0026ranEAID=3815908\u0026ASID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -3340,7 +3340,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "124.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820236944?Item=N82E16820236944\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-YtR3s58A7TnNLP7fjc9uoQ\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -3436,7 +3436,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "127.99",
+                "price": "159.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6800-cas-latency-cl40-desktop-memory-black/p/N82E16820236987?Item=N82E16820236987\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-rMVu8JJ88zzIjYpaGIJxkg\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ACRID=1"
             }
         ],
@@ -3470,7 +3470,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "209.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-7000-cas-latency-cl34-desktop-memory-black/p/N82E16820236931?Item=N82E16820236931\u0026ranSiteID=nwUw4CS3F2g-jgiOTA9cfSvKP..a1JXW6w\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -3643,15 +3643,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "144.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236839?Item=N82E16820236839\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-6ckK8qCgUrG.jqPDY1y.8w\u0026AFFID=3815908\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "159.99",
                 "price_link": "https://amzn.to/4g0IjvH"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "239.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236839?Item=N82E16820236839\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-6ckK8qCgUrG.jqPDY1y.8w\u0026AFFID=3815908\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": true,
@@ -3684,7 +3684,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "162.99",
+                "price": "239.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-5200-cas-latency-cl40-desktop-memory-white/p/N82E16820236857?Item=N82E16820236857\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-.AV5V1q0qHTaijoMwCAV_A\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -3774,7 +3774,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "239.99",
+                "price": "349.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982031?Item=N82E16820982031\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-zOVecdW2Kk5XKDqlLomnXA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -3808,7 +3808,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "239.99",
+                "price": "319.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982030?Item=N82E16820982030\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-DmXjuU6RyxsXGj_gYjp17A\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -3891,7 +3891,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "254.90",
+                "price": "369.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820236959?Item=N82E16820236959\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-Sn_1E_ayOSTCujddIiXsDQ\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID="
             }
         ],
@@ -3925,7 +3925,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "269.99",
+                "price": "374.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-6600-cas-latency-cl32-desktop-memory-black/p/N82E16820236960?Item=N82E16820236960\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Efl2RYPAu1_tScVxrOPZow\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -4099,7 +4099,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "344.99",
+                "price": "419.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-96gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982056?Item=N82E16820982056\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-CkJqOt9uJqsvteiwZ8FlFg"
             }
         ],
@@ -4133,7 +4133,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "339.99",
+                "price": "419.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-96gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982201?Item=N82E16820982201\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-b4NGHbUcKxpgke60zQst4g\u0026ASUBID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -4167,7 +4167,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.99",
+                "price": "424.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-96gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820982024?Item=N82E16820982024\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-KosKYFa8ZA6e81MjGBdhkg\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFID=3815908"
             }
         ],
@@ -4195,7 +4195,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/corsair-vengeance-96gb-ddr5-6600-cas-latency-cl32-desktop-memory-black/p/N82E16820982057?Item=N82E16820982057\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-mifOKTYfZEtKwDEEsOFgdg"
             },
             {
@@ -4229,7 +4229,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.99",
+                "price": "439.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-96gb-ddr5-6800-cas-latency-cl40-desktop-memory-black/p/N82E16820982063?Item=N82E16820982063\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-YlCyX_TOIorHNG6q7hJd8g\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -4403,7 +4403,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "164.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-7200-cas-latency-cl34-desktop-memory-black/p/N82E16820236932?Item=N82E16820236932\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-LWyOdlmre4LsRh1U00a8qw\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -4437,7 +4437,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "134.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-32gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820982069?Item=N82E16820982069\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-vtVhYSDopAhgnWbmPZPttA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -4471,7 +4471,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "244.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820236848?Item=N82E16820236848\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-gYeTP7BubSfR1eOgV8tSaA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -4499,7 +4499,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "244.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-64gb-ddr5-5600-cas-latency-cl40-desktop-memory-gray/p/N82E16820236901?Item=N82E16820236901\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-v_RTycroG75uJNj47k88_g\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
             }
         ],
@@ -4644,15 +4644,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "47.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-lpx-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236540?Item=N82E16820236540\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-kosOKObM78Tiaz0ino7PKw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "61.19",
                 "price_link": "https://amzn.to/4p0SPr8"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "79.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-lpx-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236540?Item=N82E16820236540\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-kosOKObM78Tiaz0ino7PKw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -5094,7 +5094,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "82.99",
+                "price": "119.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-lpx-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236541?Item=N82E16820236541\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-RGx_FqSyLUGSEY9hHy2irA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_medium=affiliate"
             }
         ],
@@ -5122,7 +5122,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.00",
+                "price": "109.00",
                 "price_link": "https://www.newegg.com/corsair-vengeance-lpx-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236545?Item=9SIB8AKKD03503\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-RftxY2rJhS6Onngj7uRGJQ\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -5397,7 +5397,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "164.90",
+                "price": "239.00",
                 "price_link": "https://www.newegg.com/corsair-vengeance-lpx-64gb-ddr4-3000-cas-latency-cl15-desktop-memory-black/p/N82E16820236590?Item=9SIB8AKKD00210\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ASUBID=\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-UEzknQIpwLryb8R6VHDPNw\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -5453,7 +5453,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "66.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-16gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820982196?Item=N82E16820982196\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-yFy94mTgAvDnGx1fGKSlyQ\u0026AFFID=3815908\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -5493,7 +5493,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "107.99",
+                "price": "139.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236883?Item=N82E16820236883\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-53l9Y13JUFJhVQ8i.cvphw\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -5527,7 +5527,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "107.99",
+                "price": "139.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-white/p/N82E16820236884?Item=N82E16820236884\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-GNaBu2bUZ3Ls5zdrza96sw\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -5554,15 +5554,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "117.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820982111?Item=N82E16820982111\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-4jqYmf_jiELc6C_p.n98Rg\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "121.99",
                 "price_link": "https://amzn.to/4n5WXnJ"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "142.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820982111?Item=N82E16820982111\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-4jqYmf_jiELc6C_p.n98Rg\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
             }
         ],
         "profile_expo": true,
@@ -5707,7 +5707,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "117.99",
+                "price": "142.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820982112?Item=N82E16820982112\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-tcDTpvXcRToBFtKaN_ZCcA\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -5881,7 +5881,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "144.99",
+                "price": "177.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982008?Item=N82E16820982008\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-7aWI7Sodx6FZi4Q9E7q4pw\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026ACRID=1"
             }
         ],
@@ -5915,7 +5915,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "144.99",
+                "price": "177.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-white/p/N82E16820982045?Item=N82E16820982045\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-gKzDAZegWTw7Of4Le3H6Rg\u0026ranEAID=3815908\u0026ASID=\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -5949,7 +5949,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "139.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-black/p/N82E16820236991?Item=N82E16820236991\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-RhpNiwiFFf2sFUP0EYEWoA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -5983,7 +5983,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "149.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-gray/p/N82E16820982113?Item=N82E16820982113\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-VY7YEuYAqL4J5eJBNSL9PQ\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -6044,15 +6044,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "109.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-white/p/N82E16820982058?Item=N82E16820982058\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-7wcwK_f9YfPxY6S6wdJ90Q\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "119.99",
                 "price_link": "https://amzn.to/4lRqwbQ"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "139.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6000-cas-latency-cl36-desktop-memory-white/p/N82E16820982058?Item=N82E16820982058\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-7wcwK_f9YfPxY6S6wdJ90Q\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583"
             }
         ],
         "profile_expo": false,
@@ -6141,7 +6141,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "179.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6200-cas-latency-cl36-desktop-memory-black/p/N82E16820236881?Item=N82E16820236881\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-F.0dD_q2cLDEe7.MwqpVKw\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -6168,15 +6168,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "114.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6400-cas-latency-cl36-desktop-memory-black/p/N82E16820236982?Item=N82E16820236982\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-h98JtbeDlTVW7PKBcCodPA\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID="
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "119.99",
                 "price_link": "https://amzn.to/4n19DMM"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "164.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6400-cas-latency-cl36-desktop-memory-black/p/N82E16820236982?Item=N82E16820236982\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-h98JtbeDlTVW7PKBcCodPA\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID="
             }
         ],
         "profile_expo": false,
@@ -6202,15 +6202,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "129.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820236945?Item=N82E16820236945\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-bOJ53kgXkJlIjk3ZDXvr8Q\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID="
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "154.99",
                 "price_link": "https://amzn.to/3HYvg1j"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "189.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820236945?Item=N82E16820236945\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-bOJ53kgXkJlIjk3ZDXvr8Q\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             }
         ],
         "profile_expo": false,
@@ -6243,7 +6243,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "154.99",
+                "price": "189.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-white/p/N82E16820982034?Item=N82E16820982034\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-JsXJTvR7udvAXv_Em16FBw\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
@@ -6332,15 +6332,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "134.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6800-cas-latency-cl40-desktop-memory-black/p/N82E16820236981?Item=N82E16820236981\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-IKCamQS0uSBxEEjlV2OJ5Q\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "140.99",
                 "price_link": "https://amzn.to/3USrEks"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "169.99",
+                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-6800-cas-latency-cl40-desktop-memory-black/p/N82E16820236981?Item=N82E16820236981\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-IKCamQS0uSBxEEjlV2OJ5Q\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -6395,7 +6395,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.99",
+                "price": "389.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-48gb-ddr5-8000-cas-latency-cl38-desktop-memory-silver/p/N82E16820982232?Item=N82E16820982232\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-ydvt4Z5zerXU9kL1JHUELA\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ASID=\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026utm_medium=affiliate"
             }
         ],
@@ -6603,7 +6603,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "192.99",
+                "price": "254.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820982108?Item=N82E16820982108\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-wSwLSRR14XFpFUJZlrvuRA\u0026ACRID=1\u0026ranEAID=3815908\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -6665,7 +6665,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "192.99",
+                "price": "254.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-5600-cas-latency-cl40-desktop-memory-white/p/N82E16820982107?Item=N82E16820982107\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-zpd45gDh23ZvAeoc6tETag\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -6699,7 +6699,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "244.99",
+                "price": "349.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982022?Item=N82E16820982022\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ht5cHI1Z2UNXFCbLkSSLyw\u0026ranEAID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate"
             }
         ],
@@ -6733,7 +6733,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "249.99",
+                "price": "364.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-gray/p/N82E16820982027?Item=N82E16820982027\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-p7W1FZEcWm1M3EIJG4qPOw"
             }
         ],
@@ -6767,7 +6767,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "244.99",
+                "price": "364.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-white/p/N82E16820982049?Item=N82E16820982049\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-OV.vC07huEO02AtxJzgwtQ\u0026ranEAID=3815908\u0026ASID=\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -6857,7 +6857,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "269.99",
+                "price": "387.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820982005?Item=N82E16820982005\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-upW0MrsNWT1HuvQBcVW8Kw\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -6891,7 +6891,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "279.99",
+                "price": "389.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-6600-cas-latency-cl32-desktop-memory-black/p/N82E16820982003?Item=N82E16820982003\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-MEqq5W6plz_RpM4y_YM59A\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1"
             }
         ],
@@ -6918,15 +6918,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "236.99",
-                "price_link": "https://amzn.to/47guVkY"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-5600-cas-latency-cl36-desktop-memory-gray/p/N82E16820236943?Item=N82E16820236943\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Z9kQOYHBegIoJDkPui8hiw\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026ASID=\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ranEAID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "239.99",
-                "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-5600-cas-latency-cl36-desktop-memory-gray/p/N82E16820236943?Item=N82E16820236943\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Z9kQOYHBegIoJDkPui8hiw\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026ASID=\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ranEAID=3815908"
+                "platform": "amazon",
+                "price": "236.99",
+                "price_link": "https://amzn.to/47guVkY"
             }
         ],
         "profile_expo": true,
@@ -7043,7 +7043,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "359.99",
+                "price": "429.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-96gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820982050?Item=N82E16820982050\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-vGV7Kf1gGVzbluM0g4BvlQ\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             }
         ],
@@ -7077,7 +7077,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.99",
+                "price": "424.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-96gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820982051?Item=N82E16820982051\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-NGsp8Nfi.kCMwkm_uVeESw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583"
             }
         ],
@@ -7223,7 +7223,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.99",
+                "price": "249.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-64gb-ddr5-5200-cas-latency-cl40-desktop-memory-black/p/N82E16820236889?Item=N82E16820236889\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-vjP5qIv5UqGhgWD9uNDR3g\u0026ranEAID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1"
             }
         ],
@@ -7257,7 +7257,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "117.99",
+                "price": "142.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-32gb-ddr5-5600-cas-latency-cl40-desktop-memory-black/p/N82E16820236924?Item=N82E16820236924\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-EFNCGAMuP6s_RPbUIPvDUQ\u0026ranEAID=3815908\u0026ASID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -7375,7 +7375,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.99",
+                "price": "444.99",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-96gb-ddr5-6800-cas-latency-cl40-desktop-memory-black/p/N82E16820982053?Item=N82E16820982053\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Vac3GjQiG9u8x6kS98L_cA\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ASID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -7641,7 +7641,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.00",
+                "price": "109.00",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-pro-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236585?Item=9SIB8AKKAN7241\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-Z6fnBe3EDc696_WvvlY_Kg\u0026ranMID=44583\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -8111,7 +8111,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.00",
+                "price": "249.00",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-pro-32gb-ddr4-4000-cas-latency-cl18-desktop-memory-black/p/N82E16820236676?Item=9SIB8AKKAR3833\u0026ranSiteID=nwUw4CS3F2g-nHxf8rKbiJK5fZv88RLJxA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026ranMID=44583\u0026ranEAID=3815908"
             }
         ],
@@ -8331,7 +8331,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "369.00",
+                "price": "399.00",
                 "price_link": "https://www.newegg.com/corsair-vengeance-rgb-pro-64gb-ddr4-3200-cas-latency-cl16-desktop-memory-black/p/N82E16820236628?Item=9SIB8AKKD03317\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-nkSddG0Urt3qX_PB9Ik25Q\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -9066,15 +9066,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "62.99",
-                "price_link": "https://www.newegg.com/g-skill-aegis-32gb-ddr4-2666-cas-latency-cl19-desktop-memory-black-red/p/N82E16820232765?Item=N82E16820232765\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-qw_xCw_Ow03JHuPbrfnttA\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "64.94",
                 "price_link": "https://amzn.to/4n3wIOP"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "79.99",
+                "price_link": "https://www.newegg.com/g-skill-aegis-32gb-ddr4-2666-cas-latency-cl19-desktop-memory-black-red/p/N82E16820232765?Item=N82E16820232765\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-qw_xCw_Ow03JHuPbrfnttA\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
         "profile_expo": false,
@@ -9101,7 +9101,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "147.99",
+                "price": "239.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-so-dimm-64gb-ddr5-4800-cas-latency-cl40-laptop-memory/p/N82E16820374396?Item=N82E16820374396\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-iUvHUDkIzcL6qwZm31SyXw\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             }
         ],
@@ -9191,7 +9191,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "159.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-s5-series-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820374369?Item=N82E16820374369\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-ZIJx3xi5as1ULvmyMmCAow\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -9219,7 +9219,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "104.99",
+                "price": "146.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-s5-series-32gb-ddr5-6000-cas-latency-cl32-desktop-memory-black/p/N82E16820374371?Item=N82E16820374371\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-0E9oH3.P._5e3YvcEdTIhw\u0026ranEAID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9247,7 +9247,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "159.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-s5-series-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-white/p/N82E16820374370?Item=N82E16820374370\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-5SGkQp6ZFMP9Ksq7pPBAyQ\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -9275,7 +9275,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "104.99",
+                "price": "146.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-s5-series-32gb-ddr5-6000-cas-latency-cl32-desktop-memory-white/p/N82E16820374372?Item=N82E16820374372\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-QoC9WFHe8fOFpY9GW4h5Tg\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9309,7 +9309,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "129.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-s5-series-32gb-ddr5-6400-cas-latency-cl32-desktop-memory-black/p/N82E16820374451?Item=N82E16820374451\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-EOD1UFEANqbTf7HgQ118MQ\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             }
         ],
@@ -9489,7 +9489,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "259.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-s5-series-64gb-ddr5-5600-cas-latency-cl36-desktop-memory-white/p/N82E16820374368?Item=N82E16820374368\u0026ranSiteID=nwUw4CS3F2g-4Cmc0oo55452cHIZPsWKvw\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -9523,7 +9523,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "242.99",
+                "price": "289.99",
                 "price_link": "https://www.newegg.com/g-skill-ripjaws-s5-series-64gb-ddr5-6800-cas-latency-cl34-desktop-memory-black/p/N82E16820374503?Item=N82E16820374503\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-OR9_BL3l_UTIB4ruXFlzoA\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             }
         ],
@@ -9841,7 +9841,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "104.99",
                 "price_link": "https://www.newegg.com/g-skill-tridentz-rgb-series-32gb-ddr4-3600-cas-latency-cl18-desktop-memory-black/p/N82E16820232920?Item=N82E16820232920\u0026ranSiteID=nwUw4CS3F2g-4mTyDDtP_MoetTk7o8vHKg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ACRID=1\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9959,7 +9959,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.00",
+                "price": "249.00",
                 "price_link": "https://www.newegg.com/g-skill-trident-z-royal-series-32gb-ddr4-4000-cas-latency-cl18-desktop-memory-silver/p/N82E16820374104?Item=9SIB0ASKCV0225\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-BVJzAc5MUSrMhQ1CIRQznQ\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly"
             }
         ],
@@ -10111,7 +10111,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "239.99",
+                "price": "249.99",
                 "price_link": "https://www.newegg.com/g-skill-trident-z5-ck-48gb-ddr5-8200-cas-latency-cl40-desktop-memory-black/p/N82E16820374652?Item=N82E16820374652\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-fkr3BkNR2pEJaNJD6szrYQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -10173,7 +10173,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "309.99",
                 "price_link": "https://www.newegg.com/g-skill-trident-z5-ck-48gb-ddr5-8800-cas-latency-cl42-desktop-memory-black/p/N82E16820374654?Item=N82E16820374654\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-239ur1UyZthMks3Y7kjfMA\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -10291,7 +10291,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "114.99",
+                "price": "169.99",
                 "price_link": "https://www.newegg.com/g-skill-trident-z5-rgb-series-32gb-ddr5-6000-cas-latency-cl32-desktop-memory-black/p/N82E16820374379?Item=N82E16820374379\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-BYHUtrpRM.dnyAmbj73QGQ\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -10499,7 +10499,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.99",
+                "price": "294.99",
                 "price_link": "https://www.newegg.com/g-skill-trident-z5-rgb-series-64gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820374383?Item=N82E16820374383\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-bKVa0KuwVRpuilgRfKeP5A\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -10527,7 +10527,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "114.99",
+                "price": "162.99",
                 "price_link": "https://www.newegg.com/g-skill-trident-z5-series-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-black/p/N82E16820374381?Item=N82E16820374381\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-S1m5A7GUbLGTgZKxGBcy5Q\u0026ranMID=44583\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026ASUBID="
             }
         ],
@@ -10555,7 +10555,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "114.99",
+                "price": "162.99",
                 "price_link": "https://www.newegg.com/g-skill-trident-z5-series-32gb-ddr5-6000-cas-latency-cl30-desktop-memory-silver/p/N82E16820374382?Item=N82E16820374382\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-0ze.UqZj2rZyyObD27U_dQ\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -10667,7 +10667,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "1469",
+                "price": "1599",
                 "price_link": "https://item.jd.com/100058625443.html"
             }
         ],
@@ -10695,7 +10695,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "779",
+                "price": "859",
                 "price_link": "https://item.jd.com/10113757650973.html"
             }
         ],
@@ -10723,7 +10723,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "909",
+                "price": "1019",
                 "price_link": "https://item.jd.com/100042620384.html"
             }
         ],
@@ -10750,9 +10750,9 @@
         "prices": [
             {
                 "region": "CN",
-                "platform": "jd",
-                "price": "949",
-                "price_link": "https://item.jd.com/100045209662.html"
+                "platform": "other",
+                "price": "839",
+                "price_link": ""
             }
         ],
         "profile_expo": false,
@@ -10778,9 +10778,9 @@
         "prices": [
             {
                 "region": "CN",
-                "platform": "jd",
-                "price": "929",
-                "price_link": "https://item.jd.com/100040893710.html"
+                "platform": "other",
+                "price": "799",
+                "price_link": ""
             }
         ],
         "profile_expo": false,
@@ -10807,7 +10807,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "1699",
+                "price": "1899",
                 "price_link": "https://item.jd.com/100042620382.html"
             }
         ],
@@ -10834,9 +10834,9 @@
         "prices": [
             {
                 "region": "CN",
-                "platform": "jd",
-                "price": "239",
-                "price_link": "https://item.jd.com/100051017029.html"
+                "platform": "other",
+                "price": "269",
+                "price_link": ""
             }
         ],
         "profile_expo": false,
@@ -10863,7 +10863,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "499",
+                "price": "719",
                 "price_link": "https://item.jd.com/100107858801.html"
             }
         ],
@@ -10891,7 +10891,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "499",
+                "price": "719",
                 "price_link": "https://item.jd.com/100129057470.html"
             }
         ],
@@ -10919,7 +10919,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "439",
+                "price": "649",
                 "price_link": "https://item.jd.com/100126104776.html"
             }
         ],
@@ -10947,7 +10947,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "419",
+                "price": "669",
                 "price_link": "https://item.jd.com/100038751905.html"
             }
         ],
@@ -10974,9 +10974,9 @@
         "prices": [
             {
                 "region": "CN",
-                "platform": "jd",
-                "price": "499",
-                "price_link": "https://item.jd.com/100023271745.html"
+                "platform": "other",
+                "price": "579",
+                "price_link": ""
             }
         ],
         "profile_expo": false,
@@ -11115,7 +11115,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "909",
+                "price": "1019",
                 "price_link": "https://item.jd.com/100088309790.html"
             }
         ],
@@ -11143,7 +11143,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "2199",
+                "price": "2499",
                 "price_link": "https://item.jd.com/100098457960.html"
             }
         ],
@@ -11171,8 +11171,8 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "179",
-                "price_link": "https://item.jd.com/10071846996574.html"
+                "price": "309",
+                "price_link": "https://item.jd.com/100021924435.html"
             }
         ],
         "profile_expo": false,
@@ -11199,8 +11199,8 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "149",
-                "price_link": "https://item.jd.com/10071846996568.html"
+                "price": "299",
+                "price_link": "https://item.jd.com/100014056864.html"
             }
         ],
         "profile_expo": false,
@@ -11227,7 +11227,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "195",
+                "price": "379",
                 "price_link": "https://item.jd.com/100031218372.html"
             }
         ],
@@ -11255,8 +11255,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "569",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRZt8R6r%2FwRZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EdX9WJ1imijivm%2Bjhx0mAC3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOtEMtmvkFKJcrk9f%2BSi1d3dGTMaqpivtjMjC5Rr2prLKnnmz7xmk%2BzSNqZXzUh%2FvwLjLL94F1iJr8h90fnQsF3hXIh4SUHjsR4idcpa2Mw94h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401757532058%40212c23ed_13ff_1993512f1da_71f9%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "798",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DeCwpBT%2FxO51w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0JrTzf%2BjD7xjl98B4vYpthG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOtEMtmvkFKJcrk9f%2BSi1d3eO%2FSCrRMdBViikoKSJvif0LsatFb%2BmAFz6vGxtVZImu1nV8%2BrYD%2Bjpa9HT8hU%2Fn9U9HU1C68JWp3Mi7MkIVXVJh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401760033994%4021501887_0e74_199ca3376c6_1486%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "profile_expo": false,
@@ -11282,9 +11282,9 @@
         "prices": [
             {
                 "region": "CN",
-                "platform": "jd",
-                "price": "359",
-                "price_link": "https://item.jd.com/100049223277.html"
+                "platform": "taobao",
+                "price": "270",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dpe5G2GAJ%2Fclw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0FS0piGdsc8NLZXTD7FAd8i3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOtEMtmvkFKJcrk9f%2BSi1d3fPO73ZtyFYaUxBEVXAUc0TR8V3z7ytXjUu6PIlEx6ellFYHq%2FfsfYyvr%2F6gAl7he2nCBZKxIOhNQdcQjwzjTrth3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401760120430%402103db7b_143b_199cf5a5f08_74e4%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "profile_expo": false,
@@ -11311,7 +11311,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "339",
+                "price": "619",
                 "price_link": "https://item.jd.com/100038016738.html"
             }
         ],
@@ -11339,7 +11339,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "499",
+                "price": "739",
                 "price_link": "https://item.jd.com/100046688873.html"
             }
         ],
@@ -11367,7 +11367,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "769",
+                "price": "809",
                 "price_link": "https://item.jd.com/100043895094.html"
             }
         ],
@@ -11395,8 +11395,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "569",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DRZt8R6r%2FwRZw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0EdX9WJ1imijivm%2Bjhx0mAC3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOtEMtmvkFKJcrk9f%2BSi1d3dGTMaqpivtjMjC5Rr2prLKnnmz7xmk%2BzSNqZXzUh%2FvwLjLL94F1iJr8h90fnQsF3hXIh4SUHjsR4idcpa2Mw94h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401757532058%40212c23ed_13ff_1993512f1da_71f9%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "798",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DeCwpBT%2FxO51w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0JrTzf%2BjD7xjl98B4vYpthG3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOtEMtmvkFKJcrk9f%2BSi1d3eO%2FSCrRMdBViikoKSJvif0LsatFb%2BmAFz6vGxtVZImu1nV8%2BrYD%2Bjpa9HT8hU%2Fn9U9HU1C68JWp3Mi7MkIVXVJh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401760033994%4021501887_0e74_199ca3376c6_1486%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "profile_expo": false,
@@ -11423,7 +11423,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "1469",
+                "price": "1599",
                 "price_link": "https://item.jd.com/100046688883.html"
             }
         ],
@@ -11451,7 +11451,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "99",
+                "price": "189",
                 "price_link": "https://item.jd.com/100020805899.html"
             }
         ],
@@ -11513,8 +11513,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "369.66",
-                "price_link": "https://www.newegg.com/kingston-64gb/p/0RM-001W-00724?Item=9SIA6ZPKBP6301\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ranEAID=3815908\u0026ASID=\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-f471vudrINzdMzyDceq7qA\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM"
+                "price": "370.99",
+                "price_link": "https://www.newegg.com/kingston-64gb/p/N82E16820242804?Item=N82E16820242804\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-m.nK9XNYDZG86cRHeRiB7w\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASID="
             }
         ],
         "profile_expo": false,
@@ -11608,15 +11608,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-kingston-fury-16gb-ddr5-5600-cas-latency-cl36-memory-black/p/0RN-001J-014H8?Item=9SIA25VKGM1146\u0026ranSiteID=nwUw4CS3F2g-vY6SSX.nfuqsX2GR1GxuUw\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "65.99",
                 "price_link": "https://www.amazon.com/dp/B0BRTJCLBJ"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "69.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-kingston-fury-16gb-ddr5-5600-cas-latency-cl36-memory-black/p/0RN-001J-014H8?Item=0RN-001J-014H8\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-sF9ovHYCbwOvF9Owko7ahw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
             }
         ],
         "profile_expo": true,
@@ -11642,15 +11642,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "73.36",
-                "price_link": "https://www.amazon.com/dp/B0BRTJFFBW"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-16gb-ddr5-6000-cas-latency-cl36-memory-black/p/0RN-001J-014J1?Item=9SIA24GK8V1381\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-v9ArvkCMR48Khn3Wr4rL1g\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "75.75",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-16gb-ddr5-6000-cas-latency-cl36-memory-black/p/0RN-001J-014J1?Item=9SIA24GK8V1381\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-v9ArvkCMR48Khn3Wr4rL1g\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID="
+                "platform": "amazon",
+                "price": "73.36",
+                "price_link": "https://www.amazon.com/dp/B0BRTJFFBW"
             }
         ],
         "profile_expo": true,
@@ -12139,7 +12139,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "121.47",
+                "price": "115.44",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-32gb-ddr5-5600-cas-latency-cl36-memory-black/p/N82E16820242897?Item=9SIAMG8KG39748\u0026ranSiteID=nwUw4CS3F2g-gFlJ96DRkc1P9SphW0PiEA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583"
             }
         ],
@@ -12263,7 +12263,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "233.08",
+                "price": "230.68",
                 "price_link": "https://www.newegg.com/p/0RN-001J-015F1?Item=9SIAD6HKHP0920\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-hdfNfOmVqzVHPW3vJJAwhw\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -12464,15 +12464,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "235.06",
-                "price_link": "https://www.amazon.com/dp/B0CYHC9FQB"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0ZK-01M8-003T8?Item=9SIA25VKFK6295\u0026ranSiteID=nwUw4CS3F2g-iUMxnM0WAsER5N27RfwIZA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ACRID=1\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "249.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl30-memory-black/p/N82E16820242864?Item=N82E16820242864\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-efqf0CwMzsDwbjG4jBewvA\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
+                "platform": "amazon",
+                "price": "235.06",
+                "price_link": "https://www.amazon.com/dp/B0CYHC9FQB"
             }
         ],
         "profile_expo": true,
@@ -12566,15 +12566,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "254.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6400-cas-latency-cl32-memory-black/p/N82E16820242872?Item=N82E16820242872\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-MgvCXDpPI80XVqthlAAOYg\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "259.99",
                 "price_link": "https://www.amazon.com/dp/B0CYH8MD2Y"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "269.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6400-cas-latency-cl32-memory-black/p/N82E16820242872?Item=N82E16820242872\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-MgvCXDpPI80XVqthlAAOYg\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1"
             }
         ],
         "profile_expo": true,
@@ -13114,15 +13114,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-32gb-ddr5-6000-cas-latency-cl30-memory-black/p/N82E16820242861?Item=9SIA24GKFA0399\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-M5DIeEJ_oks4tJUkaA111A\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "147.30",
                 "price_link": "https://www.amazon.com/dp/B0CYM58GFS"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "159.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-32gb-ddr5-6000-cas-latency-cl30-memory-black/p/N82E16820242861?Item=9SIA24GKFA0399\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-M5DIeEJ_oks4tJUkaA111A\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908"
             }
         ],
         "profile_expo": true,
@@ -13238,15 +13238,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "158.44",
-                "price_link": "https://www.amazon.com/dp/B0CYM28H35"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-32gb-ddr5-6400-cas-latency-cl32-memory-white/p/0RN-001J-01589?Item=9SIAD6HKHC7594\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-Mc2Nz06rPKnl5WIbzyfLZA\u0026ranMID=44583\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "169.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-32gb-ddr5-6400-cas-latency-cl32-memory-white/p/N82E16820242871?Item=N82E16820242871\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-jsNbKCDV9fYYTkMutb5xGQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "158.44",
+                "price_link": "https://www.amazon.com/dp/B0CYM28H35"
             }
         ],
         "profile_expo": true,
@@ -13313,7 +13313,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "240.60",
+                "price": "240.74",
                 "price_link": "https://www.newegg.com/p/0RN-001J-014J7?Item=9SIAD6HKHA3957\u0026utm_medium=affiliate\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-cVW..XA7IuWsZm0SzAKh.A\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -13487,7 +13487,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "226.99",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-5600-cas-latency-cl36-desktop-memory-black/p/N82E16820242769?Item=N82E16820242769\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-7_Vc89uOb_dBBgGaSEp5rA\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -13632,15 +13632,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "269.99",
-                "price_link": "https://www.amazon.com/dp/B0CYM412PY"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-64gb-ddr5-6400/p/0RN-001J-01567?Item=9SIA24GKD02004\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-TTvdO8kYm1o.uMZ.s6DQGg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "269.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6400-cas-latency-cl32-memory-black/p/N82E16820242873?Item=N82E16820242873\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-3Rx1_zV3zsCjBvUf7raLlg\u0026ASUBID=\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
+                "price_link": "https://www.amazon.com/dp/B0CYM412PY"
             }
         ],
         "profile_expo": true,
@@ -13861,15 +13861,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "82.15",
-                "price_link": "https://www.amazon.com/dp/B0BDR5NZZT"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RM-001W-006H6?Item=9SIA12KJYB2223\u0026ranSiteID=nwUw4CS3F2g-aePOwyJBEYbTAjumK_4ziQ\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "82.95",
-                "price_link": "https://www.newegg.com/p/0RM-001W-006H6?Item=9SIA12KJYB2223\u0026ranSiteID=nwUw4CS3F2g-aePOwyJBEYbTAjumK_4ziQ\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
+                "platform": "amazon",
+                "price": "82.15",
+                "price_link": "https://www.amazon.com/dp/B0BDR5NZZT"
             }
         ],
         "profile_expo": true,
@@ -14090,15 +14090,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "236.75",
-                "price_link": "https://www.amazon.com/dp/B0CYHCFCBY"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-64gb-ddr5-6000-cas-latency-cl30-memory-white/p/0RN-001J-01586?Item=9SIA24GKFS7571\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-1EijnNBpYTaqjjboLNmpgQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "249.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl30-memory-white/p/N82E16820242866?Item=N82E16820242866\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-.L6ZIfe0hWzk6Eg7dGb0gQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1"
+                "platform": "amazon",
+                "price": "236.75",
+                "price_link": "https://www.amazon.com/dp/B0CYHCFCBY"
             }
         ],
         "profile_expo": true,
@@ -14306,7 +14306,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-32gb-ddr5-5200-cas-latency-cl40-desktop-memory-white/p/0RM-001W-006M9?Item=0RM-001W-006M9\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-_SlmhfnXfnPMMhDvcI7XSw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
+                "price_link": "https://www.newegg.com/p/1B4-00M4-006B2?Item=9SIAD6HKHA5192\u0026ranSiteID=nwUw4CS3F2g-vYBmcGQWVNkXYA3jT6fYuw\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026AFFID=3815908"
             },
             {
                 "region": "US",
@@ -14434,15 +14434,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "139.84",
-                "price_link": "https://www.amazon.com/dp/B0BZJC34HQ"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RM-001W-006M6?Item=9SIAD6HKHA5196\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-EDLJiMeXNS16IliJZf9BbQ\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "282.06",
-                "price_link": "https://www.newegg.com/p/0RM-001W-006M6?Item=9SIAD6HKHA5196\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-EDLJiMeXNS16IliJZf9BbQ\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
+                "platform": "amazon",
+                "price": "139.84",
+                "price_link": "https://www.amazon.com/dp/B0BZJC34HQ"
             }
         ],
         "profile_expo": false,
@@ -14468,15 +14468,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "103.04",
-                "price_link": "https://www.amazon.com/dp/B0BZJCFS45"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RM-001W-006T3?Item=9SIAD6HKHA5204\u0026ranSiteID=nwUw4CS3F2g-.0ilixOS0kj5uc0vmgXrSg\u0026AFFID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "272.60",
-                "price_link": "https://www.newegg.com/p/0RM-001W-006T3?Item=9SIAD6HKHA5204\u0026ranSiteID=nwUw4CS3F2g-.0ilixOS0kj5uc0vmgXrSg\u0026AFFID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
+                "platform": "amazon",
+                "price": "103.04",
+                "price_link": "https://www.amazon.com/dp/B0BZJCFS45"
             }
         ],
         "profile_expo": false,
@@ -14648,15 +14648,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "249.77",
-                "price_link": "https://www.amazon.com/dp/B0CYM1HV7C"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0ZK-01M8-003U0?Item=9SIA24GKEU0626\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-C0QpV.XiGYhJ9A3PVZL7Qg\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "259.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-beast-64gb-ddr5-6000-cas-latency-cl30-memory-white/p/N82E16820242867?Item=N82E16820242867\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-d2cY4_lJX_a6puAkGlcAFA\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
+                "platform": "amazon",
+                "price": "249.77",
+                "price_link": "https://www.amazon.com/dp/B0CYM1HV7C"
             }
         ],
         "profile_expo": true,
@@ -14710,15 +14710,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "85.99",
-                "price_link": "https://www.amazon.com/dp/B0BMQQV63Z"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RN-001J-014H4?Item=9SIAD6HKHA3695\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ASUBID=\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-NNWyeQnE.ClIy0IPtRxACA\u0026ACRID=1\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "210.37",
-                "price_link": "https://www.newegg.com/p/0RN-001J-014H4?Item=9SIAD6HKHA3695\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ASUBID=\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-NNWyeQnE.ClIy0IPtRxACA\u0026ACRID=1\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate"
+                "platform": "amazon",
+                "price": "85.99",
+                "price_link": "https://www.amazon.com/dp/B0BMQQV63Z"
             }
         ],
         "profile_expo": false,
@@ -14744,15 +14744,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "98.99",
-                "price_link": "https://www.amazon.com/dp/B0BMQS8PZR"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RN-001J-014H5?Item=9SIAD6HKET8329\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-BXXhlcrpt._gWjVdJHBtnQ\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "246.31",
-                "price_link": "https://www.newegg.com/p/0RN-001J-014H5?Item=9SIAD6HKET8329\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-BXXhlcrpt._gWjVdJHBtnQ\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "98.99",
+                "price_link": "https://www.amazon.com/dp/B0BMQS8PZR"
             }
         ],
         "profile_expo": false,
@@ -15038,15 +15038,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "230.98",
-                "price_link": "https://www.amazon.com/dp/B0CKZ8M4M8"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-8000-cas-latency-cl38-desktop-memory-silver-white/p/N82E16820242859?Item=N82E16820242859\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ZK1jN154Y8Ljd6joR2t2tQ\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "249.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-8000-cas-latency-cl38-desktop-memory-silver-white/p/N82E16820242859?Item=N82E16820242859\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ZK1jN154Y8Ljd6joR2t2tQ\u0026ACRID=1\u0026ASUBID=\u0026ASID="
+                "platform": "amazon",
+                "price": "230.98",
+                "price_link": "https://www.amazon.com/dp/B0CKZ8M4M8"
             }
         ],
         "profile_expo": false,
@@ -15163,7 +15163,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "399.99",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-48gb-ddr5-8400-cas-latency-cl40-desktop-memory-silver-black/p/N82E16820242905?Item=N82E16820242905\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-rCU5vo_5kqUgoh.1m4P5dA\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -15191,7 +15191,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "399.99",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-48gb-ddr5-8400-cas-latency-cl40-desktop-memory-silver-white/p/N82E16820242906?Item=N82E16820242906\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-AEms2TzuWKxH4hpr_OaGSg\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -15370,15 +15370,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "385.31",
-                "price_link": "https://www.amazon.com/dp/B0CJC6V2JR"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0ZK-01M8-003U8?Item=9SIAD6HKGD4553\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-Wmj54xPPHJY4oNrP16J57Q\u0026ranEAID=3815908\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "389.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-96gb-ddr5-6400-cas-latency-cl32-memory-silver-black/p/N82E16820242824?Item=N82E16820242824\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-LEOO1L7jZTtOGRxisVpPUQ\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "385.31",
+                "price_link": "https://www.amazon.com/dp/B0CJC6V2JR"
             }
         ],
         "profile_expo": false,
@@ -15439,7 +15439,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "834.75",
+                "price": "833.40",
                 "price_link": "https://www.newegg.com/kingston-128gb/p/N82E16820242845?Item=9SIA12KK9R9814\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-WhKwaiprYEDVHVcb5_ehyQ\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASID="
             },
             {
@@ -15479,7 +15479,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "858.00",
+                "price": "852.00",
                 "price_link": "https://www.newegg.com/kingston-16gb/p/N82E16820242813?Item=9SIA12KK9W6015\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-EjGewALoI4j4z17IsS.9SQ\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908"
             }
         ],
@@ -15513,7 +15513,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "999.75",
+                "price": "978.00",
                 "price_link": "https://www.newegg.com/kingston-128gb/p/N82E16820242816?Item=9SIA12KK9R9816\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-c2ErkbogZqRenyWTkjYBkQ\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -15547,7 +15547,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1059.00",
+                "price": "1199.00",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-128gb-ddr5-6400-cas-latency-cl32-memory-black/p/0RN-001J-01501?Item=9SIA12KKAB3931\u0026ACRID=1\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-.yWwaTuSSgki_9xX2FINpg\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -15608,15 +15608,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "766.50",
-                "price_link": "https://www.amazon.com/dp/B0BYSW19S8"
+                "platform": "newegg",
+                "price": "758.60",
+                "price_link": "https://www.newegg.com/kingston-128gb/p/N82E16820242787?Item=9SIA12KK9R9808\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-l9u8pN3O4Rj.FHY8DZ3PHA\u0026ASUBID=\u0026utm_medium=affiliate\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "793.00",
-                "price_link": "https://www.newegg.com/kingston-128gb/p/N82E16820242787?Item=9SIA12KK9R9808\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-l9u8pN3O4Rj.FHY8DZ3PHA\u0026ASUBID=\u0026utm_medium=affiliate\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1"
+                "platform": "amazon",
+                "price": "766.50",
+                "price_link": "https://www.amazon.com/dp/B0BYSW19S8"
             }
         ],
         "profile_expo": false,
@@ -15772,7 +15772,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1245.00",
+                "price": "1223.00",
                 "price_link": "https://www.newegg.com/kingston-128gb/p/1X5-0009-00A02?Item=9SIA12KK9W8882\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-OViwnns.L3VeK7OFQs.Ajw\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908"
             }
         ],
@@ -15827,7 +15827,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "123.99",
+                "price": "114.99",
                 "price_link": "https://www.newegg.com/kingston-16gb/p/N82E16820242783?Item=N82E16820242783\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-zk78ZsTbro0JUy3TRyj1FA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -15889,7 +15889,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "142.99",
+                "price": "140.99",
                 "price_link": "https://www.newegg.com/p/0ZK-01M8-003V3?Item=0ZK-01M8-003V3\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-khKteh0EPVwjvJ.I1ReyCg"
             }
         ],
@@ -15951,7 +15951,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "126.99",
+                "price": "125.99",
                 "price_link": "https://www.newegg.com/kingston-16gb/p/N82E16820242789?Item=N82E16820242789\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-6c_.SNqWHNSz4S6y0dmB9A\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -16046,15 +16046,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/kingston-256gb/p/0RN-001J-01504?Item=9SIA12KKAU1089\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-QZ0.xNYcVp4hpxlaOsPkKw\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "1550.00",
                 "price_link": "https://www.amazon.com/dp/B0CVSBGLM8"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "1614.00",
+                "price_link": "https://www.newegg.com/kingston-256gb/p/0RN-001J-01504?Item=9SIA12KKAU1089\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-QZ0.xNYcVp4hpxlaOsPkKw\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
         "profile_expo": true,
@@ -16087,7 +16087,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1699.00",
+                "price": "1676.00",
                 "price_link": "https://www.newegg.com/kingston-256gb/p/1X5-0009-00A03?Item=9SIA12KKAU1156\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-6PL7B0nB1uKNkZFLgKtXpA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -16121,7 +16121,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1751.00",
+                "price": "1795.00",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-256gb-ddr5-6000-cas-latency-cl32-memory-black/p/0RN-001J-01507?Item=9SIA12KKAU1205\u0026ACRID=1\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-HgcjKMCxFnc94oog3vOTUQ\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -16155,7 +16155,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1985.00",
+                "price": "1954.00",
                 "price_link": "https://www.newegg.com/kingston-256gb/p/0RN-001J-01500?Item=9SIA12KKAU1222\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ouKmNfRzj9bfjAmriU_w3A\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -16189,7 +16189,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1885.00",
+                "price": "1877.00",
                 "price_link": "https://www.newegg.com/kingston-256gb/p/0RN-001J-014Z9?Item=9SIA12KKAU1231\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-o7qAb9G9ighs89HIKLnW.w\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -16223,7 +16223,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "2295.00",
+                "price": "2270.00",
                 "price_link": "https://www.newegg.com/kingston-256gb/p/0RN-001J-01506?Item=9SIA12KKAU1235\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-5jkDcPbFkkOzQSX3evWvGw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908"
             }
         ],
@@ -16443,7 +16443,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "446.00",
+                "price": "437.80",
                 "price_link": "https://www.newegg.com/kingston-64gb/p/N82E16820242778?Item=9SIA12KKAB3896\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-kHLyKdjayPn1TP5fDsct3A\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -16477,7 +16477,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "474.00",
+                "price": "457.85",
                 "price_link": "https://www.newegg.com/kingston-64gb/p/N82E16820242856?Item=9SIA12KKAR0672\u0026ranSiteID=nwUw4CS3F2g-EWiKUZX89uZBGKFt84dvhA\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate"
             }
         ],
@@ -16511,7 +16511,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "469.00",
+                "price": "493.00",
                 "price_link": "https://www.newegg.com/kingston-64gb/p/N82E16820242784?Item=9SIA12KKAB3898\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-3B30L7p9defy0V7b_ZhJXg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
             }
         ],
@@ -16647,7 +16647,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "502.00",
+                "price": "494.35",
                 "price_link": "https://www.newegg.com/kingston-64gb/p/N82E16820242812?Item=9SIA12KKAB3910\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-lQ_ADjM0XHotMPtjLQRf2Q\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -16674,15 +16674,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "566.40",
-                "price_link": "https://www.amazon.com/dp/B0CN3CP9BY"
+                "platform": "newegg",
+                "price": "557.00",
+                "price_link": "https://www.newegg.com/kingston-16gb/p/N82E16820242814?Item=9SIA12KKAB3915\u0026ranSiteID=nwUw4CS3F2g-L.08KnZl0TWjNlxZv.3URQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "573.00",
-                "price_link": "https://www.newegg.com/kingston-16gb/p/N82E16820242814?Item=9SIA12KKAB3915\u0026ranSiteID=nwUw4CS3F2g-L.08KnZl0TWjNlxZv.3URQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_medium=affiliate"
+                "platform": "amazon",
+                "price": "566.40",
+                "price_link": "https://www.amazon.com/dp/B0CN3CP9BY"
             }
         ],
         "profile_expo": true,
@@ -16765,7 +16765,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "233.99",
+                "price": "234.99",
                 "price_link": "https://www.newegg.com/kingston-32gb/p/N82E16820242817?Item=N82E16820242817\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-pCrNwxtScb9EStLAhlmgVA\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026AFFID=3815908"
             },
             {
@@ -16826,15 +16826,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "65.00",
-                "price_link": "https://www.amazon.com/dp/B0BMQT2LHZ"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RN-001J-014G8?Item=9SIAD6HKHA3699\u0026ranSiteID=nwUw4CS3F2g-oi40VpmCNHMQb2lHJHzh3A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "239.40",
-                "price_link": "https://www.newegg.com/p/0RN-001J-014G8?Item=9SIAD6HKHA3699\u0026ranSiteID=nwUw4CS3F2g-oi40VpmCNHMQb2lHJHzh3A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
+                "platform": "amazon",
+                "price": "65.00",
+                "price_link": "https://www.amazon.com/dp/B0BMQT2LHZ"
             }
         ],
         "profile_expo": false,
@@ -16860,15 +16860,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "109.00",
-                "price_link": "https://www.amazon.com/dp/B0BMQT293M"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RN-001J-014H2?Item=9SIAD6HKHA3705\u0026ranSiteID=nwUw4CS3F2g-MVVz2XY9PUumNxJxq2JOfg\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "233.25",
-                "price_link": "https://www.newegg.com/p/0RN-001J-014H2?Item=9SIAD6HKHA3705\u0026ranSiteID=nwUw4CS3F2g-MVVz2XY9PUumNxJxq2JOfg\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
+                "platform": "amazon",
+                "price": "109.00",
+                "price_link": "https://www.amazon.com/dp/B0BMQT293M"
             }
         ],
         "profile_expo": false,
@@ -16894,15 +16894,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/p/0RN-001J-014Y9?Item=9SIA8H5KFK2591\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-qnoAkqmoHNwpsPvNo96sEg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "108.63",
                 "price_link": "https://www.amazon.com/dp/B0CKZ9K4MB"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "126.00",
+                "price_link": "https://www.newegg.com/p/0RN-001J-014Y9?Item=9SIA8H5KFK2591\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-qnoAkqmoHNwpsPvNo96sEg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
         "profile_expo": false,
@@ -16969,7 +16969,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "168.95",
+                "price": "163.95",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-6800-cas-latency-cl36-memory-silver-black/p/0RM-001W-00703?Item=9SIA12KJYB6707\u0026ranSiteID=nwUw4CS3F2g-mwbG1fv1mnArVytetfmkiw\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASID=\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
@@ -17030,15 +17030,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "208.55",
-                "price_link": "https://www.amazon.com/dp/B0CKZ8LN8S"
+                "platform": "newegg",
+                "price": "194.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-7600-cas-latency-cl38-memory-silver-black/p/N82E16820242857?Item=N82E16820242857\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-wWrcGnYjUYYLrQrIaKVGLA\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "239.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-7600-cas-latency-cl38-memory-silver-black/p/N82E16820242857?Item=N82E16820242857\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-wWrcGnYjUYYLrQrIaKVGLA\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "208.55",
+                "price_link": "https://www.amazon.com/dp/B0CKZ8LN8S"
             }
         ],
         "profile_expo": false,
@@ -17065,8 +17065,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "198.81",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-32gb-ddr5-7600-cas-latency-cl32-memory-white-gray/p/0RN-001J-015A0?Item=9SIA6ZPKFZ0929\u0026ranSiteID=nwUw4CS3F2g-C_Wwpitmp1CF0i0XkDKj.w\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908"
+                "price": "194.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-7600-cas-latency-cl38-memory-silver-white/p/N82E16820242858?Item=N82E16820242858\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-eSjRegCOsk8AIhEj5chnjw\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             },
             {
                 "region": "US",
@@ -17099,7 +17099,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "329.99",
+                "price": "409.99",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-48gb-ddr5-8400-cas-latency-cl40-desktop-memory-silver-black/p/N82E16820242907?Item=N82E16820242907\u0026utm_medium=affiliate\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-9K2TwOVUcgXUv98vGSocNw\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -17127,7 +17127,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "329.99",
+                "price": "409.99",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-48gb-ddr5-8400-cas-latency-cl40-desktop-memory-silver-white/p/N82E16820242908?Item=N82E16820242908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-lav3GBb2szswTAEUmynUyA\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -17216,15 +17216,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "359.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-96gb-ddr5-6000-cas-latency-cl32-memory-silver-black/p/N82E16820242825?Item=N82E16820242825\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-z2dVM.9qEsI675KRlCCfDA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "364.99",
                 "price_link": "https://www.amazon.com/dp/B0CJC7QC8R"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "379.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-96gb-ddr5-6000-cas-latency-cl32-memory-silver-black/p/N82E16820242825?Item=N82E16820242825\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-z2dVM.9qEsI675KRlCCfDA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
         "profile_expo": false,
@@ -17250,15 +17250,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "399.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-96gb-ddr5-6400-cas-latency-cl32-memory-silver-black/p/N82E16820242823?Item=N82E16820242823\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-ZqhqccJhpRaOexhHU1Bn5A\u0026utm_medium=affiliate\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID="
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "402.19",
                 "price_link": "https://www.amazon.com/dp/B0CJC8XSZC"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "415.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-96gb-ddr5-6400-cas-latency-cl32-memory-silver-black/p/N82E16820242823?Item=N82E16820242823\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-ZqhqccJhpRaOexhHU1Bn5A\u0026utm_medium=affiliate\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             }
         ],
         "profile_expo": false,
@@ -17340,15 +17340,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "232.73",
-                "price_link": "https://www.amazon.com/dp/B0CKZ9SGFY"
+                "platform": "newegg",
+                "price": "225.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-8000-cas-latency-cl38-desktop-memory-silver-black/p/N82E16820242829?Item=N82E16820242829\u0026ranSiteID=nwUw4CS3F2g-_N1jIwofUaT1R3n2bWzMzw\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "259.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-8000-cas-latency-cl38-desktop-memory-silver-black/p/N82E16820242829?Item=N82E16820242829\u0026ranSiteID=nwUw4CS3F2g-_N1jIwofUaT1R3n2bWzMzw\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908"
+                "platform": "amazon",
+                "price": "232.73",
+                "price_link": "https://www.amazon.com/dp/B0CKZ9SGFY"
             }
         ],
         "profile_expo": false,
@@ -17526,15 +17526,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "73.97",
-                "price_link": "https://www.amazon.com/dp/B0BZJK1349"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RM-001W-00710?Item=9SIAD6HKHA5211\u0026ranSiteID=nwUw4CS3F2g-pyrb5xid6LgolKCYLhlKaw\u0026AFFID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "229.79",
-                "price_link": "https://www.newegg.com/p/0RM-001W-00710?Item=9SIAD6HKHA5211\u0026ranSiteID=nwUw4CS3F2g-pyrb5xid6LgolKCYLhlKaw\u0026AFFID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
+                "platform": "amazon",
+                "price": "73.97",
+                "price_link": "https://www.amazon.com/dp/B0BZJK1349"
             }
         ],
         "profile_expo": false,
@@ -17560,15 +17560,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "117.24",
-                "price_link": "https://www.amazon.com/dp/B0BZJH66X9"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RM-001W-00708?Item=9SIAD6HKHA5200\u0026ranSiteID=nwUw4CS3F2g-CPEVxgb6IIwk6vlfLHKaRA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "167.59",
-                "price_link": "https://www.newegg.com/p/0RM-001W-00708?Item=9SIAD6HKHA5200\u0026ranSiteID=nwUw4CS3F2g-CPEVxgb6IIwk6vlfLHKaRA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
+                "platform": "amazon",
+                "price": "117.24",
+                "price_link": "https://www.amazon.com/dp/B0BZJH66X9"
             }
         ],
         "profile_expo": false,
@@ -17594,15 +17594,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/p/0RN-001J-014Z2?Item=9SIA8H5KDM2796\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-227rMe4a5ax5jIh8LLdtuw\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026ranEAID=3815908\u0026utm_medium=affiliate"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "103.72",
                 "price_link": "https://www.amazon.com/dp/B0CKZ8PGP6"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "120.69",
+                "price_link": "https://www.newegg.com/p/0RN-001J-014Z2?Item=9SIA8H5KDM2796\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-227rMe4a5ax5jIh8LLdtuw\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026ranEAID=3815908\u0026utm_medium=affiliate"
             }
         ],
         "profile_expo": false,
@@ -17628,15 +17628,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "119.85",
-                "price_link": "https://www.amazon.com/dp/B0CKZ9DS85"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0RN-001J-014Y8?Item=9SIAD6HKHC5947\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-a_Xosrj38O5wWTghZTrtgA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "225.47",
-                "price_link": "https://www.newegg.com/p/0RN-001J-014Y8?Item=9SIAD6HKHC5947\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-a_Xosrj38O5wWTghZTrtgA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908"
+                "platform": "amazon",
+                "price": "119.85",
+                "price_link": "https://www.amazon.com/dp/B0CKZ9DS85"
             }
         ],
         "profile_expo": false,
@@ -17684,8 +17684,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "139.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-6400-cas-latency-cl32-memory-silver-white/p/0RM-001W-00715?Item=0RM-001W-00715\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-aO_.SXybWke1YU8WHW125A\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-32gb-ddr5-6400-cas-latency-cl32-memory-white-gray/p/0RN-001J-01595?Item=9SIAD6HKHA5207\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-wjjcvNAE4z7mVsP884gNng\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ASID=\u0026ACRID=1"
             },
             {
                 "region": "US",
@@ -17751,15 +17751,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "176.65",
-                "price_link": "https://www.amazon.com/dp/B0BZJJ8MYF"
+                "platform": "newegg",
+                "price": "162.99",
+                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-7200-cas-latency-cl38-memory-silver-white/p/0RM-001W-00720?Item=0RM-001W-00720\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-chgY0dgB1AxXniJoVV0Ysg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "189.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-7200-cas-latency-cl38-memory-silver-white/p/0RM-001W-00720?Item=0RM-001W-00720\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-chgY0dgB1AxXniJoVV0Ysg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908"
+                "platform": "amazon",
+                "price": "176.65",
+                "price_link": "https://www.amazon.com/dp/B0BZJJ8MYF"
             }
         ],
         "profile_expo": false,
@@ -17993,15 +17993,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "199.99",
-                "price_link": "https://www.amazon.com/dp/B0BZJJB7JZ"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/p/0ZK-01M8-003U7?Item=9SIAD6HKHA5250\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-uxBVn9FtIAvLkFxKVVFgsg\u0026AFFID=3815908\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "199.99",
-                "price_link": "https://www.newegg.com/kingston-technology-corp-fury-renegade-32gb-ddr5-7200-cas-latency-cl38-memory-silver-white/p/0RM-001W-00716?Item=0RM-001W-00716\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-Cm34l3ikOM.lOcD5bFR9aA\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "price_link": "https://www.amazon.com/dp/B0BZJJB7JZ"
             }
         ],
         "profile_expo": false,
@@ -18164,7 +18164,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "117.68",
+                "price": "130.46",
                 "price_link": "https://www.newegg.com/kingston-technology-corp-32gb-ddr5-5600-cas-latency-cl46-memory/p/0RN-001J-014M8?Item=9SIA25VKGM1168\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-z9qHxYQe3zy8rX4.n9kdXw\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -18226,7 +18226,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "40.97",
+                "price": "44.97",
                 "price_link": "https://www.newegg.com/silicon-power-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-black-gray/p/N82E16820301458?Item=9SIBDGPJ9V7164\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-xeyNvmqZDAqIpYt3kqot3Q\u0026ASUBID=\u0026utm_medium=affiliate\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1"
             }
         ],
@@ -18303,7 +18303,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "42.75",
+                "price": "45.97",
                 "price_link": "https://www.newegg.com/silicon-power-16gb-ddr4-3600-cas-latency-cl18-desktop-memory-black-gray/p/N82E16820301480?Item=9SIBDGPKBF0358\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-6V0gVC.gTI6hP0MOMaQCxg\u0026ACRID=1\u0026ASID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583"
             }
         ],
@@ -18393,7 +18393,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "69.97",
+                "price": "74.99",
                 "price_link": "https://www.newegg.com/silicon-power-xpower-turbine-32gb-ddr4-3200-cas-latency-cl16-desktop-memory-blue/p/N82E16820301435?Item=9SIBDGPKBF0357\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ZgE9KR2chKkeuq9POfqUeA\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1"
             }
         ],
@@ -18421,7 +18421,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "40.97",
+                "price": "43.97",
                 "price_link": "https://www.newegg.com/silicon-power-xpower-turbine-16gb-ddr4-3200-cas-latency-cl16-desktop-memory-blue/p/N82E16820301432?Item=9SIBDGPKBF0359\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-plD0.gnrC1sxaTQX2zNVfQ\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -18498,7 +18498,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.97",
+                "price": "112.97",
                 "price_link": "https://www.newegg.com/silicon-power-zenith-32gb-ddr5-6000-cas-latency-cl30-memory-black/p/0RN-002K-000H6?Item=9SIBDGPK7E6529\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-jKa0Ocww3Zkh3CE_aqkjxw\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ASID=\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             }
         ],
@@ -18526,7 +18526,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "97.97",
+                "price": "112.97",
                 "price_link": "https://www.newegg.com/silicon-power-zenith-32gb-ddr5-6000-cas-latency-cl30-memory-white/p/0RN-002K-000H5?Item=9SIBDGPK7E6518\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-aOzgYnQfniYhCx12CQrldA\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             }
         ],
@@ -18582,7 +18582,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "195.97",
+                "price": "214.97",
                 "price_link": "https://www.newegg.com/silicon-power-zenith-64gb-ddr5-6000-cas-latency-cl30-memory-black/p/0RN-002K-000H8?Item=9SIBDGPK7E6534\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Jk7uZn2i.N.52Xz8w.X0UQ\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASID=\u0026AFFID=3815908\u0026utm_medium=affiliate"
             }
         ],
@@ -18610,7 +18610,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "195.97",
+                "price": "214.97",
                 "price_link": "https://www.newegg.com/silicon-power-zenith-64gb-ddr5-6000-cas-latency-cl30-memory-white/p/0RN-002K-000H7?Item=9SIBDGPK7E6530\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-KO1EsmxVasnqguaYfIlLWQ\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -18638,7 +18638,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "102.97",
+                "price": "117.99",
                 "price_link": "https://www.newegg.com/silicon-power-zenith-32gb-ddr5-6000-cas-latency-cl30-memory-black/p/0RN-002K-000J0?Item=9SIBDGPK7E6540\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-M_a.DXa_AnoDCYzWONyjGg\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1"
             }
         ],
@@ -18666,7 +18666,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "102.99",
+                "price": "109.97",
                 "price_link": "https://www.newegg.com/silicon-power-zenith-32gb-ddr5-6000-cas-latency-cl30-memory-white/p/0RN-002K-000H9?Item=9SIBDGPK7E6538\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-FQ2j11olYJIj87kNJphAHg\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -18694,7 +18694,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.97",
+                "price": "221.97",
                 "price_link": "https://www.newegg.com/silicon-power-zenith-64gb-ddr5-6000-cas-latency-cl30-memory-black/p/0RN-002K-000J2?Item=9SIBDGPK7E6570\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-p7RT8K48Vl8Trwi7BsUDpA\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate"
             }
         ],
@@ -18722,7 +18722,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.97",
+                "price": "221.97",
                 "price_link": "https://www.newegg.com/silicon-power-xpower-zenith-64gb-ddr5-6000-cas-latency-cl30-memory-white/p/0RN-002K-000J3?Item=9SIBDGPK7G1441\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-cE_DQUDEbKaLVULKFuQrsg\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
