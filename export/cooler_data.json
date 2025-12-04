@@ -16,15 +16,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/p/13C-000P-000N7?Item=9SIA2W0JE91073\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-mng0QFyzoUoCOzSJ1ZZRHQ\u0026ranMID=44583\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "11.98",
                 "price_link": "https://amzn.to/4mQOmpz"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "11.99",
+                "price_link": "https://www.newegg.com/p/13C-000P-000N7?Item=9SIA2W0JE91073\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-mng0QFyzoUoCOzSJ1ZZRHQ\u0026ranMID=44583\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate"
             }
         ],
         "release_date": "2021-01-01T00:00:00Z",
@@ -125,7 +125,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "58.78",
+                "price": "49.99",
                 "price_link": "https://www.newegg.com/arctic-cooling-acfre00124a-freezer-36-a-rgb/p/N82E16835186285?Item=9SIA1K6K9P0660\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-nb5TaNz9mtVRValVreC0Yg\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583"
             }
         ],
@@ -405,15 +405,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "23.99",
-                "price_link": "https://www.newegg.com/p/0SS-0036-00009?Item=9SIA2W0H892468\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-sA9SLWUH.8p6woLeHLIMjQ\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASUBID="
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "26.24",
                 "price_link": "https://amzn.to/4mQQjCr"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "26.31",
+                "price_link": "https://www.newegg.com/p/0SS-0036-00009?Item=9SIA2W0H892468\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-sA9SLWUH.8p6woLeHLIMjQ\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASUBID="
             }
         ],
         "release_date": "2020-05-01T00:00:00Z",
@@ -714,7 +714,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "96.59",
+                "price": "99.99",
                 "price_link": "https://www.newegg.com/arctic-cooling-liquid-cooling-system-liquid-freezer-ii/p/13C-000P-000R0?Item=9SIA2W0KFB2645\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-OjQwbs06czucBn9_e4VCvw\u0026ranEAID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFID=3815908"
             },
             {
@@ -941,7 +941,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "111.99",
+                "price": "125.99",
                 "price_link": "https://www.newegg.com/arctic-liquid-cooling-system/p/13C-000P-000R3?Item=9SIA2W0GPM1774\u0026utm_medium=affiliate\u0026ASUBID=\u0026ranEAID=3815908\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-gO4FE_HDqRd.UWz5xFR5sw\u0026ACRID=1\u0026ranMID=44583\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -1055,7 +1055,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "791.25",
                 "price_link": "https://www.newegg.com/arctic-cooling-liquid-freezer-iii-240-277mm-amd-socket-am4-am5-intel-lga-1700-black/p/N82E16835186272?Item=9SIAD6HKHG6874\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-pi.T_ckaC9xQG1J3rtdLNg\u0026ranMID=44583\u0026ASUBID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -1121,7 +1121,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "113.99",
+                "price": "95.99",
                 "price_link": "https://www.newegg.com/arctic-cooling-liquid-cooling-system-liquid-freezer-iii-240-a-rgb/p/N82E16835186271?Item=9SIA2W0K5W2452\u0026ranSiteID=nwUw4CS3F2g-QHvG4X7Q4LqGAhr5.sq1ig\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -1229,7 +1229,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "129.59",
+                "price": "105.99",
                 "price_link": "https://www.newegg.com/arctic-cooling-liquid-cooling-system-liquid-freezer-iii-280-a-rgb-317-mm-white/p/N82E16835186274?Item=9SIA2W0K5W2453\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-1X8JnMX_ef0sRUGD52dang\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASID=\u0026AFFID=3815908"
             },
             {
@@ -1475,7 +1475,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "82.99",
+                "price": "95.99",
                 "price_link": "https://www.newegg.com/p/2YM-004H-00082?Item=9SIA2W0KG06305\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-FBTfeXtugxtlCIOnxMXS_g\u0026ASUBID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -1511,7 +1511,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "92.99",
+                "price": "102.99",
                 "price_link": "https://www.newegg.com/p/2YM-004H-00083?Item=9SIA2W0KG06336\u0026ranSiteID=nwUw4CS3F2g-d5EhBLfXlVNHz44xaBdmAQ\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -1540,15 +1540,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/p/2YM-004H-00078?Item=9SIA2W0KER9620\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-gZPeLn.vPyQVayDV7tm4GQ\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "84.99",
                 "price_link": "https://amzn.to/467KCJ8"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "149.99",
+                "price_link": "https://www.newegg.com/p/2YM-004H-00078?Item=9SIA2W0KER9620\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-gZPeLn.vPyQVayDV7tm4GQ\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908"
             }
         ],
         "release_date": "2025-03-01T00:00:00Z",
@@ -1678,7 +1678,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "160.00",
+                "price": "80.01",
                 "price_link": "https://www.newegg.com/asus-rog-ryujin-240-liquid-cooling-system/p/N82E16835101037?Item=9SIBWH3KE64477\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-Y8HrQVIjrQAsfYCiTyFXHg\u0026ASUBID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             },
             {
@@ -1859,7 +1859,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "299.00",
+                "price": "307.42",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-system/p/N82E16835101070?Item=9SIBTK0K917401\u0026ranSiteID=nwUw4CS3F2g-9YSMaGK9cAHEj4QAmqe42A\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -1902,7 +1902,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "184.99",
+                "price": "209.99",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-system-rog-ryujin-240-radiator-size-279-5-x-120-x-30-mm/p/N82E16835101095?Item=N82E16835101095\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-verrIx4Yr4j_XMnOWyrtdw\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -1937,7 +1937,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "209.90",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-system-rog-ryujin-240-radiator-size-279-5-x-120-x-30-mm/p/N82E16835101096?Item=N82E16835101096\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-WVzfNOITaya1Zfq0OzQO5A\u0026AFFID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID="
             },
             {
@@ -1984,7 +1984,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.99",
+                "price": "198.99",
                 "price_link": "https://www.newegg.com/asus-liquid-coolin-rog-ryujin-iii-radiator-size-279-mm-intel-lga-1700-1200-115x-amd-am5-am4-white/p/N82E16835101099?Item=N82E16835101099\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-FrkK4oItfSwKlOgCDepWlg\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate"
             }
         ],
@@ -2283,7 +2283,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "146.99",
                 "price_link": "https://www.newegg.com/asus-rog-ryuo-iii-240-argb-amd-am4-am5-tr4-intel-lga-1700-1200-115x-1366-2011-2011-3-2066-black/p/N82E16835101089?Item=N82E16835101089\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-JJcr7SHB_pp0h1t_X3SjiA\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026ASUBID=\u0026AFFID=3815908\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -2324,7 +2324,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "194.99",
+                "price": "209.99",
                 "price_link": "https://www.newegg.com/asusrog-ryuo-iii-360-argb-wht-399-mm-amd-am4-am5-tr4-intel-lga-1700-1200-115x-1366-2011-2011-3-2066/p/N82E16835101092?Item=9SIAD6HJMZ1272\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-5axIKlhwiczSZXZQ8pSq3A\u0026AFFID=3815908\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -2428,7 +2428,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "320.00",
+                "price": "244.84",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-system-rog-strix-lc-240-rgb/p/N82E16835101045?Item=9SIBWH3KE64490\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-G1RDY.moAJbPtxbagqGVjQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -2471,7 +2471,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "310.00",
+                "price": "187.94",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-system-rog-strix-lc-240-rgb-white-edition/p/N82E16835101047?Item=9SIBWH3KE64491\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-TbrOVvVRbnl0jMFi0xzQjg\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ASID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -2636,7 +2636,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "269.00",
+                "price": "143.76",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-system/p/N82E16835101073?Item=9SIBWH3KE64481\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-8bN_M70A2UxPSCYSWBwJUA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ACRID=1\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -2671,7 +2671,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "389.00",
+                "price": "185.09",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-394-mmintel-lga-2066-2011-2011-3-1700-1366-1200-115x-amd-am4-tr4-black/p/N82E16835101072?Item=9SIBWH3KE64470\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_medium=affiliate\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-9xv.tvXr04FIP9789EIzyQ\u0026ranMID=44583\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -3091,7 +3091,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.00",
+                "price": "96.08",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-system-tuf-gaming-lc-240-rgb/p/N82E16835101051?Item=9SIBWH3KB88096\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-0ftA7Q4xNp7r9FzDUvp8aQ\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ACRID=1\u0026utm_medium=affiliate"
             }
         ],
@@ -3206,7 +3206,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "295.00",
+                "price": "206.04",
                 "price_link": "https://www.newegg.com/asus-liquid-cooling-394-mm-amd-socket-am4-amd-socket-am5-intel-lga-115x-intel-lga-1200-lga-1700-blk/p/N82E16835101102?Item=9SIBWH3KE12205\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-iPKFlZe2IDJvP_9qesb5vQ\u0026AFFID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID="
             }
         ],
@@ -3715,7 +3715,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "88.85",
+                "price": "139.90",
                 "price_link": "https://www.newegg.com/be-quiet-liquid-cooling-system/p/13C-001F-00066?Item=13C-001F-00066\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ct1W.lqdE.NFGIUUTRFWjg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1"
             }
         ],
@@ -3805,7 +3805,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "72.90",
+                "price": "69.90",
                 "price_link": "https://www.newegg.com/be-quiet-dark-rock-5-120mm-intel-lga-1700-1200-1150-1151-1155-amd-socket-am5-am4/p/N82E16835269007?Item=N82E16835269007\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-_9qeZSGE243LfRvzLOPfAw\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -3927,7 +3927,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.90",
+                "price": "89.90",
                 "price_link": "https://www.newegg.com/be-quiet-dark-rock-pro-5/p/13C-001F-00070?Item=13C-001F-00070\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-d_Eh4kszTm.aYzX5eLv.tg\u0026ACRID=1\u0026ASUBID=\u0026ASID="
             },
             {
@@ -4101,7 +4101,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "43.99",
+                "price": "38.90",
                 "price_link": "https://www.newegg.com/be-quiet-pure-rock-2/p/13C-001F-00061?Item=13C-001F-00061\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-4qVvTZzgaV7QyOar59Cypw\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -4492,7 +4492,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "45.67",
+                "price": "39.99",
                 "price_link": "https://www.newegg.com/cooler-master-hyper-620s-120mm-intel-lga-1700-1200-1151-1150-1155-1156-amd-am5-am4/p/N82E16835103358?Item=N82E16835103358\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-63coefaFuAsV0iwVifM0Wg\u0026ranMID=44583\u0026ASID=\u0026utm_medium=affiliate\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -4577,15 +4577,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "59.99",
-                "price_link": "https://amzn.to/484rM8a"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/cooler-master-liquid-cooling-system-master-liquid/p/N82E16835103361?Item=N82E16835103361\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-kz4Ya5AGq0AmEudJ0WMb9g\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "64.99",
-                "price_link": "https://www.newegg.com/cooler-master-liquid-cooling-system-master-liquid/p/N82E16835103361?Item=N82E16835103361\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-kz4Ya5AGq0AmEudJ0WMb9g\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly"
+                "platform": "amazon",
+                "price": "59.99",
+                "price_link": "https://amzn.to/484rM8a"
             }
         ],
         "release_date": "2023-08-01T00:00:00Z",
@@ -4673,7 +4673,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "170.00",
+                "price": "174.59",
                 "price_link": "https://www.newegg.com/p/2YM-0004-000X6?Item=9SIAD6HKHX9690\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-bJhwDJD_ZBDc4A0H3zy0bA\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -4717,7 +4717,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "170.00",
+                "price": "174.59",
                 "price_link": "https://www.newegg.com/p/2YM-0004-000X4?Item=9SIAD6HKHX9678\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-kmLkpT0ZRzHTlhuf7c_eaw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASID="
             }
         ],
@@ -4796,15 +4796,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "118.99",
-                "price_link": "https://www.newegg.com/cooler-master-liquid-cooling-system/p/N82E16835103362?Item=N82E16835103362\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-CQ6uWnZjqnHFDXnar1w7EA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "142.84",
                 "price_link": "https://amzn.to/4p4Wzrv"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "149.99",
+                "price_link": "https://www.newegg.com/cooler-master-liquid-cooling-system/p/N82E16835103362?Item=N82E16835103362\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-CQ6uWnZjqnHFDXnar1w7EA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1"
             }
         ],
         "release_date": "2023-10-01T00:00:00Z",
@@ -4844,7 +4844,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "196.17",
+                "price": "195.12",
                 "price_link": "https://www.newegg.com/p/2YM-0004-000X5?Item=9SIAD6HKHX9679\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Jkmj_v47pOR2NLLWjaXJ2A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             }
         ],
@@ -4888,7 +4888,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "196.17",
+                "price": "248.51",
                 "price_link": "https://www.newegg.com/p/2YM-0004-000X7?Item=9SIAD6HKHX9691\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-ajVeWXwpHBRZLXO5ewsawg\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -4925,15 +4925,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "84.99",
-                "price_link": "https://amzn.to/3V3hP3h"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/ihtp-liquid-radiator-size-360l-core-black/p/2YM-00BA-00008?Item=9SIBVHXKFV5010\u0026ranSiteID=nwUw4CS3F2g-0NBXA2CzpVz970dcDc6BUA\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "84.99",
-                "price_link": "https://www.newegg.com/cooler-master-liquid-cooling-394-mm-intel-lga-1700-1200-115x-amd-socket-am5-am4-am3-am3-am2-am2-fm2/p/N82E16835103355?Item=N82E16835103355\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-aW4ykOT7DAE37JB9PqifBA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
+                "price_link": "https://amzn.to/3V3hP3h"
             }
         ],
         "release_date": "2023-05-01T00:00:00Z",
@@ -4980,8 +4980,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "84.99",
-                "price_link": "https://www.newegg.com/cooler-master-liquid-cooling-394-mm-intel-lga-1700-1200-115x-amd-socket-am5-am4-am3-am3-am2-am2-fm2/p/N82E16835103356?Item=N82E16835103356\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-mWyR4jf09a.wTY18vyPTAA\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "87.90",
+                "price_link": "https://www.newegg.com/ihtp-water-radiator-size-360l-core-white/p/2YM-00BA-00007?Item=9SIBVHXKFV5009\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-LqRRTjYrldEak5hGvnOsFQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID="
             }
         ],
         "release_date": "2023-05-01T00:00:00Z",
@@ -5067,7 +5067,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "39.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/cooler-master-liquid-cooling-system/p/N82E16835103322?Item=N82E16835103322\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-GoaV1nehq8rnf3XOYt2olg\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583"
             }
         ],
@@ -5433,7 +5433,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.00",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/corsair-liquid-cooling-system/p/2YM-000R-00214?Item=9SIB8AKKAM3748\u0026ranSiteID=nwUw4CS3F2g-dS1CAvz_V8h9If9GGG5Ftw\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026utm_medium=affiliate"
             }
         ],
@@ -5510,7 +5510,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.00",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/corsair-liquid-cooling-system-icue-h100i-elite-capellix-white/p/N82E16835181215?Item=9SIB8AKKC00530\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ECm82M1Q0Old52k6uOVB4g\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ASID=\u0026ACRID=1\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly"
             }
         ],
@@ -5691,15 +5691,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "210.00",
-                "price_link": "https://amzn.to/4mYdY3K"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/corsair-liquid-cooling-397mm-amd-am5-am4-strx4-intel-1700-1200-115x-2066-2011-3-2011-white/p/N82E16835181335?Item=9SIB8AKKEA2816\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-nh6u6ZM64LJa7CwmgcmgOQ\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "399.00",
-                "price_link": "https://www.newegg.com/corsair-liquid-cooling-397mm-amd-am5-am4-strx4-intel-1700-1200-115x-2066-2011-3-2011-white/p/N82E16835181335?Item=9SIB8AKKEA2816\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-nh6u6ZM64LJa7CwmgcmgOQ\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "210.00",
+                "price_link": "https://amzn.to/4mYdY3K"
             }
         ],
         "release_date": "2023-02-01T00:00:00Z",
@@ -5959,7 +5959,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "114.99",
+                "price": "109.99",
                 "price_link": "https://www.newegg.com/corsair-liquid-cooling-icue-link-277mm-amd-am5-am4-strx4-intel-1700-1200-115x-2066-2011-3-2011-black/p/N82E16835181366?Item=N82E16835181366\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-6WwP6OQNdhDlHcTpSz_KwQ\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ACRID=1\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -5994,7 +5994,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "109.99",
                 "price_link": "https://www.newegg.com/corsair-liquid-cooling-icue-link-277mm-amd-am5-am4-strx4-intel-1700-1200-115x-2066-2011-3-2011-white/p/N82E16835181370?Item=N82E16835181370\u0026ranSiteID=nwUw4CS3F2g-UXVp9YMRK38fWBc9JZs4Ig\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate"
             }
         ],
@@ -6260,7 +6260,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/corsair-aio-radiator-size-276mm-x-120mm-x-27mm-amd-am5-am4-intel-1851-1700-black/p/N82E16835181480?Item=N82E16835181480\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-BWla1fT8byL8d1.WYLA0pQ\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583"
             },
             {
@@ -6488,7 +6488,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "184.99",
+                "price": "199.99",
                 "price_link": "https://www.newegg.com/p/0EZ-00MD-00004?Item=0EZ-00MD-00004\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-.MAPSe9ezuMIwLaCeKDCtA"
             },
             {
@@ -6667,15 +6667,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "119.99",
-                "price_link": "https://www.newegg.com/corsair-aio-nautilus-series-radiator-size-396-mm-intel-lga-1851-1700-amd-am5-am4/p/N82E16835181478?Item=N82E16835181478\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-F0trjtxZ7ir8ZFGtPPR41Q\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "129.99",
                 "price_link": "https://amzn.to/4m4WzVS"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "129.99",
+                "price_link": "https://www.newegg.com/corsair-aio-nautilus-series-radiator-size-396-mm-intel-lga-1851-1700-amd-am5-am4/p/N82E16835181478?Item=N82E16835181478\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-F0trjtxZ7ir8ZFGtPPR41Q\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583"
             }
         ],
         "release_date": "2024-11-01T00:00:00Z",
@@ -8002,7 +8002,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "237.81",
+                "price": "340.43",
                 "price_link": "https://www.newegg.com/lian-li-liquid-cooling-system-galahad-ii-trinity-360/p/N82E16835353016?Item=9SIAD6HK1Z5404\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-zu_zYk30T9wvB6MqhsqXVg\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -8107,7 +8107,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "167.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/lian-li-liquid-cooling-system-galahad-ii-trinity-sl-inf-360/p/N82E16835353018?Item=N82E16835353018\u0026ranSiteID=nwUw4CS3F2g-zArxeMiI1zZSZMsgmjwdJQ\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             },
             {
@@ -8195,7 +8195,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "232.03",
+                "price": "261.01",
                 "price_link": "https://www.newegg.com/lian-li-liquid-cooling-system-galahad-ii-trinity-360/p/N82E16835353017?Item=9SIAD6HK1Z5408\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-rcWLWN7o837BDTOoXIxCEg\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908"
             }
         ],
@@ -8230,7 +8230,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "198.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/lian-li-liquid-cooling-system/p/N82E16835353023?Item=9SIAMNEK308679\u0026ranSiteID=nwUw4CS3F2g-ez0pjHZE4FiJXIvgFRVm6A\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             },
             {
@@ -8347,8 +8347,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "214.00",
-                "price_link": "https://www.newegg.com/lian-li-liquid-cooling-amd-socket-am4-am5-intel-lga-115x-lga-1200-intel-lga-1700-black/p/N82E16835353027?Item=9SIA6KXK6J7734\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-cJn_SNWHwJuSefgsty5Nlg\u0026ranEAID=3815908\u0026ASID=\u0026utm_source=afc-Pangoly"
+                "price": "229.99",
+                "price_link": "https://www.newegg.com/lian-li-liquid-cooling-amd-socket-am4-am5-intel-lga-115x-lga-1200-intel-lga-1700-black/p/N82E16835353027?Item=N82E16835353027\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-Izo5nmcX_eM2nZ5hvlaqNQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583"
             }
         ],
         "release_date": "2023-10-01T00:00:00Z",
@@ -8382,8 +8382,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "216.49",
-                "price_link": "https://www.newegg.com/lian-li-liquid-cooling-amd-socket-am4-am5-intel-lga-115x-lga-1200-intel-lga-1700-white/p/N82E16835353028?Item=9SIAMNEK2T5553\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-aZZNDsWWJI9XurljHvVP8w\u0026ranMID=44583\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate"
+                "price": "178.49",
+                "price_link": "https://www.newegg.com/lian-li-liquid-cooling-amd-socket-am4-am5-intel-lga-115x-lga-1200-intel-lga-1700-white/p/N82E16835353028?Item=N82E16835353028\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-yISCp8hSuQV.SD9bDwrJYg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026AFFID=3815908"
             }
         ],
         "release_date": "2023-10-01T00:00:00Z",
@@ -8417,7 +8417,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "390.39",
+                "price": "501.14",
                 "price_link": "https://www.newegg.com/lian-li-liquid-cooling-system/p/N82E16835353026?Item=9SIAD6HK5W7297\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-SqKviAuf4C5b2Z6oz6Qv.g\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -8452,7 +8452,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "88.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/p/37B-009H-00005?Item=37B-009H-00005\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-BoWy.gvaVvBdp5GvVh4n0Q"
             },
             {
@@ -8493,7 +8493,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "67.31",
                 "price_link": "https://www.newegg.com/p/37B-009H-00004?Item=37B-009H-00004\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-imDhcfNcjA8VDFsMI8IlZQ"
             },
             {
@@ -8622,7 +8622,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "287.03",
+                "price": "608.94",
                 "price_link": "https://www.newegg.com/p/2YM-002Y-00035?Item=9SIAD6HKEU0126\u0026ranSiteID=nwUw4CS3F2g-91r_X974EhAW5GjfAFvb_Q\u0026ranEAID=3815908\u0026ASID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly"
             }
         ],
@@ -8688,8 +8688,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.49",
-                "price_link": "https://www.newegg.com/p/2YM-002Y-00032?Item=9SIAMNEKDW8753\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-F7gUoXPHvJ7O2vYIiHRs1g\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly"
+                "price": "134.22",
+                "price_link": "https://www.newegg.com/p/2YM-002Y-00032?Item=2YM-002Y-00032\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-bEiy8TInbm5WFc2gHD3Jeg"
             },
             {
                 "region": "US",
@@ -9050,7 +9050,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "74.99",
                 "price_link": "https://www.newegg.com/msi-aio-radiator-size-240-mm-intel-socket-lga-1700-1851-amd-socket-am5-am4/p/N82E16835846067?Item=N82E16835846067\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-niSk6hzJnMGzs7vp2eYERQ\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9080,7 +9080,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "96.99",
                 "price_link": "https://www.newegg.com/msi-aio-radiator-size-240-mm-intel-socket-lga-1700-1851-amd-socket-am5-am4/p/N82E16835846068?Item=N82E16835846068\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-O7dVEGdRw6XMbHm6HCNp0g\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9110,7 +9110,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "119.99",
+                "price": "93.99",
                 "price_link": "https://www.newegg.com/msi-aio-radiator-size-360-mm-intel-socket-lga-1700-1851-amd-socket-am5-am4/p/N82E16835846069?Item=N82E16835846069\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-t4Hhem5FQDJxaeDMa7uaYw\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASID="
             }
         ],
@@ -9140,7 +9140,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "109.99",
                 "price_link": "https://www.newegg.com/msi-aio-radiator-size-360-mm-intel-socket-lga-1700-1851-amd-socket-am5-am4/p/N82E16835846070?Item=N82E16835846070\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-77OQ3tctxCVTb7IRRYVNWA\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
@@ -9169,15 +9169,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "92.99",
-                "price_link": "https://www.newegg.com/msi-aio-radiator-size-240-mm-amd-socket-am4-amd-socket-am5-intel-lga-1700-intel-lga-1851/p/N82E16835846071?Item=N82E16835846071\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-4doJJnNZi6jFDEWt6TF00Q\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "99.43",
                 "price_link": "https://amzn.to/4mT8tmX"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "109.99",
+                "price_link": "https://www.newegg.com/msi-aio-radiator-size-240-mm-amd-socket-am4-amd-socket-am5-intel-lga-1700-intel-lga-1851/p/N82E16835846071?Item=N82E16835846071\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-4doJJnNZi6jFDEWt6TF00Q\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             }
         ],
         "release_date": null,
@@ -9205,15 +9205,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "94.99",
-                "price_link": "https://www.newegg.com/msi-aio-radiator-size-360-mm-amd-socket-am4-amd-socket-am5-intel-lga-1700-intel-lga-1851/p/N82E16835846072?Item=N82E16835846072\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ch6Jk7SEwt7yXVIywtHsTg\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASID=\u0026ASUBID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "123.43",
                 "price_link": "https://amzn.to/47ubVzB"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "124.99",
+                "price_link": "https://www.newegg.com/msi-aio-radiator-size-360-mm-amd-socket-am4-amd-socket-am5-intel-lga-1700-intel-lga-1851/p/N82E16835846072?Item=N82E16835846072\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ch6Jk7SEwt7yXVIywtHsTg\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASID=\u0026ASUBID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
         "release_date": null,
@@ -9415,7 +9415,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "69.99",
+                "price": "119.99",
                 "price_link": "https://www.newegg.com/msi-mag-coreliquid-e240-white-277mm-lga-1700-am5/p/N82E16835846049?Item=N82E16835846049\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-FOkRHXgM93He_HwetncXhQ\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9450,7 +9450,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "132.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/msi-mag-coreliquid-e360-black-394mm-lga-1700-am5/p/N82E16835846050?Item=N82E16835846050\u0026ranSiteID=nwUw4CS3F2g-dgMgWEIMP3tKkPSV_JlS5A\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate"
             }
         ],
@@ -9485,7 +9485,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "119.99",
+                "price": "134.99",
                 "price_link": "https://www.newegg.com/msi-mag-coreliquid-e360-white-394mm-lga-1700-am5/p/N82E16835846051?Item=N82E16835846051\u0026ranSiteID=nwUw4CS3F2g-Q8WyZcqr6PZLR0NXBs.dZA\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -9520,7 +9520,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "104.99",
+                "price": "107.99",
                 "price_link": "https://www.newegg.com/msi-liquid-cooling-system-mag-series-radiator-size-277-x-119-2-x-27mm-intel-lga1150-1151-1155-1156-1200-1700-amd-am5-am4-black/p/N82E16835846065?Item=N82E16835846065\u0026utm_medium=affiliate\u0026ASUBID=\u0026ranEAID=3815908\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-kc5YyVLpFbhhYhszKRV3TA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             },
             {
@@ -9561,7 +9561,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "119.99",
                 "price_link": "https://www.newegg.com/msi-liquid-cooling-system-mag-series-radiator-size-277-x-119-2-x-27mm-intel-lga1150-1151-1155-1156-1200-1700-amd-am5-am4-white/p/N82E16835846066?Item=N82E16835846066\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-cQiTAMsNn_685TxYoF3Ukg\u0026ACRID=1\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             },
             {
@@ -10157,7 +10157,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "337.58",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/noctua-nh-d14/p/N82E16835608018?Item=9SIB76NK6N3189\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-u1sOIgDL3IQKItL0hcZC2A\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -10200,15 +10200,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/noctua-nh-d15/p/N82E16835608045?Item=9SIAZB2KEA4525\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-Jd3pOD.QnocAhxMwHkx.gw\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "129.95",
                 "price_link": "https://amzn.to/3Ie61YW"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "138.69",
+                "price_link": "https://www.newegg.com/noctua-nh-d15/p/N82E16835608045?Item=9SIAZB2KEA4525\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-Jd3pOD.QnocAhxMwHkx.gw\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly"
             }
         ],
         "release_date": "2018-08-01T00:00:00Z",
@@ -10258,7 +10258,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "154.44",
+                "price": "149.99",
                 "price_link": "https://www.newegg.com/noctua-nh-d15-chromax-black/p/13C-0005-001H5?Item=9SIBWH3KBE5680\u0026ranSiteID=nwUw4CS3F2g-ZGIFiGTv8ZyIfGb1qYP_Kg\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -10517,7 +10517,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "156.00",
+                "price": "129.95",
                 "price_link": "https://www.newegg.com/noctua-nh-d15s-chromax-black/p/13C-0005-002Y6?Item=9SIBAC6K7Y2988\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-0UGZ6J8mJHsto8Q2AxeMDg\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID="
             }
         ],
@@ -10619,7 +10619,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "95.71",
+                "price": "84.95",
                 "price_link": "https://www.newegg.com/noctua-nh-d9l/p/13C-0005-00341?Item=9SIBAC6K7Y0178\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-YaNNFriLW4Pb2VsRp9Co7w\u0026ranMID=44583\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             }
         ],
@@ -10893,7 +10893,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.92",
+                "price": "60.35",
                 "price_link": "https://www.newegg.com/p/13C-0005-002X6?Item=9SIBAC6K7Y0177\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-jwyUikO6mRMVAXBrEtIDdw\u0026ranMID=44583\u0026ASID=\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -11197,7 +11197,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "136.98",
+                "price": "135.99",
                 "price_link": "https://www.newegg.com/noctua-nh-u12a/p/13C-0005-00187?Item=9SIBAC6K7Y0175\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-kFEMrI41iYfMnp1ajj0Rhw\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -11248,7 +11248,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "148.95",
+                "price": "147.99",
                 "price_link": "https://www.newegg.com/noctua-nh-u12a-chromax-black/p/13C-0005-001S0?Item=9SIBTVCK8B0277\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-RtFuEjNd6IJbcR_qMYriHg\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -11650,7 +11650,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "112.00",
+                "price": "84.66",
                 "price_link": "https://www.newegg.com/noctua-nh-u9s-ch-bk-92mm-intel-lga1851-lga1700-lga1200-lga1156-lga1155-lga1151-lga1150-and-amd-am5-am4/p/13C-0005-00315?Item=9SIBAC6K7Y0172\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-iFUZzA8maWQlILvGOTxLgg\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -11766,7 +11766,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "69.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/nzxt-liquid-cooling-152-mm-intel-lga-2066-2011-3-2011-1366-1200-115x-amd-am4-am3-am3-am2-am2-fm2-blk/p/N82E16835146088?Item=9SIAG1PGDJ5362\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-deI.EmEWVXyfmmMva.KFdQ\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026AFFID=3815908"
             },
             {
@@ -11817,8 +11817,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "1799",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dn6MQmYsClu9w4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0OnBuWoiaY4khNa%2BloB3oda3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpa7PbGrBo45kQGcB29CeCEuabEC1bZeLLpQIuHZbVEgvabDPoXqQpiB3MVXFF84Muo1tvh3ygSQ5u42%2FefnLRKXx%2Bb5C%2FOuSVmzokgrW7QFfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401761176913%40212aa8a3_0eac_19a0e530621_2ddd%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "1699",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXxucrIvGVDNw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0IHyjDZxsl1qdpqnGULbxQi3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpa7PbGrBo45kQGcB29CeCGOX9H%2FU%2Bbbk59TIFQsFij1FCrbAzQv8DoXj8bsD8s14uo1tvh3ygSQ5u42%2FefnLRKXx%2Bb5C%2FOuSVmzokgrW7QFfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401764539799%402166db23_0e09_19ad6c49837_0ab2%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": "2024-08-01T00:00:00Z",
@@ -11852,7 +11852,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "227.99",
                 "price_link": "https://www.newegg.com/nzxt-aio-240-series-radiator-size-282-mm-intel-socket-lga-1851-1700-1200-115x-amd-socket-am5-am4/p/N82E16835146160?Item=N82E16835146160\u0026ranSiteID=nwUw4CS3F2g-4PZbJeLzNH7Acms0bNKX8g\u0026ranEAID=3815908\u0026ASID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly"
             }
         ],
@@ -11887,14 +11887,14 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "274.99",
                 "price_link": "https://www.newegg.com/nzxt-aio-280-series-radiator-size-322-mm/p/N82E16835146161?Item=N82E16835146161\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-yxzfrbsgV4FOljinGqYYAA\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ASUBID=\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "1799",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dn6MQmYsClu9w4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0OnBuWoiaY4khNa%2BloB3oda3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpa7PbGrBo45kQGcB29CeCEuabEC1bZeLLpQIuHZbVEgvabDPoXqQpiB3MVXFF84Muo1tvh3ygSQ5u42%2FefnLRKXx%2Bb5C%2FOuSVmzokgrW7QFfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401761176913%40212aa8a3_0eac_19a0e530621_2ddd%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "1699",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXxucrIvGVDNw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0IHyjDZxsl1qdpqnGULbxQi3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpa7PbGrBo45kQGcB29CeCGOX9H%2FU%2Bbbk59TIFQsFij1FCrbAzQv8DoXj8bsD8s14uo1tvh3ygSQ5u42%2FefnLRKXx%2Bb5C%2FOuSVmzokgrW7QFfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401764539799%402166db23_0e09_19ad6c49837_0ab2%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": "2024-08-01T00:00:00Z",
@@ -11928,7 +11928,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "169.99",
                 "price_link": "https://www.newegg.com/nzxt-aio-280-series-radiator-size-322-mm/p/N82E16835146162?Item=N82E16835146162\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-gz9jLrV8I_SwXe32zMJSUw\u0026ranEAID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -11969,8 +11969,8 @@
             {
                 "region": "CN",
                 "platform": "taobao",
-                "price": "1799",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dn6MQmYsClu9w4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0OnBuWoiaY4khNa%2BloB3oda3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpa7PbGrBo45kQGcB29CeCEuabEC1bZeLLpQIuHZbVEgvabDPoXqQpiB3MVXFF84Muo1tvh3ygSQ5u42%2FefnLRKXx%2Bb5C%2FOuSVmzokgrW7QFfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401761176913%40212aa8a3_0eac_19a0e530621_2ddd%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price": "1699",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DXxucrIvGVDNw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0IHyjDZxsl1qdpqnGULbxQi3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpa7PbGrBo45kQGcB29CeCGOX9H%2FU%2Bbbk59TIFQsFij1FCrbAzQv8DoXj8bsD8s14uo1tvh3ygSQ5u42%2FefnLRKXx%2Bb5C%2FOuSVmzokgrW7QFfp7YCGdRykHPZMUUR31Kpg%3D%3D\u0026union_lens=lensId%3AMAPI%401764539799%402166db23_0e09_19ad6c49837_0ab2%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": "2024-08-01T00:00:00Z",
@@ -12144,7 +12144,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "173.01",
+                "price": "249.00",
                 "price_link": "https://www.newegg.com/nzxt-rl-krx53-r1/p/13C-0069-00032?Item=9SIB8AKK6H2144\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-aEiWBi7zTN3UzP.RMkwhng\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ACRID=1\u0026AFFID=3815908\u0026utm_medium=affiliate"
             },
             {
@@ -12236,7 +12236,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "249.00",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/nzxt-liquid-cooling-system-kraken-x63-rgb/p/N82E16835146074?Item=9SIB8AKK6M6737\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-eAQ.Wga3nBwmCKdnydZYDA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026AFFID=3815908"
             }
         ],
@@ -12659,9 +12659,9 @@
             },
             {
                 "region": "CN",
-                "platform": "other",
-                "price": "1999",
-                "price_link": ""
+                "platform": "taobao",
+                "price": "1154",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DpUZImcrGft5w4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0IHyjDZxsl1qTCCxvCBsk5q3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOjoRoAvzYyPQR%2FIYyRGoPso%2FRkKuWm8eiMNzUtiPzGRUCIyDV5JVmCRaxBHKDdOXuSMxk3yCeA7WuwUxCXuLJt7HVMwhVej6Mqo4hU2KatkiGITF0g23SGVxKmPmpIKZsA%3D%3D\u0026union_lens=lensId%3AMAPI%401764539618%40212c3b75_0e9b_19ad6c1d4df_d5f6%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": null,
@@ -12708,9 +12708,9 @@
             },
             {
                 "region": "CN",
-                "platform": "other",
-                "price": "2199",
-                "price_link": ""
+                "platform": "taobao",
+                "price": "1154",
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DpUZImcrGft5w4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0IHyjDZxsl1qTCCxvCBsk5q3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOjoRoAvzYyPQR%2FIYyRGoPso%2FRkKuWm8eiMNzUtiPzGRUCIyDV5JVmCRaxBHKDdOXuSMxk3yCeA7WuwUxCXuLJt7HVMwhVej6Mqo4hU2KatkiGITF0g23SGVxKmPmpIKZsA%3D%3D\u0026union_lens=lensId%3AMAPI%401764539618%40212c3b75_0e9b_19ad6c1d4df_d5f6%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": "2021-09-01T00:00:00Z",
@@ -12835,15 +12835,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/p/13C-0069-00061?Item=13C-0069-00061\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-apJ4wA7F4_olzsfMp38Kyw"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "34.99",
                 "price_link": "https://amzn.to/4noMMLj"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "40.99",
+                "price_link": "https://www.newegg.com/p/13C-0069-00061?Item=13C-0069-00061\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-apJ4wA7F4_olzsfMp38Kyw"
             }
         ],
         "release_date": "2022-10-01T00:00:00Z",
@@ -13146,7 +13146,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/phanteks-liquid-cooling-system-radiator-size-397-x-120-x-27mm-intel-socket-lga-115x-1200-1700-1851-2011-2011-3-2066-amd-socket-am4-am5-sp3-strx4-tr4-swrx8/p/N82E16835709302?Item=N82E16835709302\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-WOJr2MCImxXkQDOBEpG1ZQ\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583"
             }
         ],
@@ -13184,7 +13184,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/phanteks-liquid-cooling-system-radiator-size-397-x-120-x-27mm-intel-socket-lga-115x-1200-1700-1851-2011-2011-3-2066-amd-socket-am4-am5-sp3-strx4-tr4-swrx8-white/p/N82E16835709303?Item=N82E16835709303\u0026ranSiteID=nwUw4CS3F2g-41spLG0VtdOjKF01TU9ANg\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908"
             }
         ],
@@ -13264,7 +13264,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "299.00",
                 "price_link": "https://www.newegg.com/phanteks-liquid-cooling-system-glacier-one-360mph/p/N82E16835709188?Item=9SIBMM4KBA5771\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-hNJ7cJGvRZth3ueVmAuvHg\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -13354,7 +13354,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "149.99",
                 "price_link": "https://www.newegg.com/p/N82E16835709306?Item=N82E16835709306\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-by5HW2dFEXkm24Blqv4kGw"
             }
         ],
@@ -13433,7 +13433,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "568",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dze3jTKFtKXNw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0OnBuWoiaY4kf7Cc9O2U5Ga3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOnYpkaQVGJCiTLMLQdzTy%2B3RDz%2Ff4BJI8NPDokkHSxecNvRED3MG%2FqMpu6k3fYYoIy1FaiCrnwDzLzHXLAl4q5KIugI%2FegEcYqTIO32bjrr8h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401761176921%40213df842_0e2c_19a0e53243d_8c86%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DKxN5aPr6BPdw4vFB6t2Z2ueEDrYVVa64juWlisr3dOdyINtkUhsv0IHyjDZxsl1qjwT44o8Tf6S3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOnYpkaQVGJCiTLMLQdzTy%2B15dDvuaMINzuMca5z9%2Ba4hXNwz2L9RBtnPfy786othpC1FaiCrnwDzLzHXLAl4q5KIugI%2FegEcYqTIO32bjrr8h3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401764539652%4021501da5_0f0a_19ad6c25a52_bf5c%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": null,
@@ -13931,7 +13931,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "89",
+                "price": "80",
                 "price_link": "https://item.jd.com/100021425849.html"
             }
         ],
@@ -14047,7 +14047,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "239",
+                "price": "219",
                 "price_link": "https://item.jd.com/100031537752.html"
             }
         ],
@@ -14423,7 +14423,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "246",
+                "price": "245",
                 "price_link": "https://item.jd.com/100031537712.html"
             }
         ],
@@ -14449,7 +14449,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "281",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DThjFChyPFF5w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0BfK600zsge23fT1ZPPIx2i3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOrK6n%2BYql3b%2FibBcB0sJasUcr%2FrbO%2B1FmTAIcRiBNPigKECzfXW8HcCnimj5UuKoM8Ow0vyFo8ouDVqoisq2s%2F7Wb%2BQaAQ6cxcRIWXVHptZmOQ001NTFeHmw56xOKfL1JsYOae24fhW0\u0026union_lens=lensId%3AMAPI%401761331552%40213c8e17_16cb_19a178a9f35_6364%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dt1h4KYsUXL1w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0BJxcR7%2Fiaj%2BVmg8SORgY9G3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOrK6n%2BYql3b%2FibBcB0sJasUVWpAvhUvsnOjD0DRDuyTgQwHnsYR2tmS%2B0JGviUcIBpu1yd2omsDyhzbwg7XPDLBc%2FLa4aC21kM6vcCAfYHASh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401764700709%402150901a_17b9_19ae05be149_6947%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": null,
@@ -14537,7 +14537,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "281",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DThjFChyPFF5w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0BfK600zsge23fT1ZPPIx2i3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOrK6n%2BYql3b%2FibBcB0sJasUcr%2FrbO%2B1FmTAIcRiBNPigKECzfXW8HcCnimj5UuKoM8Ow0vyFo8ouDVqoisq2s%2F7Wb%2BQaAQ6cxcRIWXVHptZmOQ001NTFeHmw56xOKfL1JsYOae24fhW0\u0026union_lens=lensId%3AMAPI%401761331552%40213c8e17_16cb_19a178a9f35_6364%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3Dt1h4KYsUXL1w4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0BJxcR7%2Fiaj%2BVmg8SORgY9G3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOrK6n%2BYql3b%2FibBcB0sJasUVWpAvhUvsnOjD0DRDuyTgQwHnsYR2tmS%2B0JGviUcIBpu1yd2omsDyhzbwg7XPDLBc%2FLa4aC21kM6vcCAfYHASh3%2FC0mPmfShBJHfTTaxjScYl7w3%2FA2kb\u0026union_lens=lensId%3AMAPI%401764700709%402150901a_17b9_19ae05be149_6947%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": null,
@@ -14567,7 +14567,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "319",
+                "price": "309",
                 "price_link": "https://item.jd.com/10082676348344.html"
             }
         ],
@@ -14995,7 +14995,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "79",
+                "price": "73",
                 "price_link": "https://item.jd.com/100026951608.html"
             }
         ],
@@ -15029,7 +15029,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "79",
+                "price": "73",
                 "price_link": "https://item.jd.com/100066938196.html"
             }
         ],
@@ -15054,7 +15054,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "69",
+                "price": "66",
                 "price_link": "https://item.jd.com/100046524923.html"
             }
         ],
@@ -15254,7 +15254,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "149",
+                "price": "135",
                 "price_link": "https://item.jd.com/100017118783.html"
             }
         ],
@@ -15574,7 +15574,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "322",
+                "price": "332",
                 "price_link": "https://item.jd.com/100024204252.html"
             }
         ],
@@ -15624,7 +15624,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "299",
+                "price": "286",
                 "price_link": "https://item.jd.com/100022594214.html"
             }
         ],
@@ -16449,7 +16449,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "438",
+                "price": "439",
                 "price_link": "https://item.jd.com/100078463792.html"
             }
         ],
@@ -16486,7 +16486,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "439",
+                "price": "435",
                 "price_link": "https://item.jd.com/100077073128.html"
             }
         ],
@@ -16523,7 +16523,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "219",
+                "price": "209",
                 "price_link": "https://item.jd.com/100010498068.html"
             }
         ],
@@ -16549,7 +16549,7 @@
                 "region": "CN",
                 "platform": "taobao",
                 "price": "219",
-                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3D6MPlDD4jHnRw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0OnBuWoiaY4kNnGHDv9u8g63X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpw0R8zW9nkF5wiKUJbD%2BelZmd2bUa4EfXq1ScR6%2BMl5JSozr6aUVXGBmfnoQg%2BGodDgUL%2BEJzh1d2DorUMs%2Bv7r1NhIG4orZpuKGjjM91DxwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401761176789%40212b80ca_0e4a_19a0e512255_a42f%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
+                "price_link": "https://s.click.taobao.com/t?e=m%3D2%26s%3DYDhD7WJxrNFw4vFB6t2Z2ueEDrYVVa64Dne87AjQPk9yINtkUhsv0IHyjDZxsl1qaL1nZhCeLd%2B3X1ppMM1K6W43HgsOowWtE8vsFAIYQZxrXvJ6%2BqFxFKAWqcsq3MkwFBoMXOGuG5DkaqczTKGnOpw0R8zW9nkF5wiKUJbD%2BemWIWSN1e9LTAaw9EJSW8FWzo8AbOsn0H3DD%2ByVYQMRQtDgUL%2BEJzh1d2DorUMs%2Bv7r1NhIG4orZpuKGjjM91DxwmGyhPCFe2TGDF1NzTQoPw%3D%3D\u0026union_lens=lensId%3AMAPI%401764539621%40212cf52a_0f03_19ad6c1e0b6_df3b%4001%40eyJmbG9vcklkIjo4MDMwOX0ie"
             }
         ],
         "release_date": null,
@@ -17056,7 +17056,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "212",
+                "price": "208",
                 "price_link": "https://item.jd.com/100018180372.html"
             }
         ],
@@ -17135,7 +17135,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "54.90",
+                "price": "59.90",
                 "price_link": "https://www.newegg.com/p/13C-000Y-000N0?Item=9SIBVHXKDJ6856\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-4qs0d76Y.AOkaDX6gTp7zQ\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908"
             }
         ],
@@ -17170,7 +17170,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "54.90",
+                "price": "59.90",
                 "price_link": "https://www.newegg.com/p/13C-000Y-000N1?Item=9SIBVHXKDJ6859\u0026ranSiteID=nwUw4CS3F2g-.w0iBkIyWRKCOE4mH3Fokg\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -17464,7 +17464,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "212",
+                "price": "208",
                 "price_link": "https://item.jd.com/100018180370.html"
             }
         ],
@@ -17836,7 +17836,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "219",
+                "price": "215",
                 "price_link": "https://item.jd.com/100030497426.html"
             }
         ],
@@ -17902,7 +17902,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "29",
+                "price": "25",
                 "price_link": "https://item.jd.com/100071529649.html"
             }
         ],
@@ -17952,7 +17952,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "24",
+                "price": "19",
                 "price_link": "https://item.jd.com/100066873675.html"
             }
         ],
@@ -17977,7 +17977,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "29",
+                "price": "24",
                 "price_link": "https://item.jd.com/100066873677.html"
             }
         ],
@@ -18002,7 +18002,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "24",
+                "price": "19",
                 "price_link": "https://item.jd.com/100064625276.html"
             }
         ],
@@ -18027,7 +18027,7 @@
             {
                 "region": "CN",
                 "platform": "jd",
-                "price": "29",
+                "price": "24",
                 "price_link": "https://item.jd.com/100064625302.html"
             }
         ],
