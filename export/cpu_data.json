@@ -16,13 +16,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "146.99",
+                "price": "140.26",
                 "price_link": "https://www.newegg.com/amd-ryzen-5-5000-series-ryzen-5-5600-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113736"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "769",
+                "price": "839",
                 "price_link": ""
             }
         ],
@@ -47,7 +47,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.50",
+                "price": "204.00",
                 "price_link": "https://www.newegg.com/amd-ryzen-5-5000-g-series-ryzen-5-5600g-cezanne-socket-am4-desktop-cpu-processor/p/N82E16819113683?srsltid=AfmBOopEbILKECfPn4NukyuZoiyRPzS-UKlWrPR_aPuQFS5ohS8ytoVy"
             },
             {
@@ -78,7 +78,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.95",
+                "price": "220.95",
                 "price_link": "https://www.newegg.com/amd-ryzen-5-5000-series-ryzen-5-5600x-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113666"
             },
             {
@@ -115,7 +115,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1179",
+                "price": "1349",
                 "price_link": ""
             }
         ],
@@ -171,13 +171,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "204.99",
+                "price": "214.00",
                 "price_link": "https://www.newegg.com/amd-ryzen-5-9000-series-ryzen-5-9600x-granite-ridge-socket-am5-desktop-cpu-processor/p/N82E16819113844"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1499",
+                "price": "1449",
                 "price_link": ""
             }
         ],
@@ -202,7 +202,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "165.99",
+                "price": "169.99",
                 "price_link": "https://www.newegg.com/amd-ryzen-7-5000-series-ryzen-7-5700x-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113735"
             },
             {
@@ -233,7 +233,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "399.99",
+                "price": "489.99",
                 "price_link": "https://www.newegg.com/amd-ryzen-7-5700x3d-ryzen-7-5000-series-vermeer-zen-3-socket-am4/p/N82E16819113812"
             },
             {
@@ -264,7 +264,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "175.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/amd-ryzen-7-5000-series-ryzen-7-5800x-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113665"
             },
             {
@@ -295,7 +295,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "544.12",
+                "price": "799.00",
                 "price_link": "https://www.newegg.com/amd-ryzen-7-5800x3d-ryzen-7-5000-series/p/N82E16819113734"
             },
             {
@@ -363,7 +363,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "2699",
+                "price": "2449",
                 "price_link": ""
             }
         ],
@@ -388,7 +388,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "275.00",
+                "price": "273.00",
                 "price_link": "https://www.newegg.com/amd-ryzen-7-8700g-ryzen-7-8000-g-series-phoenix-zen-4-socket-am5/p/N82E16819113811"
             },
             {
@@ -419,13 +419,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "329.00",
+                "price": "296.99",
                 "price_link": "https://www.newegg.com/amd-ryzen-7-9000-series-ryzen-7-9700x-granite-ridge-socket-am5-desktop-cpu-processor/p/N82E16819113843"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1999",
+                "price": "2049",
                 "price_link": ""
             }
         ],
@@ -456,7 +456,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "3499",
+                "price": "3699",
                 "price_link": ""
             }
         ],
@@ -481,7 +481,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "249.99",
+                "price": "389.50",
                 "price_link": "https://www.newegg.com/amd-ryzen-9-5000-series-ryzen-9-5900x-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113664"
             },
             {
@@ -512,7 +512,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "599.00",
+                "price": "537.69",
                 "price_link": "https://www.newegg.com/amd-ryzen-9-5000-series-ryzen-9-5950x-vermeer-socket-am4-desktop-cpu-processor/p/N82E16819113663"
             },
             {
@@ -605,7 +605,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "560.77",
+                "price": "618.24",
                 "price_link": "https://www.newegg.com/amd-ryzen-9-7900x3d-ryzen-9-7000-series-raphael-zen-4-socket-am5/p/N82E16819113792"
             },
             {
@@ -636,7 +636,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "528.28",
+                "price": "609.98",
                 "price_link": "https://www.newegg.com/amd-ryzen-9-7950x-ryzen-9-7000-series-raphael-zen-4-socket-am5/p/N82E16819113771"
             },
             {
@@ -667,7 +667,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "669.99",
+                "price": "649.99",
                 "price_link": "https://www.newegg.com/amd-ryzen-9-7950x3d-ryzen-9-7000-series-raphael-zen-4-socket-am5/p/N82E16819113791"
             },
             {
@@ -698,7 +698,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "399.00",
+                "price": "389.99",
                 "price_link": "https://www.newegg.com/amd-ryzen-9-9000-series-ryzen-9-9900x-granite-ridge-socket-am5-desktop-cpu-processor/p/N82E16819113842"
             },
             {
@@ -735,7 +735,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "3799",
+                "price": "3699",
                 "price_link": ""
             }
         ],
@@ -822,7 +822,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "145.99",
+                "price": "189.99",
                 "price_link": "https://www.newegg.com/intel-core-i3-12th-gen-core-i3-12100-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118370"
             },
             {
@@ -915,13 +915,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "119.99",
+                "price": "91.38",
                 "price_link": "https://www.newegg.com/intel-core-i3-13th-gen-core-i3-13100f-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118433"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "449",
+                "price": "999",
                 "price_link": ""
             }
         ],
@@ -946,7 +946,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "379.99",
                 "price_link": "https://www.newegg.com/intel-core-i7-14th-gen-core-i7-14700-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118476"
             },
             {
@@ -977,7 +977,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "96.99",
+                "price": "96.97",
                 "price_link": "https://www.newegg.com/intel-core-i3-14th-gen-core-i3-14100f-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118492"
             },
             {
@@ -1008,7 +1008,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "209.99",
+                "price": "159.16",
                 "price_link": "https://www.newegg.com/intel-core-i5-12th-gen-core-i5-12400-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118358"
             },
             {
@@ -1045,7 +1045,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "869",
+                "price": "899",
                 "price_link": ""
             }
         ],
@@ -1070,7 +1070,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "270.88",
+                "price": "345.56",
                 "price_link": "https://www.newegg.com/intel-core-i5-14th-gen-core-i5-14500-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118478"
             },
             {
@@ -1107,7 +1107,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1339",
+                "price": "1349",
                 "price_link": ""
             }
         ],
@@ -1138,7 +1138,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1199",
+                "price": "1219",
                 "price_link": ""
             }
         ],
@@ -1163,7 +1163,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "408.99",
+                "price": "340.07",
                 "price_link": "https://www.newegg.com/intel-core-i5-13th-gen-core-i5-13400-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118430"
             },
             {
@@ -1194,13 +1194,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.99",
+                "price": "185.14",
                 "price_link": "https://www.newegg.com/intel-core-i5-13th-gen-core-i5-13400f-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118431"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1059",
+                "price": "1099",
                 "price_link": ""
             }
         ],
@@ -1256,7 +1256,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "322.30",
+                "price": "312.59",
                 "price_link": "https://www.newegg.com/intel-core-i5-13th-gen-core-i5-13600k-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118416"
             },
             {
@@ -1318,7 +1318,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "223.09",
+                "price": "213.88",
                 "price_link": "https://www.newegg.com/intel-core-i5-14th-gen-core-i5-14400-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118480"
             },
             {
@@ -1349,7 +1349,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "204.99",
                 "price_link": "https://www.newegg.com/intel-core-i5-14th-gen-core-i5-14400f-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118489"
             },
             {
@@ -1380,7 +1380,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1299",
+                "price": "1149",
                 "price_link": ""
             }
         ],
@@ -1405,7 +1405,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "270.88",
+                "price": "345.56",
                 "price_link": "https://www.newegg.com/intel-core-i5-14th-gen-core-i5-14500-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118478"
             },
             {
@@ -1436,13 +1436,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "235.99",
+                "price": "289.87",
                 "price_link": "https://www.newegg.com/intel-core-i5-14th-gen-core-i5-14600k-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118470"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1479",
+                "price": "1469",
                 "price_link": ""
             }
         ],
@@ -1467,7 +1467,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.98",
+                "price": "239.96",
                 "price_link": "https://www.newegg.com/intel-core-i5-14th-gen-core-i5-14600kf-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118472"
             },
             {
@@ -1498,13 +1498,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "289.99",
+                "price": "369.16",
                 "price_link": "https://www.newegg.com/intel-core-i7-12th-gen-core-i7-12700-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118368"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "2449",
+                "price": "2299",
                 "price_link": ""
             }
         ],
@@ -1529,7 +1529,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "244.99",
+                "price": "244.97",
                 "price_link": "https://www.newegg.com/intel-core-i7-12th-gen-core-i7-12700f-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118359"
             },
             {
@@ -1560,7 +1560,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "239.99",
+                "price": "259.99",
                 "price_link": "https://www.newegg.com/intel-core-i7-12th-gen-core-i7-12700k-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118343"
             },
             {
@@ -1591,7 +1591,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.96",
+                "price": "199.98",
                 "price_link": "https://www.newegg.com/intel-core-i7-12th-gen-core-i7-12700kf-alder-lake-lga-1700-desktop-cpu-processor/p/N82E16819118345"
             },
             {
@@ -1622,13 +1622,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "561.10",
+                "price": "847.77",
                 "price_link": "https://www.newegg.com/intel-core-i7-13th-gen-core-i7-13700-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118427"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "3299",
+                "price": "3266",
                 "price_link": ""
             }
         ],
@@ -1653,7 +1653,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "289.99",
+                "price": "399.99",
                 "price_link": "https://www.newegg.com/intel-core-i7-13th-gen-core-i7-13700f-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118428"
             },
             {
@@ -1684,7 +1684,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "463.66",
+                "price": "423.99",
                 "price_link": "https://www.newegg.com/intel-core-i7-13th-gen-core-i7-13700k-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118414"
             },
             {
@@ -1746,7 +1746,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "539.57",
+                "price": "514.20",
                 "price_link": "https://www.newegg.com/intel-core-i9-13th-gen-core-i9-13900f-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118426"
             },
             {
@@ -1777,7 +1777,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "379.99",
                 "price_link": "https://www.newegg.com/intel-core-i7-14th-gen-core-i7-14700-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118476"
             },
             {
@@ -1808,7 +1808,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "305.47",
+                "price": "302.97",
                 "price_link": "https://www.newegg.com/intel-core-i7-14th-gen-core-i7-14700f-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118487"
             },
             {
@@ -1839,7 +1839,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "357.97",
                 "price_link": "https://www.newegg.com/intel-core-i7-14th-gen-core-i7-14700k-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118466"
             },
             {
@@ -1870,13 +1870,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "314.99",
+                "price": "326.99",
                 "price_link": "https://www.newegg.com/intel-core-i7-14th-gen-core-i7-14700kf-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118468"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "2299",
+                "price": "2349",
                 "price_link": ""
             }
         ],
@@ -1901,7 +1901,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "663.08",
+                "price": "1499.68",
                 "price_link": "https://www.newegg.com/intel-core-i9-13th-gen-core-i9-13900-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118425"
             },
             {
@@ -1932,7 +1932,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "539.31",
+                "price": "507.84",
                 "price_link": "https://www.newegg.com/intel-core-i9-13th-gen-core-i9-13900k-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118412"
             },
             {
@@ -1963,13 +1963,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "547.05",
+                "price": "513.83",
                 "price_link": "https://www.newegg.com/intel-core-i9-13th-gen-core-i9-13900kf-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118413?srsltid=AfmBOorNqTlzT9bwM-nhGzXBKLAK5q2iaEhwhsIsfjhWe9HxdXdIoprA"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "4449",
+                "price": "4499",
                 "price_link": ""
             }
         ],
@@ -2025,7 +2025,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "438.99",
+                "price": "438.97",
                 "price_link": "https://www.newegg.com/intel-core-i9-14th-gen-core-i9-14900k-raptor-lake-lga-1700-desktop-cpu-processor/p/N82E16819118462"
             },
             {
@@ -2062,7 +2062,7 @@
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "3079",
+                "price": "3049",
                 "price_link": ""
             }
         ],
@@ -2087,13 +2087,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "195.00",
+                "price": "168.99",
                 "price_link": "https://www.newegg.com/intel-core-ultra-5-225-arrow-lake-lga-1851-desktop-cpu-processor/p/N82E16819118577?srsltid=AfmBOoqIOssHWEoPXYhtPm0gVCHD9f_7MoLeqkcfX2U9LP9DFJlHr4vs"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1199",
+                "price": "1189",
                 "price_link": ""
             }
         ],
@@ -2118,13 +2118,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
+                "price": "224.99",
                 "price_link": "https://www.newegg.com/intel-core-ultra-5-245k-arrow-lake-lga-1851-desktop-cpu-processor/p/N82E16819118508"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1589",
+                "price": "1489",
                 "price_link": ""
             }
         ],
@@ -2149,13 +2149,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "194.99",
+                "price": "214.99",
                 "price_link": "https://www.newegg.com/intel-core-ultra-5-245kf-arrow-lake-lga-1851-desktop-cpu-processor/p/N82E16819118509"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "1489",
+                "price": "1389",
                 "price_link": ""
             }
         ],
@@ -2211,13 +2211,13 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "309.99",
+                "price": "299.99",
                 "price_link": "https://www.newegg.com/intel-core-ultra-7-265k-arrow-lake-lga-1851-desktop-cpu-processor/p/N82E16819118506"
             },
             {
                 "region": "CN",
                 "platform": "other",
-                "price": "2049",
+                "price": "1999",
                 "price_link": ""
             }
         ],
@@ -2242,7 +2242,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "299.99",
+                "price": "284.99",
                 "price_link": "https://www.newegg.com/intel-core-ultra-7-265kf-arrow-lake-lga-1851-desktop-cpu-processor/p/N82E16819118507"
             }
         ],
@@ -2267,7 +2267,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "579.99",
+                "price": "529.99",
                 "price_link": "https://www.newegg.com/intel-core-ultra-9-285k-arrow-lake-lga-1851-desktop-cpu-processor/p/N82E16819118505"
             },
             {

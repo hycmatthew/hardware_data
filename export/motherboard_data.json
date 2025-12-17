@@ -15,15 +15,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/asrock-a520m-hdv-micro-atx-amd-motherboard-amd-a520-am4/p/N82E16813157958?Item=9SIAFVFJYH2982\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-vMWApNS94y12X46H8SYj.Q\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "76.49",
                 "price_link": "https://amzn.to/4640Fr9"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "133.44",
+                "price_link": "https://www.newegg.com/asrock-a520m-hdv-micro-atx-amd-motherboard-amd-a520-am4/p/N82E16813157958?Item=9SIAFVFJYH2982\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-vMWApNS94y12X46H8SYj.Q\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
         "ram_max": 64,
@@ -238,7 +238,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "230.20",
+                "price": "269.68",
                 "price_link": "https://www.newegg.com/asrock-b550-phantom-gaming-4-atx-amd-motherboard-amd-b550-am4/p/N82E16813157935?Item=9SIAD6HJMG1594\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-L6PFhOhWuM2nyjTeeLQj6g\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -285,7 +285,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "74.99",
                 "price_link": "https://www.newegg.com/asrock-b550-phantom-gaming-4-ac-atx-amd-motherboard-amd-b550-am4/p/N82E16813157936?Item=N82E16813157936\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-ZQxvHj7dUiF3QENzjugt5A\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_medium=affiliate"
             },
             {
@@ -392,7 +392,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/asrock-motherboards-amd/p/2MG-0001-000Z1?Item=9SIASGMK760046\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-kxy0NBwYulVnQNETPgrX9w\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             }
         ],
@@ -442,7 +442,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "218.71",
+                "price": "274.31",
                 "price_link": "https://www.newegg.com/asrock-b550m-phantom-gaming-4-micro-atx-amd-motherboard-amd-b550-am4/p/N82E16813157966?Item=9SIAD6HJMG1609\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-trpnskzGS8llYTb22s7iOQ\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -489,7 +489,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "79.99",
+                "price": "74.99",
                 "price_link": "https://www.newegg.com/asrock-b550m-pro4-micro-atx-amd-motherboard-amd-b550-am4/p/N82E16813157939?Item=N82E16813157939\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-CFzdcOZC44CDPB.tUtPoVg\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908"
             },
             {
@@ -642,7 +642,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "296.44",
+                "price": "297.44",
                 "price_link": "https://www.newegg.com/asrock-b650-pg-lightning-atx-motherboard-amd-b650-am5/p/N82E16813162077?Item=9SIAFVFKA33865\u0026ranSiteID=nwUw4CS3F2g-D7N2JV237W23zupyImgvzg\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             }
         ],
@@ -872,7 +872,7 @@
         "chipset": "B760",
         "form_factor": "Micro-ATX",
         "id": "asrock-b760m-pg-lightning-wifi",
-        "img": "https://c1.neweggimages.com/productimage/nb640/cs.jpg",
+        "img": "https://c1.neweggimages.com/productimage/nb640/13-162-145-04.png",
         "m2_slot": 4,
         "name": "B760M PG Lightning WiFi",
         "name_cn": "",
@@ -927,7 +927,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.99",
+                "price": "189.99",
                 "price_link": "https://www.newegg.com/asrock-b850-live-mixer-wifi-atx-motherboard-amd-b850-am5/p/N82E16813162188?Item=N82E16813162188\u0026ranSiteID=nwUw4CS3F2g-39R38oEHzi0ch8QgKWsyRg\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583"
             }
         ],
@@ -970,7 +970,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "167.99",
                 "price_link": "https://www.newegg.com/asrock-b850-pro-a-atx-motherboard-amd-b850-am5/p/N82E16813162191?Item=N82E16813162191\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-_TIdKnGCqpSgOrlRwWqgfg\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -1152,7 +1152,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.99",
+                "price": "194.99",
                 "price_link": "https://www.newegg.com/asrock-b850-riptide-wifi-atx-motherboard-amd-b850-am5/p/N82E16813162186?Item=N82E16813162186\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-OP13NxjBlJVt7zNOk_UpMA\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -1246,7 +1246,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "169.99",
                 "price_link": "https://www.newegg.com/asrock-b850i-lightning-wifi-mini-itx-motherboard-amd-b850-am5/p/N82E16813162201?Item=N82E16813162201\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-R.gQhhzqFF.squ0QZPdFng\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583"
             },
             {
@@ -1297,7 +1297,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "129.99",
                 "price_link": "https://www.newegg.com/asrock-b850m-pro-a-micro-atx-motherboard-amd-b850-am5/p/N82E16813162197?Item=N82E16813162197\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-18mqb7h535wOcBKgdNEMiA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026ASID=\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             }
         ],
@@ -1341,7 +1341,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "119.99",
+                "price": "139.99",
                 "price_link": "https://www.newegg.com/asrock-b850m-pro-a-wifi-micro-atx-motherboard-amd-b850-am5/p/N82E16813162198?Item=N82E16813162198\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-ZmXumlPsBrM3bBG.9HLFzw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1"
             }
         ],
@@ -1479,7 +1479,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "149.99",
                 "price_link": "https://www.newegg.com/asrock-b850m-riptide-wifi-micro-atx-motherboard-amd-b850-am5/p/N82E16813162193?Item=N82E16813162193\u0026ranSiteID=nwUw4CS3F2g-Vad8eAc2QVu08WVU.BJGrw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -1684,7 +1684,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "129.99",
                 "price_link": "https://www.newegg.com/asrock-b860-livemixer-wifi-atx-motherboard-intel-b860-lga-1851/p/N82E16813162204?Item=N82E16813162204\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-sz8MoU3wF5xqore_AVdqXw\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranMID=44583"
             },
             {
@@ -1891,7 +1891,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "139.99",
                 "price_link": "https://www.newegg.com/asrock-b860-steel-legend-wifi-atx-motherboard-intel-b860-lga-1851/p/N82E16813162203?Item=N82E16813162203\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-ChEjJEoRXpsW9JrvcCCerA\u0026ASID=\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -2063,7 +2063,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/asrock-phantom-gaming-b860m-lightning-wifi-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813162209?Item=N82E16813162209\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-1THbFwqqnugiJLr28FO9Yw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -2147,7 +2147,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "109.99",
+                "price": "139.99",
                 "price_link": "https://www.newegg.com/asrock-b860m-pro-a-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813162214?Item=N82E16813162214\u0026ACRID=1\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-b1LGjM5PWqmr8P03VCyHpg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -2223,7 +2223,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/asrock-b860m-pro-rs-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813162212?Item=N82E16813162212\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-8o030QjjIAB77w.McPKZzA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -2590,15 +2590,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "91.54",
-                "price_link": "https://amzn.to/4mdwOms"
+                "platform": "newegg",
+                "price": "73.26",
+                "price_link": "https://www.newegg.com/asrock-h610m-hdv-m-2-d5-micro-atx-motherboard-intel-h610-lga-1700/p/N82E16813162136?Item=9SIBWH3KAP0942\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-astP9S4Wo01c_BbVRcUkzQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "105.63",
-                "price_link": "https://www.newegg.com/asrock-h610m-hdv-m-2-d5-micro-atx-motherboard-intel-h610-lga-1700/p/N82E16813162136?Item=9SIBWH3KAP0942\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-astP9S4Wo01c_BbVRcUkzQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID="
+                "platform": "amazon",
+                "price": "91.54",
+                "price_link": "https://amzn.to/4mdwOms"
             }
         ],
         "ram_max": 96,
@@ -2792,7 +2792,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "206.99",
+                "price": "205.99",
                 "price_link": "https://www.newegg.com/asrock-x870-pro-rs-atx-motherboard-amd-x870-am5/p/N82E16813162166?Item=N82E16813162166\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-U94xcSCjDhhSPVx8Ksx1UA\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -2883,15 +2883,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/asrock-x870-riptide-wifi-atx-motherboard-amd-x870-am5/p/N82E16813162164?Item=N82E16813162164\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-tXTSEi5edpV5TbnSinEbsQ\u0026ranEAID=3815908\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "237.99",
                 "price_link": "https://amzn.to/47lRFjC"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "279.99",
+                "price_link": "https://www.newegg.com/asrock-x870-riptide-wifi-atx-motherboard-amd-x870-am5/p/N82E16813162164?Item=N82E16813162164\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-tXTSEi5edpV5TbnSinEbsQ\u0026ranEAID=3815908\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
         "ram_max": 256,
@@ -2933,7 +2933,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.99",
+                "price": "199.99",
                 "price_link": "https://www.newegg.com/asrock-x870-steel-legend-wifi-atx-motherboard-amd-x870-am5/p/N82E16813162165?Item=N82E16813162165\u0026ranSiteID=nwUw4CS3F2g-4V2NW4XwYFuRXzAn5AszLw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -2981,7 +2981,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "279.99",
+                "price": "259.99",
                 "price_link": "https://www.newegg.com/asrock-x870e-nova-wifi-atx-motherboard-amd-x870e-am5/p/N82E16813162163?Item=N82E16813162163\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-46LhN56_z4d7yGPR.yUzaw\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
@@ -3078,15 +3078,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "345.99",
-                "price_link": "https://amzn.to/3JNLLy0"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asrock-x870e-taichi-lite-extended-atx-motherboard-amd-x870e-am5/p/N82E16813162162?Item=N82E16813162162\u0026ASID=\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-cp0aK0h58uGXP66mIVh4Rw\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "382.99",
-                "price_link": "https://www.newegg.com/asrock-x870e-taichi-lite-extended-atx-motherboard-amd-x870e-am5/p/N82E16813162162?Item=N82E16813162162\u0026ASID=\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-cp0aK0h58uGXP66mIVh4Rw\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
+                "platform": "amazon",
+                "price": "345.99",
+                "price_link": "https://amzn.to/3JNLLy0"
             }
         ],
         "ram_max": 256,
@@ -3129,7 +3129,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/asrock-z790-livemixer-atx-motherboard-intel-z790-lga-1700/p/N82E16813162098?Item=N82E16813162098\u0026ranSiteID=nwUw4CS3F2g-zO2xtclGdBzZo5qj26qybA\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -3302,7 +3302,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "189.99",
+                "price": "283.82",
                 "price_link": "https://www.newegg.com/asrock-z790-pg-riptide-atx-motherboard-intel-z790-lga-1700/p/N82E16813162086?Item=9SIAD6HKHC4634\u0026ranSiteID=nwUw4CS3F2g-YNsOo7wmGfTzuyprj2zZWw\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             },
             {
@@ -3601,8 +3601,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
-                "price_link": "https://www.newegg.com/asrock-z790m-itx-wifi-mini-itx-motherboard-intel-z790-lga-1700/p/N82E16813162094?Item=N82E16813162094\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-6_pqBv81VhzpWPvjsXv.YA\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asrock-z790m-itx-wifi-mini-itx-motherboard-intel-z790-lga-1700/p/N82E16813162094?Item=9SIAN0MKCM7758\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-DfP186I82A8MXMDsgLo1.w\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             },
             {
                 "region": "US",
@@ -3698,15 +3698,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "237.99",
-                "price_link": "https://amzn.to/45RMh6N"
+                "platform": "newegg",
+                "price": "211.99",
+                "price_link": "https://www.newegg.com/asrock-z890-lightning-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813162173?Item=N82E16813162173\u0026ranSiteID=nwUw4CS3F2g-j8P4toFhLEW5wYq83gtO5w\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "269.99",
-                "price_link": "https://www.newegg.com/asrock-z890-lightning-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813162173?Item=N82E16813162173\u0026ranSiteID=nwUw4CS3F2g-j8P4toFhLEW5wYq83gtO5w\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
+                "platform": "amazon",
+                "price": "237.99",
+                "price_link": "https://amzn.to/45RMh6N"
             }
         ],
         "ram_max": 256,
@@ -3750,15 +3750,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "239.99",
-                "price_link": "https://amzn.to/3HYPA2E"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asrock-z890-livemixer-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813162175?Item=N82E16813162175\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-eoxArCJHs05QWCallVt8uQ\u0026ranMID=44583\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "239.99",
-                "price_link": "https://www.newegg.com/asrock-z890-livemixer-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813162175?Item=N82E16813162175\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-eoxArCJHs05QWCallVt8uQ\u0026ranMID=44583\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate"
+                "price_link": "https://amzn.to/3HYPA2E"
             }
         ],
         "ram_max": 256,
@@ -3856,15 +3856,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "189.99",
-                "price_link": "https://amzn.to/3JyPMGx"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asrock-z890-pro-a-atx-motherboard-intel-z890-lga-1851/p/N82E16813162179?Item=N82E16813162179\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-fehNh2WYHy_fQYEzfzGUeQ\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "189.99",
-                "price_link": "https://www.newegg.com/asrock-z890-pro-a-atx-motherboard-intel-z890-lga-1851/p/N82E16813162179?Item=N82E16813162179\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-fehNh2WYHy_fQYEzfzGUeQ\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
+                "price_link": "https://amzn.to/3JyPMGx"
             }
         ],
         "ram_max": 256,
@@ -3961,8 +3961,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.99",
-                "price_link": "https://www.newegg.com/asrock-z890-pro-rs-atx-motherboard-intel-z890-lga-1851/p/N82E16813162176?Item=N82E16813162176\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-9E6SKaQVTNuxHJQz7z6cTw\u0026ranEAID=3815908\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asrock-z890-pro-rs-atx-motherboard-intel-z890-lga-1851/p/N82E16813162176?Item=9SIA8N2KEM8101\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-CeH_tnHLQPj6SsIGggDe2w\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
@@ -4071,7 +4071,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "224.99",
+                "price": "229.99",
                 "price_link": "https://www.newegg.com/asrock-z890-pro-rs-wifi-white-atx-motherboard-intel-z890-lga-1851/p/N82E16813162178?Item=N82E16813162178\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-SwpMvFkOjNnJKIkG42kkSA\u0026ranMID=44583\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -4117,7 +4117,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "249.99",
+                "price": "179.99",
                 "price_link": "https://www.newegg.com/asrock-z890-riptide-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813162172?Item=N82E16813162172\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-nVcRn790al.kL9k0PD2ADA\u0026AFFNAME=Pangoly\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -4221,7 +4221,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "349.99",
+                "price": "299.99",
                 "price_link": "https://www.newegg.com/asrock-z890-taichi-atx-motherboard-intel-z890-lga-1851/p/N82E16813162169?Item=N82E16813162169\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-.knNfSQxo3D6.0nOF9lwoQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
@@ -4275,7 +4275,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "499.99",
+                "price": "399.99",
                 "price_link": "https://www.newegg.com/asrock-z890-taichi-aqua-extended-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813162183?Item=N82E16813162183\u0026ranSiteID=nwUw4CS3F2g-TDEFNbGiOqJLVswr4vf1vw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -4391,7 +4391,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "399.99",
+                "price": "472.99",
                 "price_link": "https://www.newegg.com/asrock-z890-taichi-ocf-atx-motherboard-intel-z890-lga-1851/p/N82E16813162168?Item=N82E16813162168\u0026ASID=\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-E97pYthjOBWQkJcDH_H79A\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID="
             }
         ],
@@ -4442,7 +4442,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "249.99",
+                "price": "284.99",
                 "price_link": "https://www.newegg.com/asrock-z890i-nova-wifi-mini-itx-motherboard-intel-z890-lga-1851/p/N82E16813162182?Item=N82E16813162182\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-rQLMvu9GtlRbpdhiHpzsOw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026AFFID=3815908"
             },
             {
@@ -4493,15 +4493,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "189.99",
-                "price_link": "https://www.newegg.com/asrock-z890m-riptide-wifi-micro-atx-motherboard-intel-z890-lga-1851/p/N82E16813162181?Item=N82E16813162181\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-EcKZVF._9zARezfT1HhuHQ\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "215.99",
                 "price_link": "https://amzn.to/4lQIHOE"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "251.99",
+                "price_link": "https://www.newegg.com/asrock-z890m-riptide-wifi-micro-atx-motherboard-intel-z890-lga-1851/p/N82E16813162181?Item=N82E16813162181\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-EcKZVF._9zARezfT1HhuHQ\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "ram_max": 256,
@@ -4546,7 +4546,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "217.14",
+                "price": "185.46",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-01769?srsltid=AfmBOopAYCv7a-JPbIQrSpXRdlLVDTTEnvGNFDw1bJQpJ2un6EYhNuOc"
             }
         ],
@@ -4623,7 +4623,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "291.56",
+                "price": "414.66",
                 "price_link": "https://www.newegg.com/asus-prime-a620-plus-wifi-atx-motherboard-amd-a620-am5/p/N82E16813119653?Item=9SIAD6HK599781\u0026ranSiteID=nwUw4CS3F2g-0i8Uc3UYTk3alHC04D72TQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ACRID=1\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly"
             }
         ],
@@ -4837,7 +4837,7 @@
         "chipset": "B650",
         "form_factor": "Micro-ATX",
         "id": "asus-prime-b650m-k",
-        "img": "https://c1.neweggimages.com/productimage/nb640/BP4YS25061907J6LX14.jpg",
+        "img": "https://c1.neweggimages.com/productimage/nb640/AGBAS2404170MWD2RB6.jpg",
         "m2_slot": 2,
         "name": "Prime B650M-K",
         "name_cn": "",
@@ -4888,7 +4888,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "158.31",
+                "price": "157.51",
                 "price_link": "https://www.newegg.com/asus-prime-b660-plus-d4-atx-intel-motherboard-intel-b660-lga-1700-designed-with-dual-mounting-holes-compatible-with-both-intel-lga1700-and-lga1200-cooling-brackets/p/N82E16813119543?Item=9SIBTK0KAU9726\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-qr7dK9XVqFY03X7tlbpDtQ\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583"
             },
             {
@@ -4986,7 +4986,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "273.03",
+                "price": "160.55",
                 "price_link": "https://www.newegg.com/asus-prime-b660m-a-d4-micro-atx-intel-motherboard-intel-b660-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813119541?Item=9SIBWH3KA83116\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-8JkJN0mXzmZNqlwCWR35sA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -5084,7 +5084,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "204.22",
+                "price": "172.56",
                 "price_link": "https://www.newegg.com/asus-prime-b760-plus-atx-motherboards-intel-intel-b760-lga-1700/p/N82E16813119648?srsltid=AfmBOopui98RleoLjE4GLhb9j5Ey6KUK6F0FwHQLBAJm-WY7R_J6Y_SM"
             }
         ],
@@ -5127,7 +5127,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "226.95",
+                "price": "292.08",
                 "price_link": "https://www.newegg.com/asus-prime-b760m-a-matx-form-factor-motherboards-intel-intel-b760-lga-1700/p/N82E16813119649?srsltid=AfmBOopfkIiggWt6hLVW-GD4xVuf3lagIYg5IZK4GC3nPCeFPuMbqlzS"
             }
         ],
@@ -5169,15 +5169,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "134.43",
-                "price_link": "https://amzn.to/46qnsPm"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asus-prime-b760m-a-ax-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813119640?Item=N82E16813119640\u0026ranSiteID=nwUw4CS3F2g-AAob8_jNO0yJ.andpNU3kA\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "135.99",
-                "price_link": "https://www.newegg.com/asus-prime-b760m-a-ax-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813119640?Item=N82E16813119640\u0026ranSiteID=nwUw4CS3F2g-AAob8_jNO0yJ.andpNU3kA\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
+                "platform": "amazon",
+                "price": "134.43",
+                "price_link": "https://amzn.to/46qnsPm"
             }
         ],
         "ram_max": 128,
@@ -5219,7 +5219,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "244.03",
+                "price": "208.77",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-01794?srsltid=AfmBOornsqKIV7R97aWy7z3Te_TglzTYtqnT7Qnhi16sCMNyLoxhTLK0"
             }
         ],
@@ -5269,7 +5269,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "135.56",
+                "price": "176.68",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-01705?srsltid=AfmBOorUe6wxEcepNMmSTj3K19S7JHCoOvHExR6E1JuD1erwalmW6K7f"
             }
         ],
@@ -5325,7 +5325,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "204.99",
+                "price": "169.99",
                 "price_link": "https://www.newegg.com/asus-prime-b840-plus-wifi-atx-motherboard-amd-b840-am5/p/N82E16813119707?Item=N82E16813119707\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-41OpsOg9sPztLYG87g1BUQ\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly"
             }
         ],
@@ -5426,15 +5426,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "169.99",
-                "price_link": "https://amzn.to/4mMI227"
+                "platform": "newegg",
+                "price": "149.99",
+                "price_link": "https://www.newegg.com/asus-prime-b860m-a-wifi-csm-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813119714?Item=N82E16813119714\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-jC8xoaA_Y7e42GZhCMzyzw\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "169.99",
-                "price_link": "https://www.newegg.com/asus-prime-b860m-a-wifi-csm-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813119714?Item=N82E16813119714\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-jC8xoaA_Y7e42GZhCMzyzw\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
+                "price_link": "https://amzn.to/4mMI227"
             }
         ],
         "ram_max": 256,
@@ -5508,7 +5508,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "110.99",
+                "price": "111.99",
                 "price_link": "https://www.newegg.com/asus-prime-h610m-a-d4-csm-micro-atx-intel-motherboard-intel-h610-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813119544?srsltid=AfmBOoo_knwxqyvMzolC4oISpRBwAAWgoIjf1_YcGpPEMnTxw6oA-Ivw"
             }
         ],
@@ -5545,7 +5545,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "129.83",
+                "price": "127.48",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-017J5?srsltid=AfmBOoo784TB0RsL629WQqWXfX8h2uD4XEAAMkJvt3s-hK2YOmdqnJDM"
             }
         ],
@@ -5662,7 +5662,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "318.14",
+                "price": "263.27",
                 "price_link": "https://www.newegg.com/asus-prime-h770-plus-d4-atx-motherboard-intel-h770-lga-1700/p/N82E16813119629?Item=9SIBWH3KCK6061\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-QkcHL9TvOl7IZrOczeUEXQ\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -5769,7 +5769,7 @@
         "chipset": "X870",
         "form_factor": "ATX",
         "id": "asus-prime-x870-p",
-        "img": "https://c1.neweggimages.com/productimage/nb640/BP4YS25062803YLRN73.jpg",
+        "img": "https://c1.neweggimages.com/productimage/nb640/BP4ZS2508060FYEI800.jpg",
         "m2_slot": 4,
         "name": "Prime X870-P",
         "name_cn": "",
@@ -5781,8 +5781,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/asus-motherboards-amd-am5/p/2MG-000B-007N3?Item=9SIBP4YKGG8506\u0026utm_medium=affiliate\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-YbwYYMuWzFKvfqwhlh8pdA\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
+                "price": "273.00",
+                "price_link": "https://www.newegg.com/asus-rog-strix-x870-a-gaming-wifi-90mb1if0-m0aay0-atx-motherboards-amd-amd-x870-am5/p/2MG-000B-007U1?Item=9SIBP4YKGG8506\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-YbwYYMuWzFKvfqwhlh8pdA\u0026ASUBID=\u0026utm_medium=affiliate\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "ram_max": 192,
@@ -5851,7 +5851,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "407.69",
+                "price": "263.36",
                 "price_link": "https://www.newegg.com/asus-prime-z690-a-atx-intel-motherboard-intel-z690-lga-1700/p/N82E16813119507?Item=9SIBWH3KA86652\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-VBG2cJV.AKFaExo.DfLgrw\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -5936,7 +5936,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "245.24",
+                "price": "263.68",
                 "price_link": "https://www.newegg.com/asus-prime-z790-p-wifi-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119603?srsltid=AfmBOooW60gQgFlUxyPy-uPX7oU5QIto3bfUxGtar4v4FrIvtYxif0En"
             }
         ],
@@ -5978,15 +5978,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "245.24",
-                "price_link": "https://www.newegg.com/asus-prime-z790-p-wifi-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119603?srsltid=AfmBOopBuDwyZTRwpdIjJTUqalpb_h_KQlTt3BNOSbQcj5IgSrQji3j-"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "259.99",
                 "price_link": "https://amzn.to/3JVsH0F"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "263.68",
+                "price_link": "https://www.newegg.com/asus-prime-z790-p-wifi-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119603?srsltid=AfmBOopBuDwyZTRwpdIjJTUqalpb_h_KQlTt3BNOSbQcj5IgSrQji3j-"
             }
         ],
         "ram_max": 192,
@@ -6028,7 +6028,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "277.51",
+                "price": "334.92",
                 "price_link": "https://www.newegg.com/asus-prime-z790-p-wifi-d4-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119605?Item=9SIBTK0KAA9352\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-e7utHmLMZH4vijW0pH5yTw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -6083,7 +6083,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "247.77",
+                "price": "207.68",
                 "price_link": "https://www.newegg.com/asus-prime-z790m-plus-micro-atx-motherboard-intel-z790-lga-1700/p/N82E16813119636?Item=9SIBWH3KAR8253\u0026ranSiteID=nwUw4CS3F2g-ZmPOSrkcB7GxcY.e0zBnMA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             },
             {
@@ -6178,7 +6178,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "238.99",
+                "price": "235.99",
                 "price_link": "https://www.newegg.com/asus-prime-z890-p-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813119696?Item=N82E16813119696\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-qTFTuofUeQLSEH8.pyvRGA\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             },
             {
@@ -6228,7 +6228,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
+                "price": "189.99",
                 "price_link": "https://www.newegg.com/asus-prime-z890m-plus-wifi-micro-atx-motherboard-intel-z890-lga-1851/p/N82E16813119698?Item=N82E16813119698\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-uhtKb0Q_90eO6a144yvYDA\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908"
             },
             {
@@ -6285,7 +6285,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "366.75",
+                "price": "412.39",
                 "price_link": "https://www.newegg.com/asus-pro-b650m-ct-csm-micro-atx-motherboard-amd-b650-am5/p/N82E16813119650?Item=9SIAD6HJXE1756\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-1uY.sgclPBOYBepf.XUF5g\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
@@ -6324,8 +6324,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
-                "price_link": "https://www.newegg.com/asus-pro-q670m-c-csm-micro-atx-intel-motherboard-intel-q670-lga-1700/p/N82E16813119566?Item=N82E16813119566\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-Hqbwn03IGQM4iyY7VTdlhA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/asus-pro-q670m-c-csm-micro-atx-intel-motherboard-intel-q670-lga-1700/p/N82E16813119566?Item=9SIA6ZPKA96493\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-dpAfOVH13wa3b6ciOMAGqA\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID="
             },
             {
                 "region": "US",
@@ -6486,7 +6486,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "527.85",
+                "price": "469.82",
                 "price_link": "https://www.newegg.com/asus-proart-b760-creator-wifi-atx-motherboard-intel-b760-lga-1700/p/N82E16813119652?Item=9SIBTK0KD67980\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-uSLNeyB6ldlgneU76Q30Pw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -6517,7 +6517,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "506.99",
+                "price": "498.99",
                 "price_link": "https://www.newegg.com/asus-proart-x870e-creator-wifi-atx-motherboard-amd-x870-am5/p/N82E16813119688?Item=N82E16813119688\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-lc7BOyOUW7M_yLSyA57WdQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -6562,7 +6562,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "489.99",
+                "price": "471.99",
                 "price_link": "https://www.newegg.com/asus-proart-z890-creator-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813119699?Item=N82E16813119699\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-Vu8SJUYi1jKb7iaLf0bghQ\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -6617,7 +6617,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1147.92",
+                "price": "1599.00",
                 "price_link": "https://www.newegg.com/asus-rog-crosshair-x670e-extreme-enhanced-extended-atx-amd-motherboard-amd-x670e-am5/p/N82E16813119591?Item=9SIBTK0KD67958\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Y1iHo4NTJju2LEuqNiDKww\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID="
             }
         ],
@@ -6701,7 +6701,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1150.30",
+                "price": "1062.95",
                 "price_link": "https://www.newegg.com/p/1HD-0015-00GZ0?Item=9SIBTK0KD67961\u0026ranSiteID=nwUw4CS3F2g-08hqz9_4xtmJ.b6DTGdjzA\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583"
             }
         ],
@@ -6741,7 +6741,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "648.99",
+                "price": "669.99",
                 "price_link": "https://www.newegg.com/asus-rog-crosshair-x870e-hero-atx-motherboard-amd-x870e-am5/p/N82E16813119681?Item=N82E16813119681\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-Mcp8HwAXCt1pRmfOAu.2aA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -6796,7 +6796,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "559.10",
+                "price": "536.37",
                 "price_link": "https://www.newegg.com/asus-rog-maximus-z690-hero-atx-intel-motherboard-intel-z690-lga-1700-designed-with-dual-mounting-holes-compatible-with-both-intel-lga1700-and-lga1200-cooling-brackets/p/N82E16813119504?Item=9SIBTK0KAK6833\u0026ranSiteID=nwUw4CS3F2g-WQf.mBnorNdV8aW_l_SyTA\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASID="
             },
             {
@@ -6840,7 +6840,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1611.09",
+                "price": "2087.16",
                 "price_link": "https://www.newegg.com/asus-rog-maximus-z690-hero-eva-atx-intel-motherboard-intel-z690-lga-1700/p/N82E16813119576?Item=9SIAD6HJUR3319\u0026ranSiteID=nwUw4CS3F2g-wUmr6ZXXEdgiwBbMHXRqSQ\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranMID=44583"
             }
         ],
@@ -6925,7 +6925,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "899.00",
+                "price": "753.46",
                 "price_link": "https://www.newegg.com/asus-rog-maximus-z790-dark-hero-atx-motherboard-intel-z790-lga-1700/p/N82E16813119660?srsltid=AfmBOorxlWSAA1MeD4dQxt8gzcnzUY2L1Ao2PK6kVLKW7lji-El0mwHM"
             },
             {
@@ -6977,7 +6977,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1131.03",
+                "price": "1114.18",
                 "price_link": "https://www.newegg.com/asus-rog-maximus-z790-extreme-extended-atx-motherboard-intel-z790-lga-1700/p/N82E16813119608?Item=9SIBWH3K9T8934\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-a2g23WAv_DTiyxlkj1tSbQ\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID="
             }
         ],
@@ -7118,7 +7118,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1179.66",
+                "price": "1473.81",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-017V2?Item=9SIBTK0KD67975\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-T4sAyRKhj7Lai9PgkqwJew\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -7165,7 +7165,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "2283.51",
+                "price": "2166.86",
                 "price_link": "https://www.newegg.com/asus-rog-maximus-z790-hero-eva-02-edition-atx-motherboard-intel-z790-lga-1700/p/N82E16813119657?Item=9SIBWH3KAR7276\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-MSwFkd2ShwEPlOF.XqLiWA\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly"
             }
         ],
@@ -7211,7 +7211,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "518.49",
+                "price": "489.99",
                 "price_link": "https://www.newegg.com/asus-rog-maximus-z890-apex-atx-motherboard-intel-z890-lga-1851/p/N82E16813119690?Item=N82E16813119690\u0026ranSiteID=nwUw4CS3F2g-yJhN4GC3yR.5TgXt1wuTNA\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             },
             {
@@ -7268,7 +7268,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/asus-maximus-z890-extreme-extended-atx-motherboard-intel-z890-lga-1851/p/N82E16813119689?Item=N82E16813119689\u0026ranSiteID=nwUw4CS3F2g-RUlchdi0CIykQ4FOw_G42A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFID=3815908\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "price_link": "https://www.newegg.com/asus-maximus-z890-extreme-extended-atx-motherboard-intel-z890-lga-1851/p/N82E16813119689?Item=9SIA24GKDV2986\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-geD2C_WyWEFkrKiDs3HrqA\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583"
             },
             {
                 "region": "US",
@@ -7379,7 +7379,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "699.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/asus-rog-maximus-z890-hero-btf-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813119730?Item=N82E16813119730\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-OTsKLJm38O3TmqB.mm5oEQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -7493,7 +7493,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "385.64",
+                "price": "310.90",
                 "price_link": "https://www.newegg.com/asus-rog-strix-b660-a-gaming-wifi-d4-atx-intel-motherboard-intel-b660-lga-1700-designed-with-dual-mounting-holes-compatible-with-both-intel-lga1700-and-lga1200-cooling-brackets/p/N82E16813119538?Item=9SIBTK0KAU9658\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-p6HVas82FcorjGRz2SoLRg\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -7646,7 +7646,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
+                "price": "289.99",
                 "price_link": "https://www.newegg.com/asus-rog-strix-b850-a-gaming-wifi-atx-motherboard-amd-b850-am5/p/N82E16813119703?Item=N82E16813119703\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-cuqkGmYaA7u8j9B8F6c.VA\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ASID=\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -7694,7 +7694,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "522.99",
+                "price": "523.99",
                 "price_link": "https://www.newegg.com/asus-90mb1j60-m0eay0-motherboards-amd/p/2MG-000B-00783?Item=9SIBDRXKGM9901\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-n8.2dqM9.EpVyc6vSwstug\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026AFFNAME=Pangoly"
             }
         ],
@@ -7725,15 +7725,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "254.99",
-                "price_link": "https://www.newegg.com/asus-rog-strix-b850-f-gaming-wifi-atx-motherboard-amd-b850-am5/p/N82E16813119702?Item=N82E16813119702\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-qbs_6i0F2_0GwZny.utg7Q\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "281.99",
                 "price_link": "https://amzn.to/3I8Wfr6"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "299.99",
+                "price_link": "https://www.newegg.com/asus-rog-strix-b850-f-gaming-wifi-atx-motherboard-amd-b850-am5/p/N82E16813119702?Item=N82E16813119702\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-qbs_6i0F2_0GwZny.utg7Q\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
         "ram_max": 192,
@@ -7763,15 +7763,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "269.99",
-                "price_link": "https://www.newegg.com/asus-rog-strix-b850-i-gaming-wifi-mini-itx-motherboard-amd-b850-am5/p/N82E16813119704?Item=N82E16813119704\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-1jGVufBrXMoy0FKllmzz_g\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "299.99",
                 "price_link": "https://amzn.to/42fxWP5"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "349.99",
+                "price_link": "https://www.newegg.com/asus-rog-strix-b850-i-gaming-wifi-mini-itx-motherboard-amd-b850-am5/p/N82E16813119704?Item=N82E16813119704\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-1jGVufBrXMoy0FKllmzz_g\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
         "ram_max": 96,
@@ -7839,15 +7839,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "350.00",
-                "price_link": "https://amzn.to/4niRn1F"
+                "platform": "newegg",
+                "price": "337.23",
+                "price_link": "https://www.newegg.com/asus-rog-strix-x570-e-gaming-wifi-ii-atx-amd-motherboard-amd-x570-am4/p/N82E16813119499?Item=9SIBWH3K9T5050\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-u2rcCFvfXlwGB8s55WQx3Q\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "399.00",
-                "price_link": "https://www.newegg.com/asus-rog-strix-x570-e-gaming-wifi-ii-atx-amd-motherboard-amd-x570-am4/p/N82E16813119499?Item=9SIBWH3K9T5050\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-u2rcCFvfXlwGB8s55WQx3Q\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
+                "platform": "amazon",
+                "price": "350.00",
+                "price_link": "https://amzn.to/4niRn1F"
             }
         ],
         "ram_max": 128,
@@ -7939,15 +7939,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "269.99",
-                "price_link": "https://www.newegg.com/asus-rog-strix-x870-a-gaming-wifi-atx-motherboard-amd-x870-am5/p/N82E16813119684?Item=N82E16813119684\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-n3JQnlQ97yP5niRPlLp.Ag\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID="
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "299.99",
                 "price_link": "https://amzn.to/4nho3sk"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "329.99",
+                "price_link": "https://www.newegg.com/asus-rog-strix-x870-a-gaming-wifi-atx-motherboard-amd-x870-am5/p/N82E16813119684?Item=N82E16813119684\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-n3JQnlQ97yP5niRPlLp.Ag\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID="
             }
         ],
         "ram_max": 192,
@@ -8148,7 +8148,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "451.15",
+                "price": "559.86",
                 "price_link": "https://www.newegg.com/asus-rog-strix-z690-f-gaming-wifi-atx-intel-motherboard-intel-z690-lga-1700-designed-with-dual-mounting-holes-compatible-with-both-intel-lga1700-and-lga1200-cooling-brackets/p/N82E16813119529?Item=9SIBWH3KA17987\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-Rorw_wjeR7VYXy5OuHZaEg\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID="
             }
         ],
@@ -8186,7 +8186,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "703.99",
+                "price": "441.69",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-01798?Item=9SIBTK0KB57959\u0026ranSiteID=nwUw4CS3F2g-MSw4SZsqObGKZ6rdy4ULMA\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -8232,7 +8232,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "339.56",
+                "price": "301.29",
                 "price_link": "https://www.newegg.com/asus-rog-strix-z790-a-gaming-wifi-d4-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119600?srsltid=AfmBOoqV9TFt6QyIqtSjEuMxVZUIzgDr4sqV4wPJisjetzkm8-Mv3XBd"
             },
             {
@@ -8432,7 +8432,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "630.00",
+                "price": "575.95",
                 "price_link": "https://www.newegg.com/asus-rog-strix-z790-e-gaming-wifi-ii-atx-motherboard-intel-z790-lga-1700/p/N82E16813119661?Item=9SIBTK0KD67967\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-meXI43RxlhKQh1SP_CaGgw\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly"
             },
             {
@@ -8575,7 +8575,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "599.00",
+                "price": "584.99",
                 "price_link": "https://www.newegg.com/asus-rog-strix-z790-i-gaming-wifi-mini-itx-motherboard-intel-z790-lga-1700/p/N82E16813119609?Item=9SIBWH3KAR8251\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-40XURbW526lwT8lv7I9tog\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -8717,7 +8717,7 @@
         "chipset": "Z890",
         "form_factor": "ATX",
         "id": "asus-rog-strix-z890-f-gaming-wifi",
-        "img": "https://c1.neweggimages.com/productimage/nb1280/BP4YS2507020K9N6A12.jpg",
+        "img": "https://c1.neweggimages.com/productimage/nb640/BP4YS2507020K9N6A12.jpg",
         "m2_slot": 5,
         "name": "ROG Strix Z890-F Gaming WIFI",
         "name_cn": "",
@@ -8729,7 +8729,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "699.99",
+                "price": "559.00",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel-lga-1851/p/1JW-000C-01AN9?Item=9SIBP4YKGR4841\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-DpsDCeWgC_3kquyIixBWnw\u0026AFFID=3815908\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -8777,15 +8777,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "279.99",
-                "price_link": "https://www.newegg.com/asus-rog-strix-z890-h-gaming-wifi-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813119728?Item=N82E16813119728\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-NSphMkhkIIQCgq57vQCRhg\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "296.00",
                 "price_link": "https://amzn.to/4gbHYqk"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "329.99",
+                "price_link": "https://www.newegg.com/asus-rog-strix-z890-h-gaming-wifi-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813119728?Item=N82E16813119728\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-NSphMkhkIIQCgq57vQCRhg\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026AFFID=3815908"
             }
         ],
         "ram_max": 256,
@@ -8883,7 +8883,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "129.99",
+                "price": "149.99",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-b550-plus-wifi-ii-atx-amd-motherboard-amd-b550-am4/p/N82E16813119518?Item=N82E16813119518\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-3p6OZ5V.hEe8fttTMZ9XnA\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -8941,7 +8941,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "133.19",
+                "price": "133.98",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-b550m-plus-wifi-ii-micro-atx-amd-motherboard-amd-b550-am4/p/N82E16813119569?Item=9SIBWH3KA12943\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-JpeAr7mPYet7LJyxneWzfA\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1"
             },
             {
@@ -9038,7 +9038,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "305.32",
+                "price": "260.54",
                 "price_link": "https://www.newegg.com/p/1HD-0015-00G68?Item=9SIBTK0KAU9681\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-Bi7cji2J5hSHQltoGYG_1A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -9087,7 +9087,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "223.03",
+                "price": "160.92",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-b660m-plus-wifi-d4-micro-atx-intel-motherboard-intel-b660-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813119540?srsltid=AfmBOorqMM2w6v-Aa8i5vYd-YMfE3M2BMsDIPkyCFtPhVvFc10ZRb5Ac"
             }
         ],
@@ -9138,7 +9138,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "223.03",
+                "price": "160.92",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-b660m-plus-wifi-d4-micro-atx-intel-motherboard-intel-b660-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813119540?srsltid=AfmBOordrl3BpEm4ymennPQkOCWW8WlLZrqMiOg-2tu4La4hUsDqI82U"
             },
             {
@@ -9239,7 +9239,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "336.82",
+                "price": "227.53",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-b760m-plus-wifi-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813119643?Item=9SIBWH3K9Z5163\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-8fpn6A08JaK9nxgeH7B4ww\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -9281,15 +9281,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "249.99",
-                "price_link": "https://amzn.to/3HZOYtO"
+                "platform": "newegg",
+                "price": "224.88",
+                "price_link": "https://www.newegg.com/asus-90mb1dg0-m0eay0-motherboards-amd/p/2MG-000B-00654?Item=9SIBWH3KA83477\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-3paO0SfM_zjH4jjPTmsxzg\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "274.03",
-                "price_link": "https://www.newegg.com/asus-90mb1dg0-m0eay0-motherboards-amd/p/2MG-000B-00654?Item=9SIBWH3KA83477\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranSiteID=nwUw4CS3F2g-3paO0SfM_zjH4jjPTmsxzg\u0026ranEAID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "249.99",
+                "price_link": "https://amzn.to/3HZOYtO"
             }
         ],
         "ram_max": 128,
@@ -9336,15 +9336,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "257.07",
-                "price_link": "https://www.newegg.com/asus-tuf-gaming-b760m-plus-wifi-ii-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813119670?srsltid=AfmBOordLeCMFU06ChuZpmZ9df0KZDkNi9h5rLPfB5fN_74hREAK8qcP"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "270.89",
                 "price_link": "https://amzn.to/4nbojZM"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "275.25",
+                "price_link": "https://www.newegg.com/asus-tuf-gaming-b760m-plus-wifi-ii-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813119670?srsltid=AfmBOordLeCMFU06ChuZpmZ9df0KZDkNi9h5rLPfB5fN_74hREAK8qcP"
             }
         ],
         "ram_max": 192,
@@ -9385,15 +9385,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "219.99",
-                "price_link": "https://www.newegg.com/asus-tuf-gaming-b850-plus-wifi-atx-motherboard-amd-b850-am5/p/N82E16813119705?Item=N82E16813119705\u0026ranSiteID=nwUw4CS3F2g-16e5_F9.3fwDJDRKZIxLBw\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "219.99",
                 "price_link": "https://amzn.to/3VBHbp2"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "236.99",
+                "price_link": "https://www.newegg.com/asus-tuf-gaming-b850-plus-wifi-atx-motherboard-amd-b850-am5/p/N82E16813119705?Item=N82E16813119705\u0026ranSiteID=nwUw4CS3F2g-16e5_F9.3fwDJDRKZIxLBw\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             }
         ],
         "ram_max": 192,
@@ -9531,7 +9531,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "184.99",
+                "price": "179.99",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-b860-plus-wifi-atx-motherboard-intel-b860-lga-1851/p/N82E16813119711?Item=N82E16813119711\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-Ooa6Mu656FsJuH2p1cUbeA\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID="
             },
             {
@@ -9694,7 +9694,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.03",
+                "price": "322.93",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-z690-plus-wifi-atx-intel-motherboard-intel-z690-lga-1700-designed-with-dual-mounting-holes-compatible-with-both-intel-lga1700-and-lga1200-cooling-brackets/p/N82E16813119554?Item=9SIBWH3KA86659\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-4RRdXTKxmv6iFJel_UUsAQ\u0026ASID=\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -9731,7 +9731,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "333.61",
+                "price": "168.16",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel-lga-1700/p/1JW-000C-016X5?Item=9SIBWH3KA54647\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026ranMID=44583\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-hDKFj0ei24cTdHbdtLH4pg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -9831,15 +9831,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
+                "platform": "newegg",
                 "price": "219.99",
-                "price_link": "https://amzn.to/3VB4hvX"
+                "price_link": "https://www.newegg.com/asus-tuf-gaming-z790-plus-wifi-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119618?Item=N82E16813119618\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-wo_JU7w6qinAL.2XswlD4A\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "243.99",
-                "price_link": "https://www.newegg.com/asus-tuf-gaming-z790-plus-wifi-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119618?Item=N82E16813119618\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-wo_JU7w6qinAL.2XswlD4A\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASID="
+                "platform": "amazon",
+                "price": "219.99",
+                "price_link": "https://amzn.to/3VB4hvX"
             }
         ],
         "ram_max": 192,
@@ -9881,7 +9881,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "316.03",
+                "price": "325.50",
                 "price_link": "https://www.newegg.com/asus-tuf-gaming-z790-plus-wifi-d4-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813119602?Item=9SIBTK0KD67951\u0026ranSiteID=nwUw4CS3F2g-QXBgJB_yCnO9a39Luzwbwg\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ACRID=1\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583"
             },
             {
@@ -9942,7 +9942,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "546.67",
+                "price": "398.30",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-017M0?Item=9SIBTK0KD67968\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-GvWlnqNcFMml...P247L3Q\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -10049,7 +10049,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "439.00",
+                "price": "468.45",
                 "price_link": "https://www.newegg.com/asus-motherboards-intel/p/1JW-000C-019X6?Item=9SIBP4YKFP1465\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-GzBiJcpWqmKDVphjgNUqZg\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -10098,7 +10098,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.00",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/asus-z890-ayw-gaming-wifi-w-atx-motherboard-intel-z890-lga-1851/p/N82E16813119697?Item=9SIC0X3KG23973\u0026ranSiteID=nwUw4CS3F2g-Dhb01hOv_frSzLGEAqyuwg\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             }
         ],
@@ -10151,7 +10151,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "148.99",
                 "price_link": "https://www.newegg.com/gigabyte-a620i-ax-mini-itx-motherboard-amd-a620-am5/p/N82E16813145470?Item=N82E16813145470\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-G3X8TfYz1hsyjlmJYam5lQ\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026AFFNAME=Pangoly"
             }
         ],
@@ -10270,7 +10270,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.99",
+                "price": "159.99",
                 "price_link": "https://www.newegg.com/gigabyte-b650-aorus-elite-ax-atx-motherboards-amd-amd-b650-am5/p/N82E16813145412?Item=N82E16813145412\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-wOM.KfpxKnPJJeCiIG92zw\u0026AFFID=3815908\u0026ACRID=1\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             },
             {
@@ -10370,7 +10370,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "214.00",
+                "price": "209.00",
                 "price_link": "https://www.newegg.com/gigabyte-b650-gaming-x-ax-v2-atx-motherboard-amd-b650-am5/p/N82E16813145492?Item=9SIBYT0KEM6877\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-ygx9EkXkB4t3qC7MpUwJhw\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -10461,7 +10461,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "159.99",
+                "price": "189.99",
                 "price_link": "https://www.newegg.com/gigabyte-b650e-a-elite-x-ice-atx-motherboards-amd-b650-am5/p/N82E16813145500?Item=N82E16813145500\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ASUBID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-zVTXlMEsvDQCLX0AJy3dFQ\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             },
             {
@@ -10550,7 +10550,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "535.23",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/gigabyte-b650m-c-v2-micro-atx-motherboard-amd-b650-am5/p/N82E16813145474?Item=9SIAD6HKHA6809\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-i5z.X3BoWk9cVbJzj1W5fQ\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1"
             }
         ],
@@ -10586,15 +10586,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "159.99",
-                "price_link": "https://amzn.to/4gc20ky"
+                "platform": "newegg",
+                "price": "119.99",
+                "price_link": "https://www.newegg.com/gigabyte-b650m-d3hp-micro-atx-motherboard-amd-b650-am5/p/N82E16813145473?Item=9SIBWH3KAM0957\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-PSmn2gLy8jrVojihCYSo6Q\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "172.99",
-                "price_link": "https://www.newegg.com/gigabyte-b650m-d3hp-micro-atx-motherboard-amd-b650-am5/p/N82E16813145473?Item=9SIBWH3KAM0957\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-PSmn2gLy8jrVojihCYSo6Q\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
+                "platform": "amazon",
+                "price": "159.99",
+                "price_link": "https://amzn.to/4gc20ky"
             }
         ],
         "ram_max": 192,
@@ -10634,7 +10634,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "194.62",
+                "price": "169.26",
                 "price_link": "https://www.newegg.com/gigabyte-b650m-ds3h-micro-atx-motherboards-amd-amd-b650-am5/p/N82E16813145414?Item=9SIBWH3KAM0970\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-8kt9GRlAhThyIgpYd7sk6A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1"
             },
             {
@@ -10718,7 +10718,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "194.62",
+                "price": "169.26",
                 "price_link": "https://www.newegg.com/gigabyte-b650m-ds3h-micro-atx-motherboards-amd-amd-b650-am5/p/N82E16813145414?srsltid=AfmBOooxFm4yrZ26sSpOkhandj-E9mlcPWHPO3gj6orEYd607aiJfpQa"
             }
         ],
@@ -10755,7 +10755,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.25",
+                "price": "173.00",
                 "price_link": "https://www.newegg.com/asus-90mb1f60-m0eay0-motherboards-amd/p/2MG-000B-006B8?Item=9SIBWH3K9Z5703\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ACRID=1\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-cwJpvV0IdR62G4EZBHbqEA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -10913,7 +10913,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "232.71",
+                "price": "222.32",
                 "price_link": "https://www.newegg.com/gigabyte-b660m-aorus-pro-ax-ddr4-micro-atx-intel-motherboard-intel-b660-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813145374?Item=9SIBMM4KC24777\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-V6kBN5hRfmyVylsBleD1jA\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1"
             }
         ],
@@ -10971,7 +10971,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "144.12",
+                "price": "128.56",
                 "price_link": "https://www.newegg.com/gigabyte-motherboards-intel/p/1JW-000J-007Z3?srsltid=AfmBOooJp96ba0Q3MT7AM9N5TEOX6OWRqdRzzwMnmyZ-LO5hUB1o89dv"
             }
         ],
@@ -11087,7 +11087,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "311.05",
+                "price": "179.04",
                 "price_link": "https://www.newegg.com/gigabyte-b660m-ds3h-ddr4-micro-atx-intel-motherboard-intel-b660-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813145375?Item=9SIBWH3KAX9199\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-QgOKvZqRhJU2gmM7fnMpYQ\u0026utm_medium=affiliate\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ASID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -11145,8 +11145,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "209.99",
-                "price_link": "https://www.newegg.com/gigabyte-b760i-aorus-pro-ddr4-mini-itx-motherboard-intel-b760-lga-1700/p/N82E16813145427?srsltid=AfmBOooCXQ4XGFu1Yv15FP9VPnBCj-7AL1yqsBpesNj6n59jdGz1f6up"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/gigabyte-b760-gaming-x-motherboards-amd/p/2MG-000K-002G2?Item=9SIAD7HK9K9868\u0026ranSiteID=nwUw4CS3F2g-c96hJfueNUqP4MZJaoS2GQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
         "ram_max": 192,
@@ -11387,7 +11387,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "135.58",
+                "price": "137.78",
                 "price_link": "https://www.newegg.com/gigabyte-motherboards-intel/p/1JW-000J-007F4?srsltid=AfmBOopT4Ba9Tgqy3hZK8dq2o6ylJHhxLbevb01Pr2j8Bm0RirP3qmED"
             }
         ],
@@ -11566,7 +11566,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.00",
+                "price": "211.99",
                 "price_link": "https://www.newegg.com/gigabyte-b760m-gaming-x-ddr4-motherboards-intel/p/1JW-000J-007M5?Item=9SIBMM4KDG2996\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-Me9wQ0S_HvBYxBtqhmZg.Q\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -11624,7 +11624,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "110.16",
+                "price": "85.23",
                 "price_link": "https://www.newegg.com/gigabyte-motherboards-intel/p/1JW-000J-007X6?Item=9SIBMM4KD05215\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-CUJoHHJYsObqfftV7b5srw\u0026ASID=\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -11661,7 +11661,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/gigabyte-b850-ai-top-atx-motherboard-amd-b850-am5/p/N82E16813145543?Item=9SIA6ZPKFM1287\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-CpFhQ.cONiNkr_w0KWzGyw\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583"
+                "price_link": "https://www.newegg.com/gigabyte-b850-ai-top-atx-motherboard-amd-b850-am5/p/N82E16813145543?Item=N82E16813145543\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-6Xu9nx1FwQ3BwIFte0AKnw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "ram_max": 256,
@@ -11711,15 +11711,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "199.99",
-                "price_link": "https://www.newegg.com/gigabyte-b850-aorus-elite-wifi7-atx-motherboard-amd-b850-am5/p/N82E16813145545?Item=N82E16813145545\u0026ranSiteID=nwUw4CS3F2g-KTW3Yo9FgBzu4KGUgNePUg\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "207.25",
                 "price_link": "https://amzn.to/4g8eZU9"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "229.99",
+                "price_link": "https://www.newegg.com/gigabyte-b850-aorus-elite-wifi7-atx-motherboard-amd-b850-am5/p/N82E16813145545?Item=N82E16813145545\u0026ranSiteID=nwUw4CS3F2g-KTW3Yo9FgBzu4KGUgNePUg\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM"
             }
         ],
         "ram_max": 256,
@@ -11870,15 +11870,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "169.99",
-                "price_link": "https://www.newegg.com/gigabyte-b850-gaming-wifi6-atx-motherboard-amd-b850-am5/p/N82E16813145548?Item=N82E16813145548\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ydODPv_GCc5xooaoJweOJQ\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "179.99",
                 "price_link": "https://amzn.to/47rFz8F"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "179.99",
+                "price_link": "https://www.newegg.com/gigabyte-b850-gaming-wifi6-atx-motherboard-amd-b850-am5/p/N82E16813145548?Item=N82E16813145548\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ydODPv_GCc5xooaoJweOJQ\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             }
         ],
         "ram_max": 256,
@@ -11926,7 +11926,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.99",
+                "price": "159.99",
                 "price_link": "https://www.newegg.com/gigabyte-b850-gaming-x-wifi6e-atx-motherboard-amd-b850-am5/p/N82E16813145546?Item=N82E16813145546\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-RqXrUuRmrTevQ5IINLMqCw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             },
             {
@@ -11980,15 +11980,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
+                "platform": "newegg",
                 "price": "259.99",
-                "price_link": "https://amzn.to/3VB4BuF"
+                "price_link": "https://www.newegg.com/gigabyte-b850i-aorus-pro-mini-itx-motherboard-amd-b850-am5/p/N82E16813145552?Item=N82E16813145552\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-xSfLrATA52nYdS.zU2PAXQ\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "309.99",
-                "price_link": "https://www.newegg.com/gigabyte-b850i-aorus-pro-mini-itx-motherboard-amd-b850-am5/p/N82E16813145552?Item=N82E16813145552\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-xSfLrATA52nYdS.zU2PAXQ\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "259.99",
+                "price_link": "https://amzn.to/3VB4BuF"
             }
         ],
         "ram_max": 128,
@@ -12197,7 +12197,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "169.99",
+                "price": "164.99",
                 "price_link": "https://www.newegg.com/gigabyte-b850m-gaming-x-wifi6e-micro-atx-motherboard-amd-b850-am5/p/N82E16813145550?Item=N82E16813145550\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-8x2UrYhPU2vcR3qkfZb81g\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -12311,7 +12311,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "149.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/gigabyte-b860-eagle-wifi6e-atx-motherboard-intel-b860-lga-1851/p/N82E16813145555?Item=N82E16813145555\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-FmOnf.j_WIb7MtVn1uEB5w\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -12420,7 +12420,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/gigabyte-b860m-aorus-elite-wifi6e-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813145558?Item=N82E16813145558\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-DR.LZJ7dDudgk9ZR4dv0VA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
+                "price_link": "https://www.newegg.com/gigabyte-b860m-aorus-elite-wifi6e-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813145558?Item=9SIAFVFKF37335\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-RoitNb6DHnR2Zqk5XuEX.A\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
         "ram_max": 256,
@@ -12452,7 +12452,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/gigabyte-b860m-aorus-elite-wifi6e-ice-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813145557?Item=N82E16813145557\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-i14oKJ71Avc4JaYJBVp1TQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM"
+                "price_link": "https://www.newegg.com/gigabyte-b860m-aorus-elite-wifi6e-ice-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813145557?Item=9SIAFVFKFA5688\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-sk9qEIvb5dpiHJhnCZrCnA\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
         "ram_max": 256,
@@ -12553,7 +12553,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "199.63",
                 "price_link": "https://www.newegg.com/gigabyte-b860m-ds3h-wifi6e-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813145561?Item=9SIA7ABKGF4185\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-AUbhEF1AUiMP.FFfCJ8LBQ\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -12617,7 +12617,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "164.99",
                 "price_link": "https://www.newegg.com/gigabyte-b860m-gaming-x-wifi6e-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813145559?Item=N82E16813145559\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASID=\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-8iKlXl3VuOz11UCziLb4EA\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             },
             {
@@ -12931,7 +12931,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "235.68",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/p/1HD-0002-00243?Item=9SIA7ABKFJ5463\u0026ranSiteID=nwUw4CS3F2g-caJW9cmSUmh5R6z50OlmOA\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -13118,7 +13118,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "600.00",
+                "price": "479.26",
                 "price_link": "https://www.newegg.com/gigabyte-x570s-aorus-master-atx-amd-motherboard-amd-x570-am4/p/N82E16813145331?Item=9SIBMM4KF05670\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranSiteID=nwUw4CS3F2g-ltrt7P8tYW8u0O4XetsTkA\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1"
             }
         ],
@@ -13369,7 +13369,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "289.99",
+                "price": "259.99",
                 "price_link": "https://www.newegg.com/gigabyte-x870-aorus-elite-wifi7-ice-atx-motherboard-amd-x870-am5/p/N82E16813145518?Item=N82E16813145518\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ew702hKWwJD_PTDV2c8mZA\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026ASUBID="
             },
             {
@@ -13522,15 +13522,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "259.99",
-                "price_link": "https://amzn.to/4m36QSn"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/gigabyte-x870-gaming-x-wifi7-atx-motherboard-amd-x870-am5/p/N82E16813145520?Item=9SIA6KXKE78305\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-NKEFLIBNZLGFUmK3x9SNSQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "289.99",
-                "price_link": "https://www.newegg.com/gigabyte-x870-gaming-x-wifi7-atx-motherboard-amd-x870-am5/p/N82E16813145520?Item=9SIA6KXKE78305\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-NKEFLIBNZLGFUmK3x9SNSQ\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM"
+                "platform": "amazon",
+                "price": "259.99",
+                "price_link": "https://amzn.to/4m36QSn"
             }
         ],
         "ram_max": 256,
@@ -13625,7 +13625,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "399.99",
+                "price": "379.99",
                 "price_link": "https://www.newegg.com/gigabyte-x870e-aorus-master-atx-motherboard-amd-x870e-am5/p/N82E16813145514?Item=N82E16813145514\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-lXmCSenyxJdIiLjjpv1b5g\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly"
             },
             {
@@ -13677,7 +13677,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "279.99",
+                "price": "289.99",
                 "price_link": "https://www.newegg.com/gigabyte-x870e-aorus-pro-atx-motherboard-amd-x870e-am5/p/N82E16813145516?Item=N82E16813145516\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-.mYhEfRXTL.zzT_JfYaeyQ\u0026ranMID=44583\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
@@ -13728,7 +13728,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "319.99",
+                "price": "299.99",
                 "price_link": "https://www.newegg.com/gigabyte-x870e-aorus-pro-ice-atx-motherboard-amd-x870e-am5/p/N82E16813145515?Item=N82E16813145515\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-w5UVIeseBdIjpyheU5pqUg\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             },
             {
@@ -13779,7 +13779,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "338.39",
+                "price": "252.34",
                 "price_link": "https://www.newegg.com/gigabyte-z690-aorus-elite-ax-ddr4-atx-intel-motherboard-intel-z690-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813145350?Item=9SIBMM4K6D7511\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-XX5SgOlS_lCyGUO4JrcYug\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908"
             },
             {
@@ -13909,7 +13909,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "343.05",
+                "price": "271.47",
                 "price_link": "https://www.newegg.com/gigabyte-z690-gaming-x-ddr4-atx-intel-motherboard-intel-z690-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813145347?Item=9SIBMM4K6D6692\u0026ranSiteID=nwUw4CS3F2g-jMYtQ_dpnPBmr80v2xgbPw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly"
             },
             {
@@ -14003,7 +14003,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "274.29",
+                "price": "229.30",
                 "price_link": "https://www.newegg.com/gigabyte-z690-ud-ddr4-atx-intel-motherboard-intel-z690-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813145349?Item=9SIBWH3K9Z5007\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-vS5pI5Mm8YYleFh.Mp1x2g\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583"
             }
         ],
@@ -14197,7 +14197,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "363.82",
+                "price": "337.63",
                 "price_link": "https://www.newegg.com/gigabyte-z790-aorus-elite-ax-ddr4-atx-motherboard-intel-z790-lga-1700/p/N82E16813145419?Item=9SIBWH3KBE5385\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-fgPFABp7TL1w7sho7ZNokQ\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -14256,7 +14256,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "482.22",
+                "price": "311.13",
                 "price_link": "https://www.newegg.com/gigabyte-z790-aorus-elite-ax-ice-atx-z790-motherboard-intel-z790-express-chipset-lga-1700/p/N82E16813145480?Item=9SIBWH3KEB5514\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-BYdeq8C2SA_TxaxlhClT5g\u0026ranMID=44583\u0026ASID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -14360,7 +14360,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "490.15",
+                "price": "424.23",
                 "price_link": "https://www.newegg.com/gigabyte-z790-aorus-master-extended-atx-motherboard-intel-z790-lga-1700/p/N82E16813145415?Item=9SIBWH3KAS3216\u0026ranSiteID=nwUw4CS3F2g-ubeKJiZChXaKKwrYf79Tbw\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -14464,7 +14464,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "2395.81",
+                "price": "2175.31",
                 "price_link": "https://www.newegg.com/gigabyte-z790-aorus-xtreme-x-extended-atx-motherboard-intel-z790-express-chipset-lga-1700/p/N82E16813145475?Item=9SIBWH3KAS3272\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-FXZbmDNQldJ4DaRD_2XSLw\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -14751,7 +14751,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "245.84",
+                "price": "202.52",
                 "price_link": "https://www.newegg.com/gigabyte-z790-ud-ax-motherboards-intel/p/1JW-000J-00791?Item=9SIBMM4KC24775\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-7KdqqY2O0TGnfmREldkEPA\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             },
             {
@@ -14808,7 +14808,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "538.51",
+                "price": "482.79",
                 "price_link": "https://www.newegg.com/gigabyte-z790i-aorus-ultra-mini-itx-motherboard-intel-z790-lga-1700/p/N82E16813145452?Item=9SIBWH3KD56751\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-lnbIvidgcCf9IZQqPq019g\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID="
             }
         ],
@@ -14853,8 +14853,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "254.03",
-                "price_link": "https://www.newegg.com/gigabyte-motherboards-intel/p/1JW-000J-007A7?Item=9SIBWH3K9U8666\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-6hB4cm6gdt4vLsZt28cJ4Q\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583"
+                "price": "227.63",
+                "price_link": "https://www.newegg.com/gigabyte-z790m-aorus-elite-ax-ice-micro-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813145503?srsltid=AfmBOop6n-nttPRaAHVXxtxc5VcAUieuNo9y0SEIaNgfMbCpBP_KqWVP"
             }
         ],
         "ram_max": 192,
@@ -14949,7 +14949,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "259.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/gigabyte-z890-aero-g-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145528?Item=N82E16813145528\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-4BBVLyE64Ga_rz5Pg.G0pA\u0026ranMID=44583\u0026ASID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             },
             {
@@ -15006,7 +15006,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/gigabyte-z890-ai-top-extended-atx-motherboard-intel-z890-lga-1851/p/N82E16813145540?Item=9SIA6ZPKFM1301\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-_pfwBV0STZwdB9S6BJ7GSA\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM"
+                "price_link": "https://www.newegg.com/gigabyte-z890-ai-top-extended-atx-motherboard-intel-z890-lga-1851/p/N82E16813145540?Item=N82E16813145540\u0026ranSiteID=nwUw4CS3F2g-h3rRn9EzpU.HSXuoIclvBw\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranEAID=3815908\u0026utm_medium=affiliate"
             }
         ],
         "ram_max": 256,
@@ -15179,8 +15179,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "295.55",
-                "price_link": "https://www.newegg.com/gigabyte-z890-aorus-elite-x-ice-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145525?Item=9SIBDRXKGH7571\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-y3GNgktUknaERGBBw7zPZg\u0026ranEAID=3815908\u0026ASUBID=\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
+                "price": "289.99",
+                "price_link": "https://www.newegg.com/gigabyte-z890-aorus-elite-x-ice-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145525?Item=N82E16813145525\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-6b1f9pyRh2fiDoGvvN299A\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
         "ram_max": 256,
@@ -15234,7 +15234,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "399.99",
+                "price": "349.99",
                 "price_link": "https://www.newegg.com/gigabyte-z890-aorus-master-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145523?Item=N82E16813145523\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-YZpWj8HiaJzLuihtXkb62A\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             },
             {
@@ -15296,7 +15296,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "589.99",
+                "price": "549.99",
                 "price_link": "https://www.newegg.com/gigabyte-z890-aorus-master-ai-top-extended-atx-motherboard-intel-z890-express-lga-1851/p/N82E16813145542?Item=N82E16813145542\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-X99jFAMhGJLs41PXxOMGRA\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -15352,7 +15352,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "269.99",
+                "price": "242.99",
                 "price_link": "https://www.newegg.com/gigabyte-z890-aorus-pro-ice-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145524?Item=N82E16813145524\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-wjnazBJ1k4eQreAn1Tu6zA\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ACRID=1"
             },
             {
@@ -15414,7 +15414,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "879.99",
+                "price": "849.99",
                 "price_link": "https://www.newegg.com/gigabyte-z890-aorus-xtreme-ai-top-extended-atx-motherboard-intel-z890-lga-1851/p/N82E16813145541?Item=N82E16813145541\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-nxseNNQCzZu2uohsIzE7Zw\u0026ranMID=44583\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM"
             },
             {
@@ -15475,15 +15475,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "224.99",
-                "price_link": "https://amzn.to/3I76xIi"
+                "platform": "newegg",
+                "price": "209.99",
+                "price_link": "https://www.newegg.com/gigabyte-z890-eagle-wifi7-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145530?Item=N82E16813145530\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-5xMQ9qNIszHQyXtyzJhamw\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1"
             },
             {
                 "region": "US",
-                "platform": "newegg",
+                "platform": "amazon",
                 "price": "224.99",
-                "price_link": "https://www.newegg.com/gigabyte-z890-eagle-wifi7-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145530?Item=9SIAAPKKGE6552\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-DrYcVv9SvmlNT_2MkbhECg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "price_link": "https://amzn.to/3I76xIi"
             }
         ],
         "ram_max": 256,
@@ -15532,7 +15532,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "229.99",
+                "price": "161.99",
                 "price_link": "https://www.newegg.com/gigabyte-z890-gaming-x-wifi7-atx-motherboard-intel-z890-lga-1851/p/N82E16813145529?Item=N82E16813145529\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-m2ocbFC5WEYaAEpngDJx.g\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1"
             },
             {
@@ -15643,15 +15643,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "319.99",
-                "price_link": "https://amzn.to/4m1Fc8o"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/gigabyte-z890i-aorus-ultra-mini-itx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145534?Item=N82E16813145534\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-_TuUAB_2knMbmRtAQr7V7Q\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "349.99",
-                "price_link": "https://www.newegg.com/gigabyte-z890i-aorus-ultra-mini-itx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145534?Item=N82E16813145534\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-_TuUAB_2knMbmRtAQr7V7Q\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
+                "platform": "amazon",
+                "price": "319.99",
+                "price_link": "https://amzn.to/4m1Fc8o"
             }
         ],
         "ram_max": 128,
@@ -15699,15 +15699,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "209.99",
-                "price_link": "https://amzn.to/4m1zEdS"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/gigabyte-z890m-aorus-elite-wf7-ice-micro-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145532?Item=N82E16813145532\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-SnHkBxmYgiYPvCofZL6Nyw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "219.99",
-                "price_link": "https://www.newegg.com/gigabyte-z890m-aorus-elite-wf7-ice-micro-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145532?Item=N82E16813145532\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-SnHkBxmYgiYPvCofZL6Nyw\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026AFFID=3815908"
+                "platform": "amazon",
+                "price": "209.99",
+                "price_link": "https://amzn.to/4m1zEdS"
             }
         ],
         "ram_max": 256,
@@ -15754,15 +15754,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "169.99",
-                "price_link": "https://amzn.to/47B3pip"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/gigabyte-z890m-gaming-x-micro-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145533?Item=N82E16813145533\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-5Os.PuQUjjV6aBqSjr1MFg\u0026ranMID=44583\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "179.99",
-                "price_link": "https://www.newegg.com/gigabyte-z890m-gaming-x-micro-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813145533?Item=N82E16813145533\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-5Os.PuQUjjV6aBqSjr1MFg\u0026ranMID=44583\u0026AFFID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
+                "platform": "amazon",
+                "price": "169.99",
+                "price_link": "https://amzn.to/47B3pip"
             }
         ],
         "ram_max": 256,
@@ -15810,15 +15810,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "69.99",
-                "price_link": "https://www.newegg.com/msi-a520m-a-pro-micro-atx-amd-motherboard-amd-a520-am4/p/N82E16813144364?Item=9SIBWH3KBE5433\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-bepCU6Nehxb1l8ght9XlKA\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ACRID=1"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "70.99",
                 "price_link": "https://amzn.to/4n98O5f"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "71.99",
+                "price_link": "https://www.newegg.com/msi-a520m-a-pro-micro-atx-amd-motherboard-amd-a520-am4/p/N82E16813144364?Item=9SIBWH3KBE5433\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-bepCU6Nehxb1l8ght9XlKA\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ACRID=1"
             }
         ],
         "ram_max": 64,
@@ -15864,7 +15864,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "100.99",
                 "price_link": "https://www.newegg.com/msi-b550-a-pro-atx-amd-motherboard-amd-b550-am4/p/N82E16813144330?Item=N82E16813144330\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-0d5eUQfND12fD6FXQOu6UA\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908"
             },
             {
@@ -16015,7 +16015,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/jginyue-4000-b550m-pro-micro-atx-motherboards-amd-amd-b550-am4/p/2MG-008B-00002?Item=9SIB2X5KE31083\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-J99N2SANchmm2wxBFQeG0Q\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026ranEAID=3815908"
             }
         ],
@@ -16062,7 +16062,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "89.99",
+                "price": "106.99",
                 "price_link": "https://www.newegg.com/msi-b550m-pro-vdh-wifi-micro-atx-amd-motherboard-amd-b550-am4/p/N82E16813144331?Item=N82E16813144331\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-h1BrhMO_7MzcXTG0FnNKKQ\u0026ASUBID=\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -16159,15 +16159,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "229.99",
-                "price_link": "https://amzn.to/4lW6aOx"
+                "platform": "newegg",
+                "price": "179.99",
+                "price_link": "https://www.newegg.com/msi-b650m-project-zero-micro-atx-motherboard-amd-b650-am5/p/N82E16813144643?Item=N82E16813144643\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-2OHWavGprbauBL_KPJw67g\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "275.99",
-                "price_link": "https://www.newegg.com/msi-b650m-project-zero-micro-atx-motherboard-amd-b650-am5/p/N82E16813144643?Item=N82E16813144643\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-2OHWavGprbauBL_KPJw67g\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate"
+                "platform": "amazon",
+                "price": "229.99",
+                "price_link": "https://amzn.to/4lW6aOx"
             }
         ],
         "ram_max": 256,
@@ -16210,15 +16210,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "182.19",
-                "price_link": "https://www.newegg.com/msi-b760-gaming-plus-wifi-atx-motherboards-intel-intel-b760-lga-1700/p/N82E16813144600?Item=9SIA24GJYP6390\u0026ranSiteID=nwUw4CS3F2g-Ai0VD9Q3DReWw99x4Wh.Lg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "183.99",
                 "price_link": "https://amzn.to/3VnY32J"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "209.99",
+                "price_link": "https://www.newegg.com/msi-b760-gaming-plus-wifi-atx-motherboards-intel-intel-b760-lga-1700/p/N82E16813144600?Item=N82E16813144600\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-rk34jEtF1G7jPNZgg8kxLQ\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026ranEAID=3815908\u0026ACRID=1\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
         "ram_max": 192,
@@ -16303,7 +16303,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "153.85",
+                "price": "138.93",
                 "price_link": "https://www.newegg.com/msi-motherboards-intel/p/1JW-001M-00H02?srsltid=AfmBOootezL82CW-FR_5vO7dKxBl--UnhznVa6LH-dq37R_5Q2HuGMGp"
             }
         ],
@@ -16423,7 +16423,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "169.99",
                 "price_link": "https://www.newegg.com/msi-b760m-project-zero-micro-atx-motherboards-intel-b760-lga-1700/p/N82E16813144646?Item=N82E16813144646\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-otc8s0vPB.I4OhJWkokIHQ\u0026ranEAID=3815908\u0026ranMID=44583\u0026AFFID=3815908\u0026ACRID=1"
             },
             {
@@ -16522,7 +16522,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "169.99",
                 "price_link": "https://www.newegg.com/msi-b850-gaming-plus-wifi-atx-motherboard-amd-b850-am5/p/N82E16813144688?Item=N82E16813144688\u0026ranSiteID=nwUw4CS3F2g-el2C2_qpgRJvvR2W3Oz7_g\u0026ACRID=1\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFNAME=Pangoly"
             }
         ],
@@ -16570,8 +16570,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "209.99",
-                "price_link": "https://www.newegg.com/msi-b860-gaming-plus-wifi-atx-motherboard-intel-b860-lga-1851/p/N82E16813144693?Item=N82E16813144693\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-6kuyFiA4_b75fSQ_oEdWNA\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/msi-b860-gaming-plus-wifi-atx-motherboard-intel-b860-lga-1851/p/N82E16813144693?Item=9SIA24GKF28511\u0026ranSiteID=nwUw4CS3F2g-ts_t9aUmcYtJOhY6WsD_yA\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908"
             }
         ],
         "ram_max": 256,
@@ -16621,7 +16621,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/msi-b860m-gaming-plus-wifi-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813144700?Item=N82E16813144700\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-ZAL9R4c_PD58h.6dvfvDmw\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             }
         ],
@@ -16819,7 +16819,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "148.41",
+                "price": "104.12",
                 "price_link": "https://www.newegg.com/msi-mag-b550m-bazooka-micro-atx-amd-motherboard-amd-b550-am4/p/N82E16813144329?Item=9SIBWH3KBA5488\u0026ranSiteID=nwUw4CS3F2g-Ayrw9WMKRTJIST3tU_Q3ag\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             }
         ],
@@ -16868,7 +16868,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "152.10",
+                "price": "138.26",
                 "price_link": "https://www.newegg.com/msi-amd-b550-mag-b550m-mortar-wifi-micro-atx-amd-motherboard-am4/p/N82E16813144327?srsltid=AfmBOorU12XxD4fnLhL0u_u-rbJkqZv9qqDTbTutd1XB9j92TlrPDTn1"
             }
         ],
@@ -16961,7 +16961,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "209.35",
+                "price": "155.02",
                 "price_link": "https://www.newegg.com/msi-mag-b660m-mortar-wifi-ddr4-micro-atx-intel-motherboard-intel-b660-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813144522?srsltid=AfmBOorD0DHs8YJRTII7BZVu5wlpc4g6vC2jq1dLWjW_G-XHvKxzLOCI"
             }
         ],
@@ -17116,7 +17116,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "218.99",
+                "price": "219.99",
                 "price_link": "https://www.newegg.com/msi-mag-b860m-mortar-wifi-micro-atx-motherboard-intel-b860-lga-1851/p/N82E16813144701?Item=N82E16813144701\u0026ranSiteID=nwUw4CS3F2g-.vqWaoJ4DgNm4LdAZGyf_w\u0026ranEAID=3815908\u0026ASID=\u0026ACRID=1\u0026AFFNAME=Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -17168,7 +17168,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "373.06",
+                "price": "301.01",
                 "price_link": "https://www.newegg.com/msi-mag-x570-tomahawk-wifi-atx-amd-motherboard-amd-x570-am4/p/N82E16813144310?Item=9SIBMM4K740452\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-sBEo61xzE8nWVckXPTWzWw\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -17216,7 +17216,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "360.51",
+                "price": "271.76",
                 "price_link": "https://www.newegg.com/msi-mag-x570s-tomahawk-max-wifi-atx-amd-motherboard-amd-x570-am4/p/N82E16813144471?Item=9SIBWH3K9T9207\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-6Z.T9KfCkJJXwFFP_qztZw\u0026ASUBID=\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
@@ -17270,15 +17270,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/msi-mag-x870-tomahawk-wifi-atx-motherboard-amd-x870-am5/p/N82E16813144667?Item=9SIA6ZPKC74853\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-lBuwis8npGq4IaPqD05jiQ\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "269.99",
                 "price_link": "https://amzn.to/4pbhHMS"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "276.89",
+                "price_link": "https://www.newegg.com/msi-mag-x870-tomahawk-wifi-atx-motherboard-amd-x870-am5/p/N82E16813144667?Item=9SIA6ZPKC74853\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ranSiteID=nwUw4CS3F2g-lBuwis8npGq4IaPqD05jiQ\u0026ranMID=44583\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly"
             }
         ],
         "ram_max": 256,
@@ -17478,7 +17478,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "279.99",
+                "price": "229.99",
                 "price_link": "https://www.newegg.com/msi-mag-z890-tomahawk-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144669?Item=N82E16813144669\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-SpKWwe8TtvSPhl4t_XYzkQ\u0026ACRID=1\u0026ASID=\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             }
         ],
@@ -17531,7 +17531,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.03",
+                "price": "231.12",
                 "price_link": "https://www.newegg.com/msi-meg-b550-unify-atx-amd-motherboard-amd-b550-am4/p/N82E16813144375?Item=9SIBWH3KCK8349\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-JMeKtCkADYz9wlp64uyLVg\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -17583,7 +17583,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "292.80",
+                "price": "281.14",
                 "price_link": "https://www.newegg.com/msi-meg-b550-unify-x-atx-amd-motherboard-amd-b550-am4/p/N82E16813144374?Item=9SIBWH3KCK8350\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-CISRCays9uCe4O0Fd3vrAA\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranEAID=3815908\u0026ASID=\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ranMID=44583"
             }
         ],
@@ -17636,7 +17636,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "573.85",
+                "price": "556.23",
                 "price_link": "https://www.newegg.com/msi-meg-x570s-ace-max-atx-amd-motherboard-amd-x570-am4/p/N82E16813144491?Item=9SIBWH3K9T9575\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-HHClOh1nZEEGy7bSumFuDQ\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -17679,7 +17679,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "1099.99",
+                "price": "899.99",
                 "price_link": "https://www.newegg.com/msi-meg-x870e-godlike-extended-atx-motherboard-amd-x870e-am5/p/N82E16813144678?Item=N82E16813144678\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-DiBrvi60z4h3valKGyNfpA\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -17728,7 +17728,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "569.13",
+                "price": "564.12",
                 "price_link": "https://www.newegg.com/msi-meg-z790-ace-extended-atx-motherboard-intel-z790-lga-1700/p/N82E16813144562?Item=9SIBMM4KH30997\u0026utm_medium=affiliate\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-k0nVrahNZOF0JH85BMZlzg\u0026ASUBID=\u0026ranEAID=3815908\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             },
             {
@@ -17777,7 +17777,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "659.99",
+                "price": "636.99",
                 "price_link": "https://www.newegg.com/msi-meg-z890-ace-atx-motherboard-intel-z890-lga-1851/p/N82E16813144673?Item=N82E16813144673\u0026AFFID=3815908\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-PB9pxezwDtQDd8rLD03Fmw\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026ASID=\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -17882,15 +17882,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "674.13",
-                "price_link": "https://amzn.to/4m22cUy"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/msi-meg-z890-unify-x-atx-motherboard-intel-z890-lga-1851/p/N82E16813144683?Item=N82E16813144683\u0026utm_medium=affiliate\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-x9OdEJxVizkGt3_ReAccjw\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASUBID="
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "688.99",
-                "price_link": "https://www.newegg.com/msi-meg-z890-unify-x-atx-motherboard-intel-z890-lga-1851/p/N82E16813144683?Item=N82E16813144683\u0026utm_medium=affiliate\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-x9OdEJxVizkGt3_ReAccjw\u0026ranMID=44583\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026ASUBID="
+                "platform": "amazon",
+                "price": "674.13",
+                "price_link": "https://amzn.to/4m22cUy"
             }
         ],
         "ram_max": 128,
@@ -17944,7 +17944,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "99.99",
+                "price": "89.99",
                 "price_link": "https://www.newegg.com/msi-mpg-b550-gaming-plus-atx-amd-motherboard-amd-b550-am4/p/N82E16813144325?Item=N82E16813144325\u0026utm_medium=affiliate\u0026ranSiteID=nwUw4CS3F2g-7cN6DrGSt.WVYPvZRDn1Og\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026AFFID=3815908\u0026ranEAID=3815908\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ranMID=44583"
             },
             {
@@ -18044,7 +18044,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "303.99",
+                "price": "229.99",
                 "price_link": "https://www.newegg.com/msi-mpg-b850-edge-ti-wifi-atx-motherboard-amd-b850-am5/p/N82E16813144696?Item=N82E16813144696\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-JZQjojbrmaB7pt42pHTZ5g\u0026ranEAID=3815908\u0026ACRID=1\u0026ASID=\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908"
             }
         ],
@@ -18094,7 +18094,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "645.46",
+                "price": "475.12",
                 "price_link": "https://www.newegg.com/msi-mpg-x570s-carbon-max-wifi-atx-amd-motherboard-amd-x570-am4/p/N82E16813144493?Item=9SIBMM4KDH4190\u0026ranSiteID=nwUw4CS3F2g-MAKKmRsJDRXAW1hDgW35YQ\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly"
             }
         ],
@@ -18149,7 +18149,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "459.99",
+                "price": "349.99",
                 "price_link": "https://www.newegg.com/msi-mpg-x870e-carbon-wifi-atx-motherboard-amd-x870e-am5/p/N82E16813144666?Item=N82E16813144666\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-4lzhabCbGcqqOPuckx2P2Q\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -18204,7 +18204,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "309.35",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/msi-mpg-x870e-edge-ti-wifi-atx-motherboards-amd-amd-x870e-am5/p/N82E16813144698?Item=9SIA6ZPKDH0020\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-5WL.4V1ob_mJVHv9H5qngA\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026ACRID=1\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly"
             },
             {
@@ -18242,7 +18242,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "586.00",
+                "price": "290.16",
                 "price_link": "https://www.newegg.com/msi-mpg-z690-carbon-wifi-atx-intel-motherboard-intel-z690-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813144484?Item=9SIBWH3KC93651\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-ZKi4iz9MUP8oZpbRzYFoZg\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -18281,7 +18281,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "456.99",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/msi-mpg-z790-carbon-max-wifi-ii-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813144658?Item=N82E16813144658\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-N9kLC2bW8bb45lGI0StOFw\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
             },
             {
@@ -18333,7 +18333,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "368.80",
+                "price": "297.56",
                 "price_link": "https://www.newegg.com/msi-mpg-z790-carbon-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144563?Item=9SIBWH3KAK7183\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-i.XL5fLJiSNbBtxNNaDckA\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             }
         ],
@@ -18379,7 +18379,7 @@
                 "region": "US",
                 "platform": "newegg",
                 "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/msi-mpg-z790-edge-ti-max-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144632?Item=9SIA4REKAX9768\u0026ranSiteID=nwUw4CS3F2g-Qn510PAjW5Etc6SXbUpCPQ\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM"
+                "price_link": "https://www.newegg.com/msi-mpg-z790-edge-ti-max-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144632?Item=N82E16813144632\u0026ranSiteID=nwUw4CS3F2g-E8JeEweA82lXcZOvuiiA.A\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             },
             {
                 "region": "US",
@@ -18479,7 +18479,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "488.43",
+                "price": "288.16",
                 "price_link": "https://www.newegg.com/msi-mpg-z790-edge-wifi-ddr4-atx-motherboard-intel-z790-lga-1700/p/N82E16813144565?Item=9SIBWH3K9T9297\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-redcwxv_eJGrmFpYeGu2YQ\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908"
             }
         ],
@@ -18576,15 +18576,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "359.49",
-                "price_link": "https://amzn.to/3I8X5UM"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/msi-mpg-z890-carbon-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144674?Item=N82E16813144674\u0026ACRID=1\u0026ranEAID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-kG_GjcDls8FQa8JZXInO3Q\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "379.99",
-                "price_link": "https://www.newegg.com/msi-mpg-z890-carbon-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144674?Item=N82E16813144674\u0026ACRID=1\u0026ranEAID=3815908\u0026ASID=\u0026AFFNAME=Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-kG_GjcDls8FQa8JZXInO3Q\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
+                "platform": "amazon",
+                "price": "359.49",
+                "price_link": "https://amzn.to/3I8X5UM"
             }
         ],
         "ram_max": 256,
@@ -18636,7 +18636,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "269.99",
+                "price": "299.99",
                 "price_link": "https://www.newegg.com/msi-mpg-z890-edge-ti-atx-motherboards-intel-intel-z890-lga-1851/p/N82E16813144677?Item=N82E16813144677\u0026nm_mc=AFC-RAN-COM\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-KOlUqEa_JBx.PnZppGf.5g\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026ASID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASUBID=\u0026ACRID=1\u0026cm_mmc=afc-ran-com-_-Pangoly"
             }
         ],
@@ -18687,15 +18687,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "108.99",
-                "price_link": "https://amzn.to/3VCFMOY"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/msi-pro-b550m-vc-wifi-matx-amd-motherboard-amd-b550-am4/p/N82E16813144548?Item=9SIA25VKFK6466\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASID=\u0026ACRID=1\u0026ASUBID=\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-dzij0BoKKc38k_JyVGrfOw\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "119.99",
-                "price_link": "https://www.newegg.com/msi-pro-b550m-vc-wifi-matx-amd-motherboard-amd-b550-am4/p/N82E16813144548?Item=N82E16813144548\u0026ranSiteID=nwUw4CS3F2g-FMf_pFJllQR_gxz8.imW8A\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
+                "platform": "amazon",
+                "price": "108.99",
+                "price_link": "https://amzn.to/3VCFMOY"
             }
         ],
         "ram_max": 128,
@@ -18774,8 +18774,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/msi-pro-b650m-p-micro-atx-motherboard-amd-b650-am5/p/N82E16813144607?Item=9SIA24GK9B8263\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-bXzvjxKvYLiksHbyZZ6_fQ\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
+                "price": "129.99",
+                "price_link": "https://www.newegg.com/msi-pro-b650m-p-micro-atx-motherboard-amd-b650-am5/p/N82E16813144607?Item=N82E16813144607\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-GETDwNRBtwNBdg0hOlr1nw\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026utm_medium=affiliate"
             },
             {
                 "region": "US",
@@ -18993,7 +18993,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "202.99",
+                "price": "205.99",
                 "price_link": "https://www.newegg.com/msi-pro-b760m-a-wifi-ddr4-micro-atx-motherboard-intel-b760-lga-1700/p/N82E16813144584?srsltid=AfmBOopnc_hd_Vo8blDrWWGRpP05qFs7c1JhBLN16TD86iYhMkDbbp8X"
             }
         ],
@@ -19089,7 +19089,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "119.76",
+                "price": "138.63",
                 "price_link": "https://www.newegg.com/msi-motherboards-intel/p/1JW-001M-00GY8?srsltid=AfmBOoo86bXuz_UmUxFf-3_R09B4G0U9ff8-s-iasT0l_nRIr4bmynSY"
             }
         ],
@@ -19175,8 +19175,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "223.54",
-                "price_link": "https://www.newegg.com/msi-pro-b850-p-wifi-atx-motherboard-amd-b850-am5/p/N82E16813144689?Item=9SIA24GKF28510\u0026ranEAID=3815908\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-2SLcfF4sbjGzZGImMIbhCg\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly"
+                "price": "199.99",
+                "price_link": "https://www.newegg.com/msi-pro-b850-p-wifi-atx-motherboard-amd-b850-am5/p/N82E16813144689?Item=N82E16813144689\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-5.Kk_YobE.F1gwcyypTPFg\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ACRID=1\u0026AFFID=3815908\u0026ASUBID=\u0026utm_medium=affiliate"
             }
         ],
         "ram_max": 256,
@@ -19418,7 +19418,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "366.44",
+                "price": "324.58",
                 "price_link": "https://www.newegg.com/msi-pro-z690-a-ddr4-atx-intel-motherboard-intel-z690-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813144489?Item=9SIBWH3KC93653\u0026ACRID=1\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranMID=44583\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-1x672KCVyRsZZIV9h03V0g\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly"
             }
         ],
@@ -19468,7 +19468,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "379.00",
+                "price": "218.41",
                 "price_link": "https://www.newegg.com/msi-pro-z690-a-wifi-ddr4-atx-intel-motherboard-intel-z690-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813144488?Item=9SIBWH3K9Z4984\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ranSiteID=nwUw4CS3F2g-lbcbQF0AxfkYyZrARFYdDw\u0026ranEAID=3815908\u0026ranMID=44583\u0026ASID=\u0026AFFID=3815908\u0026utm_source=afc-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -19518,7 +19518,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "281.25",
+                "price": "224.24",
                 "price_link": "https://www.newegg.com/msi-pro-z690-p-ddr4-atx-intel-motherboard-intel-z690-lga-1700-dedicated-lga1700-mounting-bracket-is-required/p/N82E16813144490?Item=9SIBWH3KAV9751\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-1V65ShS7w.gTpZp4.znjnw\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID="
             }
         ],
@@ -19565,15 +19565,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "amazon",
-                "price": "257.33",
-                "price_link": "https://amzn.to/4genixS"
+                "platform": "newegg",
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/msi-pro-z790-a-max-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144634?Item=N82E16813144634\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-O7kb73LPcBGggSNGrl77dg\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ACRID=1\u0026AFFID=3815908\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026ranMID=44583"
             },
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "259.99",
-                "price_link": "https://www.newegg.com/msi-pro-z790-a-max-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144634?srsltid=AfmBOoonvb1Wvf2p7gOidWEJgdNS3xiBv4hW8UzWUI_FjXz6JB0Abex4"
+                "platform": "amazon",
+                "price": "257.33",
+                "price_link": "https://amzn.to/4genixS"
             }
         ],
         "ram_max": 192,
@@ -19618,7 +19618,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "306.25",
+                "price": "210.31",
                 "price_link": "https://www.newegg.com/msi-pro-z790-a-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144569?Item=9SIBMM4KCV1999\u0026ranSiteID=nwUw4CS3F2g-j8vwpdF2o51eSeDamyHCgw\u0026ACRID=1\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026utm_source=afc-Pangoly\u0026ASUBID=\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranMID=44583\u0026ranEAID=3815908\u0026AFFNAME=Pangoly"
             }
         ],
@@ -19660,7 +19660,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "260.15",
+                "price": "262.85",
                 "price_link": "https://www.newegg.com/msi-pro-z790-a-wifi-ddr4-atx-motherboard-intel-z790-lga-1700/p/N82E16813144570?Item=9SIBWH3KAS6030\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-qTPXom7FA5gmljzzyF5KxA\u0026ranEAID=3815908\u0026ranMID=44583\u0026ACRID=1\u0026AFFID=3815908\u0026AFFNAME=Pangoly"
             }
         ],
@@ -19712,7 +19712,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "209.99",
+                "price": "199.99",
                 "price_link": "https://www.newegg.com/msi-pro-z790-p-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144571?Item=N82E16813144571\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-kn0ORP3HhPO3oP8Rvd1dPA\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
@@ -19765,7 +19765,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "219.00",
+                "price": "275.59",
                 "price_link": "https://www.newegg.com/msi-pro-z790-p-wifi-ddr4-atx-motherboard-intel-z790-lga-1700/p/N82E16813144572?Item=9SIBDRXKEX1362\u0026ranSiteID=nwUw4CS3F2g-evgiseFzGjusUhBncfo80Q\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ACRID=1\u0026ranMID=44583\u0026ASID=\u0026nm_mc=AFC-RAN-COM\u0026AFFNAME=Pangoly\u0026ASUBID=\u0026ranEAID=3815908\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate"
             }
         ],
@@ -19862,7 +19862,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "464.40",
+                "price": "561.39",
                 "price_link": "https://www.newegg.com/msi-pro-z790-vc-wifi-atx-motherboards-intel-intel-z790-lga-1700/p/N82E16813144657?Item=9SIAD6HKHA0741\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-p8xT1zcGtcQZcAsVO8HMrw\u0026ranEAID=3815908\u0026ASUBID=\u0026ACRID=1\u0026AFFID=3815908"
             }
         ],
@@ -19905,8 +19905,8 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "209.99",
-                "price_link": "https://www.newegg.com/msi-pro-z890-a-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144670?Item=N82E16813144670\u0026nm_mc=AFC-RAN-COM\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranSiteID=nwUw4CS3F2g-_QkcNoxgRChp94HpGinfIA\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026AFFID=3815908"
+                "price": "Out of Stock",
+                "price_link": "https://www.newegg.com/msi-pro-z890-a-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144670?Item=9SIBYT0KG45592\u0026utm_medium=affiliate\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026ranSiteID=nwUw4CS3F2g-IgLcS5wX9CQFVYhyGExrUg\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026ranEAID=3815908\u0026nm_mc=AFC-RAN-COM\u0026ranMID=44583\u0026utm_campaign=afc-ran-com-_-Pangoly"
             },
             {
                 "region": "US",
@@ -19963,15 +19963,15 @@
         "prices": [
             {
                 "region": "US",
-                "platform": "newegg",
-                "price": "Out of Stock",
-                "price_link": "https://www.newegg.com/msi-pro-z890-p-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144672?Item=9SIA24GKE30221\u0026AFFNAME=Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ASUBID=\u0026nm_mc=AFC-RAN-COM\u0026ranSiteID=nwUw4CS3F2g-VYnQBSlVJ4j5LMI4zdaHQA\u0026ranEAID=3815908\u0026utm_medium=affiliate\u0026ranMID=44583\u0026ASID=\u0026ACRID=1\u0026utm_source=afc-Pangoly\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly"
-            },
-            {
-                "region": "US",
                 "platform": "amazon",
                 "price": "224.99",
                 "price_link": "https://amzn.to/47vJlhi"
+            },
+            {
+                "region": "US",
+                "platform": "newegg",
+                "price": "238.99",
+                "price_link": "https://www.newegg.com/msi-pro-z890-p-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144672?Item=N82E16813144672\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-7ASblfF0vq3tIi.r5yqkVw\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranEAID=3815908\u0026AFFID=3815908\u0026nm_mc=AFC-RAN-COM\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583"
             }
         ],
         "ram_max": 256,
@@ -20023,7 +20023,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "Out of Stock",
+                "price": "229.99",
                 "price_link": "https://www.newegg.com/msi-pro-z890-s-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144675?Item=N82E16813144675\u0026ranSiteID=nwUw4CS3F2g-3bxdXe.nZP90Z9ydyVpU8A\u0026utm_source=afc-Pangoly\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranEAID=3815908\u0026AFFNAME=Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -20072,7 +20072,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "199.99",
+                "price": "205.99",
                 "price_link": "https://www.newegg.com/msi-pro-z890-s-wifi-white-atx-motherboard-intel-z890-lga-1851/p/N82E16813144684?Item=N82E16813144684\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026AFFNAME=Pangoly\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026utm_medium=affiliate\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-6wJchReCzklzj4Y6kJcNDQ\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranMID=44583\u0026ASID="
             }
         ],
@@ -20124,7 +20124,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "227.97",
+                "price": "213.60",
                 "price_link": "https://www.newegg.com/msi-x670e-gaming-plus-wifi-atx-motherboards-amd-amd-x670-am5/p/N82E16813144647?Item=9SIA24GK9E9607\u0026ranEAID=3815908\u0026ranSiteID=nwUw4CS3F2g-O8RuEwJCx1FToqmTgLPpLg\u0026AFFNAME=Pangoly\u0026ASID=\u0026utm_source=afc-Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026ACRID=1\u0026ASUBID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026nm_mc=AFC-RAN-COM"
             }
         ],
@@ -20170,7 +20170,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "149.99",
                 "price_link": "https://www.newegg.com/msi-z790-gaming-plus-wifi-atx-motherboard-intel-z790-lga-1700/p/N82E16813144637?srsltid=AfmBOoo3k8-P_OMQymr9HcxgdPds5nerud_IRnU7pmT1TlegPafqm91a"
             }
         ],
@@ -20213,7 +20213,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "179.99",
+                "price": "189.99",
                 "price_link": "https://www.newegg.com/msi-z890-gaming-plus-wifi-atx-motherboard-intel-z890-lga-1851/p/N82E16813144671?Item=N82E16813144671\u0026AFFNAME=Pangoly\u0026ranSiteID=nwUw4CS3F2g-qjQfRQN3kiN17F4oxLaVAQ\u0026ACRID=1\u0026nm_mc=AFC-RAN-COM\u0026utm_source=afc-Pangoly\u0026ranEAID=3815908\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026utm_medium=affiliate\u0026ASUBID=\u0026ASID=\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026AFFID=3815908\u0026ranMID=44583"
             },
             {
@@ -20357,7 +20357,7 @@
         "chipset": "B550",
         "form_factor": "ATX",
         "id": "nzxt-n7-b550-black",
-        "img": "https://c1.neweggimages.com/productimage/nb640/AZF8D210901VJ8BJ.jpg",
+        "img": "https://c1.neweggimages.com/productimage/nb640/AG1PD210607LLHLJ.jpg",
         "m2_slot": 3,
         "name": "N7 B550 Black",
         "name_cn": "",
@@ -20469,7 +20469,7 @@
             {
                 "region": "US",
                 "platform": "newegg",
-                "price": "534.40",
+                "price": "Out of Stock",
                 "price_link": "https://www.newegg.com/nzxt-n7-b650e-black-atx-motherboard-am5/p/2MG-007A-00004?Item=9SIAD6HJKP9508\u0026utm_campaign=afc-ran-com-_-Pangoly\u0026cm_mmc=afc-ran-com-_-Pangoly\u0026ranMID=44583\u0026AFFNAME=Pangoly\u0026utm_medium=affiliate\u0026AFFID=3815908\u0026ASID=\u0026ranSiteID=nwUw4CS3F2g-3CYGOcC7yeHFNURzxNQ87A\u0026nm_mc=AFC-RAN-COM\u0026ranEAID=3815908\u0026ASUBID=\u0026utm_source=afc-Pangoly\u0026ACRID=1"
             }
         ],
